@@ -2,6 +2,8 @@
 
 This repo holds the public policies, processes, procedures, notes, and other files related to organizing the [Seattle GNU/Linux conference](http://seagl.org).
 
+SeaGL has an existing Google Drive which contains a lot of our historical documents. Whenever possible, we'll try to link to the relevant docs here or transfer them over as time allows. We're a bunch of volunteers though, so be patient with us. :-)
+
 ## Committees
 
 It takes a lot of committees to make a volunteer-run conference happen. Here are ours:
