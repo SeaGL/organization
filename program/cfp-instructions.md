@@ -124,3 +124,7 @@ All speakers and attendees of SeaGL must agree and adhere to the [Code of Conduc
 ## Code of Practice <a name="cop"></a>
 
 All members of the SeaGL Program Committee have agreed to operate according to our [Code of Practice](./code-of-practice.md).
+
+## Licensing
+
+Copyright the [AUTHORS](https://github.com/SeaGL/organization/blob/master/AUTHORS.md) and licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. Please see [LICENSE.txt](https://github.com/SeaGL/organization/blob/master/LICENSE.txt) for more information.

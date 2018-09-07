@@ -13,3 +13,7 @@ We're using the extra keynote slots to host people who haven't keynoted before, 
 1. The most important step: the voting. The entire SeaGL organising staff voted for each candidate in each group, selecting a value from 0 (I have no opinion on this nomination) to 5 (omgyesplz).
 
 That was about it. We then invited the candidates who received the most votes, and got to celebrate when they accepted! 
+
+## Licensing
+
+Copyright the [AUTHORS](https://github.com/SeaGL/organization/blob/master/AUTHORS.md) and licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. Please see [LICENSE.txt](https://github.com/SeaGL/organization/blob/master/LICENSE.txt) for more information.

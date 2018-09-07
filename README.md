@@ -27,4 +27,4 @@ Our conference management software repository is at [seagl/osem](https://github.
 
 ## Licensing
 
-All files in this repo are licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. Please see [LICENSE.txt](./LICENSE.txt) for more information.
+All files in this repository are Copyright the [AUTHORS](./AUTHORS.md) and are licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. Please see [LICENSE.txt](./LICENSE.txt) for more information.
