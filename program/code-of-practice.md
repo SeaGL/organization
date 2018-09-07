@@ -34,3 +34,7 @@ How are these values reflected in how we operate as program committee members an
 We're all pleased to have the opportunity to serve the SeaGL community and share this Code of Practice with you. It's our hope that we can serve as a model for other free and open source events, who can publish their own Codes of Practice.
 
 To help with that, don't forget that everything published here is licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). We encourage you to copy, modify, and redistribute this Code of Practice however you and your event need.
+
+## Licensing
+
+Copyright the [AUTHORS](https://github.com/SeaGL/organization/blob/master/AUTHORS.md) and licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. Please see [LICENSE.txt](https://github.com/SeaGL/organization/blob/master/LICENSE.txt) for more information.

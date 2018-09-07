@@ -60,3 +60,7 @@ This is also a much less corporate conference/audience than, say, [SCALE](http:/
     * Proposers can NOT see these comments (but be nice anyway)
     * Admins CAN see these comments
     * Reviewers can see these comments if they click through
+
+## Licensing
+
+Copyright the [AUTHORS](https://github.com/SeaGL/organization/blob/master/AUTHORS.md) and licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. Please see [LICENSE.txt](https://github.com/SeaGL/organization/blob/master/LICENSE.txt) for more information.
