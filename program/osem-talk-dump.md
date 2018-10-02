@@ -9,7 +9,7 @@ This SQL includes several fields that aren't used in the scheduling process and 
 * abstract
 * comments
 
-```
+```sql
    SELECT events.id                                                                     AS `Event ID`,
           events.title                                                                  AS `Title`,
           events.abstract                                                               AS `Abstract`,
