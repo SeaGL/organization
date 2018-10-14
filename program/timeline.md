@@ -58,6 +58,8 @@ Right now it just contains a chronological series of steps without any suggested
 - [ ] Create schedule
     * `[TODO]` Write doc about creating the schedule
 - [ ] Publish schedule and announce on SeaGL blog and social networks
+- [ ] A couple weeks out, email speakers to remind them to confirm the length of their time slot and that the programme committee is standing by to help w/slides if they want
+- [ ] Collect reviewers mailing addresses, then send them each a speaker gift as a thank you
 
 Aside from the `[TODO]`s inline above, some other things we should consider writing up…
 
