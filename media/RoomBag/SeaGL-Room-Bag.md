@@ -1,109 +1,65 @@
-# Seagl Room Bag
+SeaGL Room Bag
+==============
 
 Contents
 ========
 
--   Surge Protector
-
+-   Power Strip (Surge Protected)
 -   USB Charger
-
 -   USB Extension Cable - Purple Cable Tie
-
 -   HDMI Cable Long - White Cable Tie
-
 -   HDMI Cable Short - Grey Cable Tie
-
 -   VGA to HDMI Converter - Green Sticker
-
 -   DVI to HDMI Cable - Red Cable Tie
-
 -   Mini DisplayPort to HDMI Cable - Orange Cable Tie
-
--   HDMI to VGA Converter (Optional. Only 2 rooms have this) - Yellow Sticker
-
--   3.5MM Mono to Stereo Jack Adapter - Gold colored
-
--   Microphone Stand
-
--   Microphone
-
--   USB Flash Drive (128GB SanDisk)
-
--   Hauppauge Recorder - Red Button
-
--   Hauppauge Recorder Power Cable
-
+-   HDMI to VGA Converter (Optional. Only 2 rooms have this) - Yellow
+    Sticker
 -   Micro HDMI to HDMI Cable - Yellow Cable Tie
-
 -   Mini HDMI to HDMI Cable - Dark Green Cable Tie
-
 -   HDMI Splitter - Blue Sticker
-
 -   HDMI Splitter Power - Blue Cable Tie
+-   Thunderbolt USB-C to HDMI
+-   HDMI to HDMI jacks adapter (small black adapter to join two HDMI
+    cables)
 
 Room Setup
 ==========
 
-1.  Put USB Flash Drive into Hauppauge Recorder
+The room bag provides a variety of cables and powered adapters in case
+the speaker's laptop is not equipped with a standard size HDMI jack.
 
-2.  Plug in Surge Protector
+**Please return adapters and cables
+to the Room Bag when the session ends.**
 
-3.  Plug in USB Charger into Surge Protector
+Familiarize yourself with the projector's cable switch box (usually
+located at the front of the room under the desk). It will need to be set
+to the proper cable to allow the signal from the laptop to reach the
+projector.
 
-4.  Plugin HDMI Splitter into Surge Protector
-
-5.  Plug Short HDMI Cable into HDMI Splitter Output \#1
-
-6.  Plug in Hauppauge Recorder to USB Charger
-
-7.  Setup Microphone Stand
-
-8.  Attach Microphone to Stand
-
-9.  Plug Microphone into microphone adapter
-
-10. Plug microphone adapter into Hauppauge Recorder
-
-11. (Optional) Plug HDMI to VGA Adapter into Hauppauge Recorder
-
-12. (Optional) Plug HDMI to VGA Adapter into USB Charger
-
-13. Plug Projector into Hauppauge Recorder or HDMI to VGA Adapter
-
-14. On Hauppauge Recorder, if the unlock button is not lit, press it
-
-15. On Hauppauge Recorder, if the +20 db gain button is not lit, press it
-
-16. On Hauppauge Recorder, if the volume is not at the top of the range, increase it
-
-17. On Hauppauge Recorder, if the microphone is muted, press the unmute button
+SeaGL Room Bag
+==============
 
 Speaker Setup
 =============
 
-1.  Plug laptop into Hauppauge Recorder
+-   Plug house projector HDMI cable into laptop HDMI jack.
+    -   If laptop doesn't have a standard HDMI jack, use one of the
+        cables or adapters in the Room Bag to connect to the speaker's
+        laptop.
+    -   Several of the adapters require power. You can use the room bag
+        USB Charger or a USB port on the laptop for the USB powered
+        adapters. One requires AC power.
+-   Using the laptop's display settings, either mirror or extend the
+    display. 1920x1080 should be used with the projectors, but they
+    *may* support other resolutions.
 
-2.  Ensure Microphone is set on
+**Please return adapters and cables to the Room Bag when the session
+ends.**
 
-3.  On Hauppauge Recorder, if the ring light is not solid green, check the troubleshooting steps below
+Wireless Microphone
+===================
 
-4.  On Hauppauge Recorder, press the big red button once to start recording. The ring light will turn red
-
-5.  Please introduce yourself and the title of the talk into the microphone when starting recording
-
-6.  On Hauppauge Recorder, press the big red button once to stop recording. Wait until the ring light turns solid green to continue
-
-Troubleshooting Hauppauge Recorder
-==================================
-
-If the ring light is:
-
--   Solid Green - Ready to record
-
--   Solid Red - Recording
-
--   Blinking Blue - No Video. Check connection from recorder to laptop
-
--   Blinking Red - No Thumbdrive. Check flash drive connection to recorder
-
--   Blinking Green - HDCP is enforced. Plug laptop into HDMI Splitter input and plug HDMI Splitter output into recorder
+We have one Shure Wireless Microphone for use on request. It is equipped
+with a male XLR microphone output (for sound boards) and also has a
+camcorder 3.5mm adapter that will fit most camera and laptop microphone
+input jacks.
