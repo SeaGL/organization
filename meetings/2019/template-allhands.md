@@ -33,4 +33,5 @@ Onsite
 ToDo's
 
 Next meeting *Month DDth*, 6pm (PDT)
+
 Following meeting *Month DDth*, 6pm (PDT)
