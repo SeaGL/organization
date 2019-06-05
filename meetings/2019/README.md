@@ -2,7 +2,7 @@
 
 SeaGL uses etherpad for collaborative meeting agenda/notes during the meeting.
 
-Currently we are using an instance generously hosted by the Software Freedom Conservancy.
+Currently we are using an etherpad [instance](https://pad.SFConservancy.org/) generously hosted by the [Software Freedom Conservancy](https://www.SFConservancy.org/).
 
 We have bi-weekly phone meeetings generously provided by kormoc.
 
