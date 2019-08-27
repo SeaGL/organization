@@ -2,17 +2,13 @@
 
 Having a spreadsheet of the proposals is invaluable for scheduling. That requires a dump of more information than we're able to get from the OSEM csv export.
 
-This is valid as of the OSEM installation in August, 2018.
+Watch out for mid-field double-quotes in the export. LibreOffice Calc treats these as string delimiters.
 
-This SQL includes several fields that aren't used in the scheduling process and make it tricky to import the csv. The fields we can drop the next time around are:
-
-* abstract
-* comments
+This is valid as of the OSEM installation in August, 2019.
 
 ```sql
    SELECT events.id                                                                     AS `Event ID`,
           events.title                                                                  AS `Title`,
-          events.abstract                                                               AS `Abstract`,
           events.start_time                                                             AS `Start time`,
           speaker_user.name                                                             AS `Speaker`,
           speaker_user.email                                                            AS `Speaker Email`,
@@ -25,13 +21,6 @@ This SQL includes several fields that aren't used in the scheduling process and 
           difficulty_levels.title                                                       AS `Difficulty Level`,
           rooms.name                                                                    AS `Room`,
           events.state                                                                  AS `State`,
-          ( SELECT GROUP_CONCAT(CONCAT(users.name, ":", comments.body) SEPARATOR "\n")
-              FROM comments
-              JOIN users
-                ON users.id = comments.user_id
-             WHERE comments.commentable_type        = "Event"
-               AND comments.commentable_id          = events.id
-          )                                                                             AS `Comments`,
           events.diversity                                                              AS `Diversity`,
           events.first_time                                                             AS `First Time Speaker`,
           GROUP_CONCAT(CONCAT(vote_users.name, ":", votes.rating) SEPARATOR "\n")       AS `Votes`,
@@ -64,6 +53,6 @@ LEFT JOIN event_users                       AS event_users_submitter
       AND event_users_submitter.event_role  = "submitter"
 LEFT JOIN users                             AS submitter_user
        ON submitter_user.id                 = event_users_submitter.user_id
-    WHERE conferences.short_title           = "seagl2018"
+    WHERE conferences.short_title           = "seagl2019"
  GROUP BY events.id
 ```
