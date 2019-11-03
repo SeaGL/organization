@@ -9,7 +9,7 @@ This is valid as of the OSEM installation in August, 2019.
 ```sql
    SELECT events.id                                                                     AS `Event ID`,
           events.title                                                                  AS `Title`,
-          events.start_time                                                             AS `Start time`,
+          event_schedules.start_time                                                    AS `Start time`,
           speaker_user.name                                                             AS `Speaker`,
           speaker_user.email                                                            AS `Speaker Email`,
           events.proposal_additional_speakers                                           AS `Additional Speakers`,
@@ -29,6 +29,8 @@ This is valid as of the OSEM installation in August, 2019.
      FROM events
 LEFT JOIN event_types
        ON event_types.id                    = events.event_type_id
+LEFT JOIN event_schedules
+       ON event_schedules.event_id          = events.id
 LEFT JOIN tracks
        ON tracks.id                         = events.track_id
 LEFT JOIN difficulty_levels
