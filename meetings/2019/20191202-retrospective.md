@@ -34,7 +34,3 @@
 - usually shortly before LFNW
 - February 24, 2020 @ 6pm, make sure to read retrospective doc!!! https://docs.google.com/document/d/1LcmSBIiqMrwDtWxeAUrhHaLZTNjGts3HtSS9QWhuyb0/edit
 
-
-words words words
-
-asdfasdfasdfasdfasdf
