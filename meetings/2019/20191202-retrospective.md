@@ -162,8 +162,7 @@ Feedback for SeaGL 2019 -- put your thoughts for things that went well and thing
 * We had a speaker who gave first US talk
 
 
-Opportunistic room counts:
-
+Opportunistic room counts ( + indicates observation of people being turned away by a full room ):
 
 ||3178|3179|3180|3183|BPH|Expo|
 |---|---|---|---|---|---|---|
@@ -177,7 +176,6 @@ Opportunistic room counts:
 |16 09:30|||||89||
 |16 13:00|13|35+|23|19|||
 |16 14:45|||14||||
-  \+ indicates observation of people being turned away by a full room.
 
 ## Promotion & Outreach
 
