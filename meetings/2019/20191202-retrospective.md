@@ -177,7 +177,7 @@ Opportunistic room counts:
 |16 09:30|||||89||
 |16 13:00|13|35+|23|19|||
 |16 14:45|||14||||
-  + indicates observation of people being turned away by a full room.
+  \+ indicates observation of people being turned away by a full room.
 
 ## Promotion & Outreach
 
