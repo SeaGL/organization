@@ -13,7 +13,9 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 <!-- Check-in round -->
 
-<!-- Assign note taker -->
+## Primary note taker
+
+- 
 
 ## Metrics
 
@@ -51,7 +53,13 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 <!-- Agenda Items  (Added 48 hours before the meeting or earlier) -->
 
+---
+
 ### Committee Updates
+
+#### Virtual Attendance (Deb, Rachel)
+
+---
 
 #### Promotion & Outreach (der.hans, ??)
 
@@ -61,12 +69,26 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ---
 
-#### Fundraising & Finance
+#### Fundraising & Finance (der.hans, ??)
 
 - [Budget](https://docs.google.com/spreadsheets/d/1ahnCfPKe7BAO3y8X4n69BJyfL8NNQRooW5fOXhH-VBQ/edit#gid=2079573376)
 - [Lead Sheet](https://docs.google.com/spreadsheets/d/1sz0gtvFNWTZruTvZlSKURYXHSRIhyCt4H-o-7nmbUrU/edit#gid=0)
 - [Sponsor Prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf)
 - [Sponsor Registration](https://seagl.org/sponsors/SeaGL_Sponsor_Registration_Form_2020.pdf)
+
+---
+
+#### Website & Technical (Prasket, ??)
+
+##### OSEM (Andrew)
+
+---
+
+#### Volunteers (Lucy)
+
+---
+
+#### Programming & Flow (Rache, Nathan)
 
 ---
 
@@ -78,23 +100,9 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ---
 
-#### Programming & Flow (Rache, Nathan)
-
----
-
 #### Logistics & OnSite (??, Deb)
 
----
-
-#### Website & Technical (Prasket, ??)
-
----
-
-#### Volunteers (Lucy)
-
----
-
-#### Virtual Attendance (Deb, Rachel)
+##### SCC Update (Lisa)
 
 ---
 
@@ -111,6 +119,7 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 - "Save the date" flyers by March 4th
 - First contact for Sponsors: Beginning of April
+- Virtual conference decision: Beginning of May
 - Have OSEM repair/replacement implemented: Beginning of May
 - Keynote selection: May
 - CFP open: Mid June
