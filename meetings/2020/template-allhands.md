@@ -1,9 +1,11 @@
 <!-- Group chat usage on bottom right of this page, please update username and choose color in the top right of this page -->
+<!-- Audio notifications for etherpad chat available on Firefox via https://addons.mozilla.org/en-US/firefox/addon/notification-sound/ -->
 <!-- Bookmarklet to make the chat bar wider. Create a new bookmark with the below (select the whole line and drag to your bookmarks bar). You can adjust the width by changing "280" to whatever you want, in pixels.
 javascript:(function () { const width='280'; const box = document.querySelector('div#chatbox'); if (box) { box.style.cssText=box.style.cssText+' width: '+width+'px !important;'; } const pad = document.querySelector('iframe').contentWindow.document.querySelector('iframe').contentWindow.document.querySelector('body#innerdocbody.innerdocbody'); if (pad) { pad.style.width=(document.body.clientWidth-width-50)+"px"; } })();
 -->
 
 # *YYYY*-*MM*-*DD* *MEETING TITLE*
+
 - *Month* *D**st,nd,th*, *YYYY*. *hhmm* Pacific Time
 - Dial in number: 206-922-5375 (No PIN needed)
 - UberConference URL: https://www.uberconference.com/room/kormoc
@@ -24,13 +26,11 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 ## Reminders on best-practice meeting habits
 
 - Review previous meeting notes especially when absent!
-- Audio notifications for etherpad chat available on Firefox via https://addons.mozilla.org/en-US/firefox/addon/notification-sound/
-
-### Use chat in etherpad (and add your name)
+- Use chat in etherpad (and add your name)
 
 ### Conversation queuing
 
-- three discussion mechanisms: hand symbols (below), call for a round (popcorn passing, facilitator makes sure no one is skipped), open discussion
+- three discussion mechanisms: hand symbols (below), call for a round (talkingstick passing, facilitator makes sure no one is skipped), open discussion
 - "o/" or "/" means that you have something to say and want to be put in the queue
 - "c/" or "?" means that you have a clarifying question and want to jump to the top of the queue
 - "d" means thumbs up, encouragement, agreement, etc.
@@ -38,7 +38,7 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ### Notetaking
 
-- "???" on the etherpad means the notetaker missed something and needs assistance capturing what was said
+- "???" means that something was missed in the notes, please assist capturing what was said
 - aim for shorthand / summary / key points (not transcript)
 
 ## Review previous meeting feedback
@@ -55,32 +55,42 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ---
 
+### Org Structure
+
+- Important Links
+    - [domain description etherpad](https://pad.sfconservancy.org/p/seagl_2020_domain_descs)
+
+----
+
 ### Committee Updates
 
-#### Virtual Attendance (Deb, Rachel)
+#### Promotion & Outreach (Hans, ??)
+
+- Important Links
+    - [Handbills, Flyers, Slides](https://drive.google.com/drive/folders/1Oj2iFXFr7PpI9f7NKlNbnTUYStw7hQqu?usp=sharing)
+
+##### Stickers (Hans or Andrew)
 
 ---
 
-#### Promotion & Outreach (der.hans, ??)
+#### Fundraising & Finance (??, Hans)
 
-- [Handbills, Flyers, Slides](https://drive.google.com/drive/folders/1Oj2iFXFr7PpI9f7NKlNbnTUYStw7hQqu?usp=sharing)
-
-##### Stickers (der.hans or Andrew)
-
----
-
-#### Fundraising & Finance (der.hans, ??)
-
-- [Budget](https://docs.google.com/spreadsheets/d/1ahnCfPKe7BAO3y8X4n69BJyfL8NNQRooW5fOXhH-VBQ/edit#gid=2079573376)
-- [Lead Sheet](https://docs.google.com/spreadsheets/d/1sz0gtvFNWTZruTvZlSKURYXHSRIhyCt4H-o-7nmbUrU/edit#gid=0)
-- [Sponsor Prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf)
-- [Sponsor Registration](https://seagl.org/sponsors/SeaGL_Sponsor_Registration_Form_2020.pdf)
+- Important Links
+    - [Budget](https://docs.google.com/spreadsheets/d/1ahnCfPKe7BAO3y8X4n69BJyfL8NNQRooW5fOXhH-VBQ/edit#gid=2079573376)
+    - [Lead Sheet](https://docs.google.com/spreadsheets/d/1sz0gtvFNWTZruTvZlSKURYXHSRIhyCt4H-o-7nmbUrU/edit#gid=0)
+    - [Sponsor Prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf)
+    - [Sponsor Registration](https://seagl.org/sponsors/SeaGL_Sponsor_Registration_Form_2020.pdf)
 
 ---
 
 #### Website & Technical (Prasket, ??)
 
+##### Email and group alias audit (Prasket)
+
 ##### OSEM (Andrew)
+
+- Important Links
+    - [Remote Conference Support Discusion](https://github.com/openSUSE/osem/issues/2643)
 
 ---
 
@@ -88,11 +98,7 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ---
 
-#### Programming & Flow (Rache, Nathan)
-
----
-
-#### Food/Drink & Afterparty (Keith, ??)
+#### Programming & Flow (Rachel, Nathan)
 
 ---
 
@@ -100,7 +106,17 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ---
 
+#### Food/Drink & Afterparty (Keith, ??)
+
+---
+
 #### Logistics & OnSite (??, Deb)
+
+- Important Links
+    - https://www.fsf.org/blogs/community/how-to-livestream-a-conference-in-just-under-a-week
+    - https://mhall119.com/blog/before-you-take-your-conference-online/
+    - [hallway track possibility from der.hans](https://qiqochat.com/about)
+
 
 ##### SCC Update (Lisa)
 
@@ -117,16 +133,17 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ## Timeline
 
-- "Save the date" flyers by March 4th
-- First contact for Sponsors: Beginning of April
+- "Save the date" flyers: Beginning of March
 - Virtual conference decision: Beginning of May
-- Have OSEM repair/replacement implemented: Beginning of May
+- First contact for Sponsors: Middle of May
+- Have OSEM repair/replacement implemented: Middle of May
 - Keynote selection: May
+- Select theme: Beginning of June
 - CFP open: Mid June
 - CFP close: Mid August
-- Reserve party venue: August
-- Announce talks: Mid September  -  go or no go?
-- Testing of room kits: September
+- Virtual attendee party idea: August
+- Announce talks: Mid September
+- Testing of virtual facilitation/speaker support: October
 - SeaGL Nov 13/14
 
 ## Next Meeting
@@ -139,6 +156,8 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 ## Meeting evaluation / feedback / suggestions / appreciations / goodbyes round
 
 
+<!-- Meeting adjourned! -->
 <!-- Capture TODOs -->
 <!-- Clean up meeting notes, then add to GitHub -->
 <!-- Prepare pad for next meeting: (A) create new etherpad by changing address to next meeting date (B) copy content from this pad into new one (C) replace previous meeting eval notes with new (D) clear discussion notes, move TODOs to "Last meeting TODO review" (E) update next meetings date and agenda link, clear attendee list  (F) update old metrics, update date, leave new blank (G) update link in calendar -->
+
