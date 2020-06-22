@@ -5,92 +5,97 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 -->
 
 # *YYYY*-*MM*-*DD* *MEETING TITLE*
-
 - *Month* *D**st,nd,th*, *YYYY*. *hhmm* Pacific Time
 - Dial in number: 206-922-5375 (No PIN needed)
 - UberConference URL: https://www.uberconference.com/room/kormoc
 - Minutes from last meeting:
-  - https://github.com/SeaGL/organization/blob/master/meetings/2020/2020*MMDD*-allhands.md
+    - https://github.com/SeaGL/organization/blob/master/meetings/2020/2020*MMDD*-allhands.md
 - Attending: 
 
 <!-- Check-in round -->
 
 ## Primary note taker
-
 - 
 
 ## Metrics
-
 - Is this something we want? If so, what do we want to track? During CFP and when registration options, there are some obvious things
 
 ## Reminders on best-practice meeting habits
-
 - Review previous meeting notes especially when absent!
 - Use chat in etherpad (and add your name)
 
-### Conversation queuing
+### Discussion mechanisms
+- open discussion
+- call for a round ("pass the mic" style, facilitatory makes sure no one is skipped)
+- hand symbol queuing
+    - "o/" or "/" means you have something to say and puts you in the queue
+    - "c/" or "?" means you have a clarifying question and jumps you to the top of the queue
+    - "d" means thumbs up, encouragement, agreement, etc.
+    -  ">" means you understand someone's point and want them to move on
+    - "d>" means you feel the agenda item discussion is complete
 
-- three discussion mechanisms: hand symbols (below), call for a round (talkingstick passing, facilitator makes sure no one is skipped), open discussion
-- "o/" or "/" means that you have something to say and want to be put in the queue
-- "c/" or "?" means that you have a clarifying question and want to jump to the top of the queue
-- "d" means thumbs up, encouragement, agreement, etc.
--  ">" as an indicator of understanding someone and the point can be concluded, please move on
+### Timeboxing
+- timebox each topic, rounded to nearest 5min., settled during agenda confirmation
+- format is <!-- Timebox: 10 minutes (until hh:mm) -->
+- at topic beginning, convert the :mm to expected end time
+- at timebox end, "thumb polls" may add 5 minutes at a time
+- hand symbols
+    - "^" approve, extend the timebox
+    - "v" disagree, move onto the next topic
+    - "." neutral
+
+### Facilitation by topic
+- Each topic facilitated by topic lead with main facilitator help
 
 ### Notetaking
-
 - "???" means that something was missed in the notes, please assist capturing what was said
 - aim for shorthand / summary / key points (not transcript)
 
 ## Review previous meeting feedback
 
-## Last meeting TODO review
-
 <!-- One minute silence, check with ourselves mentally and personal notes/tasks/emails to surface any tensions, add to agenda if appropriate -->
 
 <!-- Confirm agenda order, inform if leaving early so as to not interrupt -->
 
-## Current Agenda
+## Current Agenda <!-- Timebox: xx minutes (until hh:mm) -->
 
-<!-- Agenda Items  (Added 48 hours before the meeting or earlier) -->
+<!-- Agenda Items  (Added 24 hours before the meeting or earlier) -->
 
 ---
-
-### Org Structure
-
-- Important Links
-    - [domain description etherpad](https://pad.sfconservancy.org/p/seagl_2020_domain_descs)
-
-----
 
 ### Committee Updates
 
+#### Impressario (Salt)
+
+- **Important Links**
+    - [domain description etherpad](https://pad.sfconservancy.org/p/seagl_2020_domain_descs )
+
+---
+
 #### Promotion & Outreach (Hans, ??)
 
-- Important Links
-    - [Handbills, Flyers, Slides](https://drive.google.com/drive/folders/1Oj2iFXFr7PpI9f7NKlNbnTUYStw7hQqu?usp=sharing)
-
-##### Stickers (Hans or Andrew)
+- **Important Links**
+    - [Handbills, Flyers, Slides](https://drive.google.com/drive/folders/1Oj2iFXFr7PpI9f7NKlNbnTUYStw7hQqu?usp=sharing )
 
 ---
 
-#### Fundraising & Finance (??, Hans)
+#### Finance & Fundraising (??, Hans)
 
-- Important Links
-    - [Budget](https://docs.google.com/spreadsheets/d/1ahnCfPKe7BAO3y8X4n69BJyfL8NNQRooW5fOXhH-VBQ/edit#gid=2079573376)
-    - [Lead Sheet](https://docs.google.com/spreadsheets/d/1sz0gtvFNWTZruTvZlSKURYXHSRIhyCt4H-o-7nmbUrU/edit#gid=0)
-    - [Sponsor Prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf)
-    - [Sponsor Registration](https://seagl.org/sponsors/SeaGL_Sponsor_Registration_Form_2020.pdf)
+- **Important Links**
+    - [Budget](https://docs.google.com/spreadsheets/d/1ahnCfPKe7BAO3y8X4n69BJyfL8NNQRooW5fOXhH-VBQ/edit#gid=2079573376 )
+    - [Lead Sheet](https://docs.google.com/spreadsheets/d/1sz0gtvFNWTZruTvZlSKURYXHSRIhyCt4H-o-7nmbUrU/edit#gid=0 )
+    - [Sponsor Prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf )
+    - [Sponsor Registration](https://seagl.org/sponsors/SeaGL_Sponsor_Registration_Form_2020.pdf )
 
 ---
 
-#### Website & Technical (Prasket, ??)
+#### Website & Technical (??, ??)
 
-##### Email and group alias audit (Prasket)
+##### Email and group alias audit
 
 ##### OSEM (Andrew)
-
-- Important Links
-    - [Remote Conference Support Discusion](https://github.com/openSUSE/osem/issues/2643)
+- **Important Links**
+    - [Remote Conference Support Discusion](https://github.com/openSUSE/osem/issues/2643 )
 
 ---
 
@@ -106,33 +111,29 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ---
 
-#### Food/Drink & Afterparty (Keith, ??)
+#### Attendee Party, & Hallway Track (Keith, ??)
 
 ---
 
-#### Logistics & OnSite (??, Deb)
+#### Logistics & On"Site" (??, Deb)
 
-- Important Links
+- **Important Links**
     - https://www.fsf.org/blogs/community/how-to-livestream-a-conference-in-just-under-a-week
     - https://mhall119.com/blog/before-you-take-your-conference-online/
-    - [hallway track possibility from der.hans](https://qiqochat.com/about)
-
+    - [hallway track possibility from der.hans](https://qiqochat.com/about )
 
 ##### SCC Update (Lisa)
 
 ---
 
-### MISC
+<!-- Late Agenda Items (Added within 24 hours of the meeting) -->
 
 
-<!-- Late Agenda Items (Added within 48 hours of the meeting) -->
-
+---
 
 <!-- Open Discussion? ~5min. if time -->
 
-
 ## Timeline
-
 - "Save the date" flyers: Beginning of March
 - Virtual conference decision: Beginning of May
 - First contact for Sponsors: Middle of May
@@ -155,9 +156,18 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 ## Meeting evaluation / feedback / suggestions / appreciations / goodbyes round
 
-
 <!-- Meeting adjourned! -->
+
 <!-- Capture TODOs -->
 <!-- Clean up meeting notes, then add to GitHub -->
-<!-- Prepare pad for next meeting: (A) create new etherpad by changing address to next meeting date (B) copy content from this pad into new one (C) replace previous meeting eval notes with new (D) clear discussion notes, move TODOs to "Last meeting TODO review" (E) update next meetings date and agenda link, clear attendee list  (F) update old metrics, update date, leave new blank (G) update link in calendar -->
+<!-- Prepare pad for next meeting:
+    (A) create new etherpad by changing address to next meeting date
+    (B) copy content from this pad into new one
+    (C) replace previous meeting eval notes with new
+    (D) clear discussion notes, bundle TODOs together under relevant section
+    (E) update next meetings date and agenda link, clear attendee list
+    (F) update old metrics, update date, leave new blank
+    (G) update link in calendar (H) clear authorship colors
+-->
+
 
