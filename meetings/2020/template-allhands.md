@@ -52,79 +52,125 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 - aim for shorthand / summary / key points (not transcript)
 
 ## Review previous meeting feedback
+- 
 
 <!-- One minute silence, check with ourselves mentally and personal notes/tasks/emails to surface any tensions, add to agenda if appropriate -->
 
 <!-- Confirm agenda order, inform if leaving early so as to not interrupt -->
 
 ## Current Agenda <!-- Timebox: xx minutes (until hh:mm) -->
-
 <!-- Agenda Items  (Added 24 hours before the meeting or earlier) -->
+
 
 ---
 
 ### Committee Updates
 
-#### Impressario (Salt)
+---
 
-- **Important Links**
-    - [domain description etherpad](https://pad.sfconservancy.org/p/seagl_2020_domain_descs )
+#### Programming & Flow (Rachel, Nathan)
+
+##### Previous TODOs
+
+##### New TODOs
+
+##### Important Links
 
 ---
 
 #### Promotion & Outreach (Hans, ??)
 
-- **Important Links**
-    - [Handbills, Flyers, Slides](https://drive.google.com/drive/folders/1Oj2iFXFr7PpI9f7NKlNbnTUYStw7hQqu?usp=sharing )
+##### Previous TODOs
+
+##### New TODOs
+
+##### Important Links
+- [Handbills, Flyers, Slides](https://drive.google.com/drive/folders/1Oj2iFXFr7PpI9f7NKlNbnTUYStw7hQqu?usp=sharing )
 
 ---
 
 #### Finance & Fundraising (??, Hans)
 
-- **Important Links**
-    - [Budget](https://docs.google.com/spreadsheets/d/1ahnCfPKe7BAO3y8X4n69BJyfL8NNQRooW5fOXhH-VBQ/edit#gid=2079573376 )
-    - [Lead Sheet](https://docs.google.com/spreadsheets/d/1sz0gtvFNWTZruTvZlSKURYXHSRIhyCt4H-o-7nmbUrU/edit#gid=0 )
-    - [Sponsor Prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf )
-    - [Sponsor Registration](https://seagl.org/sponsors/SeaGL_Sponsor_Registration_Form_2020.pdf )
+##### Previous TODOs
+
+##### New TODOs
+
+##### Important Links
+- [Budget](https://docs.google.com/spreadsheets/d/1ahnCfPKe7BAO3y8X4n69BJyfL8NNQRooW5fOXhH-VBQ/edit#gid=2079573376 )
+- [Lead Sheet](https://docs.google.com/spreadsheets/d/1sz0gtvFNWTZruTvZlSKURYXHSRIhyCt4H-o-7nmbUrU/edit#gid=0 )
+- [Sponsor Prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf )
+- [Sponsor Registration](https://seagl.org/sponsors/SeaGL_Sponsor_Registration_Form_2020.pdf )
 
 ---
 
 #### Website & Technical (??, ??)
 
-##### Email and group alias audit
-
 ##### OSEM (Andrew)
-- **Important Links**
-    - [Remote Conference Support Discusion](https://github.com/openSUSE/osem/issues/2643 )
+
+##### Previous TODOs
+
+##### New TODOs
+
+##### Important Links
+- [Remote Conference Support Discusion](https://github.com/openSUSE/osem/issues/2643 )
 
 ---
 
 #### Volunteers (Lucy)
 
----
+##### Previous TODOs
 
-#### Programming & Flow (Rachel, Nathan)
+##### New TODOs
+
+##### Important Links
 
 ---
 
 #### Audio/Visual Recording (Romeo)
 
+##### Previous TODOs
+
+##### New TODOs
+
+##### Important Links
+
 ---
 
-#### Attendee Party, & Hallway Track (Keith, ??)
+#### Attendee Party & Hallway Track (Keith, ??)
+
+##### Previous TODOs
+
+##### New TODOs
+
+##### Important Links
+- hallway track brainstorming, https://pad.sfconservancy.org/p/seagl_2020_hallway_track
 
 ---
 
 #### Logistics & On"Site" (??, Deb)
 
-- **Important Links**
-    - https://www.fsf.org/blogs/community/how-to-livestream-a-conference-in-just-under-a-week
-    - https://mhall119.com/blog/before-you-take-your-conference-online/
-    - [hallway track possibility from der.hans](https://qiqochat.com/about )
+##### Previous TODOs
 
-##### SCC Update (Lisa)
+##### New TODOs
+
+##### Important Links
+- https://www.fsf.org/blogs/community/how-to-livestream-a-conference-in-just-under-a-week
+- https://mhall119.com/blog/before-you-take-your-conference-online/
+- [hallway track possibility from der.hans](https://qiqochat.com/about )
 
 ---
+
+#### Impresario (Salt)
+
+##### Previous TODOs
+
+##### New TODOs
+
+##### Important Links
+- [domain description etherpad](https://pad.sfconservancy.org/p/seagl_2020_domain_descs )
+
+---
+
 
 <!-- Late Agenda Items (Added within 24 hours of the meeting) -->
 
@@ -133,14 +179,18 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 
 <!-- Open Discussion? ~5min. if time -->
 
+## Upcoming Blog/Social Posts
+<!-- PLEASE INCLUDE: post title/purpose/whatever, draft by/post on dates, primary author(s), people who would like to review -->
+
 ## Timeline
-- "Save the date" flyers: Beginning of March
-- Virtual conference decision: Beginning of May
-- First contact for Sponsors: Middle of May
-- Have OSEM repair/replacement implemented: Middle of May
-- Keynote selection: May
-- Select theme: Beginning of June
-- CFP open: Mid June
+- ~~"Save the date" flyers by March 4th~~
+- ~~Virtual conference decision: Beginning of May~~
+- ~~Keynote selection: May~~
+- ~~Keynote voting: June 12~~
+- ~~Select theme: End of June~~
+- ~~Have OSEM repair/replacement implemented: End of June~~
+- First contact for Sponsors: ~~Mid~~ Beginning of July
+- CFP open: ~~Beginning of July until mid-August
 - CFP close: Mid August
 - Virtual attendee party idea: August
 - Announce talks: Mid September
@@ -150,7 +200,7 @@ javascript:(function () { const width='280'; const box = document.querySelector(
 ## Next Meeting
 - *Month D**st,nd,th*. *hhmm* (PT)
 - https://pad.sfconservancy.org/p/seagl_*YYYY*.*MM*.*DD*
-- Bi-weekly meetings through June (at least), Mondays @ 5pm PT
+- Weekly meetings, Mondays @ 5pm PT
 
 ---
 

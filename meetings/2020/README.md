@@ -1,10 +1,10 @@
-# SeaGL 2019 Meeting Minutes and Template
+# SeaGL 2020 Meeting Minutes and Template
 
 SeaGL uses etherpad for collaborative meeting agenda/notes during the meeting.
 
 Currently we are using an etherpad [instance](https://pad.SFConservancy.org/) generously hosted by the [Software Freedom Conservancy](https://www.SFConservancy.org/).
 
-We have bi-weekly phone meeetings generously provided by kormoc.
+We have weekly phone meeetings generously provided by kormoc.
 
 After the meeting notes are committed into SeaGL's Organization git repository.
 
