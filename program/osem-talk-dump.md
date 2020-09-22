@@ -4,7 +4,7 @@ Having a spreadsheet of the proposals is invaluable for scheduling. That require
 
 Watch out for mid-field double-quotes in the export. LibreOffice Calc treats these as string delimiters.
 
-This is valid as of the OSEM installation in August, 2019.
+This is valid as of the OSEM installation in September 2020.
 
 ```sql
    SELECT events.id                                                                     AS `Event ID`,
@@ -23,6 +23,7 @@ This is valid as of the OSEM installation in August, 2019.
           events.state                                                                  AS `State`,
           events.diversity                                                              AS `Diversity`,
           events.first_time                                                             AS `First Time Speaker`,
+          events.pnw                                                                    AS `Pacific Northwest`,
           GROUP_CONCAT(CONCAT(vote_users.name, ":", votes.rating) SEPARATOR "\n")       AS `Votes`,
           SUM(votes.rating)                                                             AS `Vote Sum`,
           AVG(votes.rating)                                                             AS `Vote Average`
@@ -55,6 +56,6 @@ LEFT JOIN event_users                       AS event_users_submitter
       AND event_users_submitter.event_role  = "submitter"
 LEFT JOIN users                             AS submitter_user
        ON submitter_user.id                 = event_users_submitter.user_id
-    WHERE conferences.short_title           = "seagl2019"
+    WHERE conferences.short_title           = "seagl2020"
  GROUP BY events.id
 ```
