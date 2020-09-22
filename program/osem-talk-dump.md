@@ -2,8 +2,6 @@
 
 Having a spreadsheet of the proposals is invaluable for scheduling. That requires a dump of more information than we're able to get from the OSEM csv export.
 
-Watch out for mid-field double-quotes in the export. LibreOffice Calc treats these as string delimiters.
-
 This is valid as of the OSEM installation in September 2020.
 
 ```sql
@@ -58,4 +56,23 @@ LEFT JOIN users                             AS submitter_user
        ON submitter_user.id                 = event_users_submitter.user_id
     WHERE conferences.short_title           = "seagl2020"
  GROUP BY events.id
+```
+
+## Example usage
+
+Open the Rails console:
+
+```bash
+RAILS_ENV='production' bundle exec rails console
+```
+
+Run the query and export to CSV:
+
+```ruby
+sql = File.read('list-proposals.sql')
+result = ActiveRecord::Base.connection.exec_query(sql)
+
+CSV.open('proposals.csv', 'w', headers: result.columns, write_headers: true) do |csv|
+  result.each { |row| csv << row }
+end
 ```
