@@ -6,8 +6,9 @@ Some of these are vague ideas that we can refine as we get closer.
 * October 20
 * October 21
 * October 22
-    * SeaGL Ambassadors initiative: https://seagl.org/news/2020/10/15/SeaGL-Ambassadors.html
 * October 23
+    * SeaGL Ambassadors initiative: https://seagl.org/news/2020/10/15/SeaGL-Ambassadors.html
+        * Twitter: [posted](https://twitter.com/seagl/status/1319752963792003074) (bcotton)
 * October 24
     * Three weeks until SeaGL, have you signed up to volunteer? https://seagl.org/news/2020/10/05/call-for-volunteers.html
         * Twitter: scheduled (bcotton)
