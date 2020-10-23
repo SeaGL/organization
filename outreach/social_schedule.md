@@ -1,7 +1,5 @@
 # Social media schedule
 
-**DRAFT**
-
 This is an approximate schedule of content across the social media channels.
 Some of these are vague ideas that we can refine as we get closer.
 
@@ -12,6 +10,7 @@ Some of these are vague ideas that we can refine as we get closer.
 * October 23
 * October 24
     * Three weeks until SeaGL, have you signed up to volunteer? https://seagl.org/news/2020/10/05/call-for-volunteers.html
+        * Twitter: scheduled (bcotton)
 * October 25
 * October 26
 * October 27
