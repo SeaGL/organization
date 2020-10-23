@@ -14,6 +14,7 @@ Some of these are vague ideas that we can refine as we get closer.
 * October 25
 * October 26
 * October 27
+    * Participating in #teagl? Don't forget to get your shopping done soon! Miss the signup? You can still hang out with us and drink your own tea!
 * October 28
 * October 29
    * SeaGL Ambassadors initiative: https://seagl.org/news/2020/10/15/SeaGL-Ambassadors.html
@@ -21,8 +22,9 @@ Some of these are vague ideas that we can refine as we get closer.
 * October 31 **Halloween**
     * Two weeks until SeaGL, have you signed up to volunteer? https://seagl.org/news/2020/10/05/call-for-volunteers.html
 * November 1
+    * We're conducting SeaGL on FLOSS, isn't that great? (blog post TK)
 * November 2
-    * We're conducting SeaGL on FLOSS, isn't that great? (blog post TK
+    * Today is the deadline to get your #teagl selection submitted if you're matched with someone participating in anonimit-tea mode.
 * November 3 **US Election Day** (let's not try to be cute with it. Dangerous ground for #brands)
 * November 4
 * November 5
