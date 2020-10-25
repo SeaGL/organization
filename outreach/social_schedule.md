@@ -38,6 +38,7 @@ Some of these are vague ideas that we can refine as we get closer.
     * We're conducting SeaGL on FLOSS, isn't that great? (blog post TK)
 * November 10
     * SeaGL schedule
+    * Meet our keynoters: Kathy Giori https://seagl.org/news/2020/10/25/giori-keynote-interview.html
 * November 11
     * Meet our keynoters: VM Brasseur https://seagl.org/news/2020/09/08/vmbrasseur-keynote-interview.html
 * November 12
