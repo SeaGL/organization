@@ -30,8 +30,10 @@ Some of these are vague ideas that we can refine as we get closer.
 * November 4
 * November 5
 * November 6
-* November 7
     * Generic one-week to SeaGL excitement posts
+         * Twitter: [posted](https://twitter.com/seagl/status/1324813084993748992) (bcotton)
+         * Facebook: posted (bcotton)
+* November 7
 * November 8
     * Reminder about the Code of Conduct: https://seagl.org/code_of_conduct.html
 * November 9
