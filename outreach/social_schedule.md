@@ -34,19 +34,27 @@ Some of these are vague ideas that we can refine as we get closer.
          * Twitter: [posted](https://twitter.com/seagl/status/1324813084993748992) (bcotton)
          * Facebook: posted (bcotton)
 * November 7
-* November 8
     * Reminder about the Code of Conduct: https://seagl.org/code_of_conduct.html
+        * Twitter: [posted](https://twitter.com/seagl/status/1325255958143119362) (bcotton)
+        * Facebook: posted (bcotton)
+* November 8
+    * Posts announcing talks
+        * Twitter: scheduled (bcotton)
 * November 9
-    * We're conducting SeaGL on FLOSS, isn't that great? (blog post TK)
+    * Posts announcing talks
+        * Twitter: scheduled (bcotton)
 * November 10
     * SeaGL schedule
     * Meet our keynoters: Kathy Giori https://seagl.org/news/2020/10/25/giori-keynote-interview.html
 * November 11
+    * We're conducting SeaGL on FLOSS, isn't that great? (blog post TK)
     * Meet our keynoters: VM Brasseur https://seagl.org/news/2020/09/08/vmbrasseur-keynote-interview.html
 * November 12
     * Meet our keynoters: Máirín Duffy https://seagl.org/news/2020/09/29/duffy-keynote-interview.html
 * November 13 **SeaGL day 1**
     * Twitter & Mastodon only: scheduled posts announcing talks (~5 minutes before they start)
+        * Twitter: scheduled (bcotton)
 * November 14 **SeaGL day 2**
     * Twitter & Mastodon only: scheduled posts announcing talks (~5 minutes before they start)
+        * Twitter: scheduled (bcotton)
  
