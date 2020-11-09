@@ -42,6 +42,8 @@ Some of these are vague ideas that we can refine as we get closer.
         * Twitter: scheduled (bcotton)
 * November 9
     * The SeaGL experience, virtually speaking: https://seagl.org/news/2020/11/09/seagl-tech-stack.html
+        * Twitter: [posted](https://twitter.com/seagl/status/1325904434245869579) (bcotton)
+        * Facebook: posted (bcotton)
     * Posts announcing talks
         * Twitter: scheduled (bcotton)
 * November 10
