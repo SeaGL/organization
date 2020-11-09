@@ -41,13 +41,13 @@ Some of these are vague ideas that we can refine as we get closer.
     * Posts announcing talks
         * Twitter: scheduled (bcotton)
 * November 9
+    * The SeaGL experience, virtually speaking: https://seagl.org/news/2020/11/09/seagl-tech-stack.html
     * Posts announcing talks
         * Twitter: scheduled (bcotton)
 * November 10
     * SeaGL schedule
     * Meet our keynoters: Kathy Giori https://seagl.org/news/2020/10/25/giori-keynote-interview.html
 * November 11
-    * We're conducting SeaGL on FLOSS, isn't that great? (blog post TK)
     * Meet our keynoters: VM Brasseur https://seagl.org/news/2020/09/08/vmbrasseur-keynote-interview.html
 * November 12
     * Meet our keynoters: Máirín Duffy https://seagl.org/news/2020/09/29/duffy-keynote-interview.html
@@ -57,4 +57,5 @@ Some of these are vague ideas that we can refine as we get closer.
 * November 14 **SeaGL day 2**
     * Twitter & Mastodon only: scheduled posts announcing talks (~5 minutes before they start)
         * Twitter: scheduled (bcotton)
- 
+ * November 15:
+     * Feedback form: https://gnu-cloud.yourownnet.cloud/apps/forms/eenxfWgqKFKCQwaE
