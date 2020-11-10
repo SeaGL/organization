@@ -49,6 +49,8 @@ Some of these are vague ideas that we can refine as we get closer.
 * November 10
     * SeaGL schedule
     * Meet our keynoters: Kathy Giori https://seagl.org/news/2020/10/25/giori-keynote-interview.html
+        * Twitter: [posted](https://twitter.com/seagl/status/1326175694880206849) (bcotton)
+        * Facebook: posted (bcotton)
 * November 11
     * Meet our keynoters: VM Brasseur https://seagl.org/news/2020/09/08/vmbrasseur-keynote-interview.html
 * November 12
