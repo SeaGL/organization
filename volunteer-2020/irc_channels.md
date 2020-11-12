@@ -3,7 +3,8 @@
 - **#seagl-announce**: For announcements from staff
 - **#seagl-helpdesk**: This is where the Help Desk volunteer will be to answer questions and
   escalate issues.
-- **#seagl-welcome**: A general chat and orientation channel
+- **#seagl-hallway**: A place to meet people and make new "topic channels" to join. Run `!help` to
+  see IRC bot commands to help attendees manage channels
 
 ## Restricted Access
 
@@ -19,8 +20,6 @@
 ## Gathering Channels
 
 - **#seagl-sponsors**: Our virtual "Expo Hall"
-- **#seagl-hallway**: A place to meet people and make new "topic channels" to join. Run `!help` to
-  see IRC bot commands to help attendees manage channels
 - **#seagl-party**: A channel for our after-party on Saturday night. This is where, similar to the
   hallway track, attendees can meet and make new topic channels.
 - **#seagl-trivia**: A channel for the after-party Trivia event.
