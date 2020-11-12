@@ -60,6 +60,9 @@ Some of these are vague ideas that we can refine as we get closer.
     * Social Soirees: https://seagl.org/news/2020/11/11/social-soiree.html
          * Twitter: [posted](https://twitter.com/seagl/status/1326887858997780482) (bcotton)
          * Facebook: posted (bcotton)
+    * How to attend: https://seagl.org/news/2020/11/12/how-to-attend.html
+         * Twitter: [posted](https://twitter.com/seagl/status/1326947815336120325) (bcotton)
+         * Facebook: [posted](https://www.facebook.com/SeattleGnuLinuxConference/posts/10157288569372583?__cft__[0]=AZWUN2RUhuUchwaBUTxRTK22i9MUBH8iRiV4BX8nR7u9X6nN1-0qWSLlDuA_xtij3c76CdGxnt4Cp84U54RnqrF4y6VViWk1gqeDOWBccqRxCnDJ0IjnY5pyOjawSiDDXQ7i0pr7nZ1Vr5zFSzNMput_JKY_lBVLz1rZdEoOt8hG6Q2Pqkei_sErgOj0Q4_lkeM&__tn__=%2CO%2CP-R) (bcotton)
 * November 13 **SeaGL day 1**
     * Twitter & Mastodon only: scheduled posts announcing talks (~5 minutes before they start)
         * Twitter: scheduled (bcotton)
