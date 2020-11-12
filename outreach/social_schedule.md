@@ -57,6 +57,8 @@ Some of these are vague ideas that we can refine as we get closer.
         * Facebook: posted (bcotton)
 * November 12
     * Meet our keynoters: Máirín Duffy https://seagl.org/news/2020/09/29/duffy-keynote-interview.html
+         * Twitter: [posted](https://twitter.com/seagl/status/1327024197734985735) (bcotton)
+         * Facebook: posted (bcotton)
     * Social Soirees: https://seagl.org/news/2020/11/11/social-soiree.html
          * Twitter: [posted](https://twitter.com/seagl/status/1326887858997780482) (bcotton)
          * Facebook: posted (bcotton)
