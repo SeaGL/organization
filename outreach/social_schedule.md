@@ -57,6 +57,9 @@ Some of these are vague ideas that we can refine as we get closer.
         * Facebook: posted (bcotton)
 * November 12
     * Meet our keynoters: Máirín Duffy https://seagl.org/news/2020/09/29/duffy-keynote-interview.html
+    * Social Soirees: https://seagl.org/news/2020/11/11/social-soiree.html
+         * Twitter: [posted](https://twitter.com/seagl/status/1326887858997780482) (bcotton)
+         * Facebook: posted (bcotton)
 * November 13 **SeaGL day 1**
     * Twitter & Mastodon only: scheduled posts announcing talks (~5 minutes before they start)
         * Twitter: scheduled (bcotton)
