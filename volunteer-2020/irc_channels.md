@@ -6,10 +6,6 @@
 - **#seagl-hallway**: A place to meet people and make new "topic channels" to join. Run `!help` to
   see IRC bot commands to help attendees manage channels
 
-## Restricted Access
-
-- **#seagl-volunteers**: A channel just for volunteers to ask questions and chat
-
 ## Track Channels
 
 - **#seagl-keynote**: Audience chat and questions during the keynotes
