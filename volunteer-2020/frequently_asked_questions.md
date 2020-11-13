@@ -45,3 +45,33 @@
 * **What do I do if someone is sending me unwanted private messages?**
   Send a message to lucyw on IRC with details about what's happening. You can do this by typing `/q
   lucyw Hi, I'm in #seagl-mychannel and whataname is saying XYZ...`.
+
+## Events
+
+Read more about our 2020 events in [this blog
+post](https://seagl.org/news/2020/11/11/social-soiree.html)
+
+* **What is TeaGL?**
+  TeaGL is an annual SeaGL tradition where we typically have a big tea swap and make all kinds of
+tea that attendees bring. This year we hosted a remote tea swap, and want to celebrate drinking tea
+with friends throughout the conference.
+
+* **Is there an event Friday evening?**
+  Yes! From 16:30-18:00 PT Benjamin Mako Hill will be leading us in making cocktails/mocktails.
+  You can see the [list of ingredients
+  here](https://osem.seagl.org/conferences/seagl2020/program/proposals/811).
+
+* **Is there an event Saturday evening?**
+  Yes! Once talks have ended we're going to take a short break and reconvene around 18:00 PT for
+  online frivolity. There will be trivia, a scavenger hunt, and a chance to mingle with other
+  attendees (virtually!). Read more in the blog post.
+
+## Social Media
+
+* **Is SeaGL on social media?**
+  We're on [Twitter](https://twitter.com/seagl), [Mastodon](https://mastodon.social/@SeaGL), and
+  [YouTube](https://www.youtube.com/user/SeaglOrg).
+
+* **Do you have a hashtag?**
+  #SeaGL2020
+
