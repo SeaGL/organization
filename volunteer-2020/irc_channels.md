@@ -9,9 +9,9 @@
 ## Track Channels
 
 - **#seagl-keynote**: Audience chat and questions during the keynotes
-- **#seagl-one**: Audience chat and questions for Track 1
-- **#seagl-two**: Audience chat and questions for Track 2
-- **#seagl-three**: Audience chat and questions for Track 3
+- **#seagl-track-1**: Audience chat and questions for Track 1
+- **#seagl-track-2**: Audience chat and questions for Track 2
+- **#seagl-track-3**: Audience chat and questions for Track 3
 
 ## Gathering Channels
 
