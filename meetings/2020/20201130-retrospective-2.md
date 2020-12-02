@@ -12,13 +12,13 @@
 
 ## Attendees
 - From last week: Salt, Andrew, Nathan, Alison, Don/sntxrr, Lucy, Rachel, Romeo, Ben, der.hans, Deb, Mateus, Keith
-- Current: 
-- Apologies: 
+- Current: Andrew, Rachel, Nathan, Salt, der.hans, Lucy, Ben, Deb, sntxrr, Tree
+- Apologies: Romeo
 
 <!-- Check-in round -->
 
 ## Primary note takers
-- 
+- der.hans
 
 ## Metrics (previous -> current)
 - Keynotes Confirmed: 4
@@ -51,24 +51,31 @@
 ### List out tasks to close 2020
 - [ ] close seagl 2020 books (Hans)
     - [ ] confirm sponsorship money arrived (Hans)
+    - [ ] find Kevin MacLeod publication policy, send him $20 from SeaGL
     - [ ] make sure reimbursements were issued (Hans)
         - [ ] Adam for physical storage rental space
         - [ ] Keith $100 for Hopin, a second month now as well
         - [ ] Salt for various things (e.g. castr, alibaba, etc.)
         - [ ] Hans for plushies
-        - [ ] ??? email asking if anyone else has reimbursement requests
+    - [ ] email asking if anyone else has reimbursement requests
 - [ ] writing closing 2020 blog posts (Hans/Ben)
     - [ ] write thank you for attending blog post (Rachel/Salt)
         - [ ] include number of unique nicks the bot saw
         - [ ] include sponsor call outs
+        - [ ] get final "attendance numbers" e.g. unique nicks, etc
+            - IRC room counts: https://andrew.kvalhe.im/+e1mb787nbriqupxtach6bcgz8pcztfda
     - [ ] Blog about videos (especially keynotes) (Nathan/Rachel)
     - [ ] Publish final keynoter interview blog post (Nathan/Rachel)
     - [ ] post about Inclusion/Diversity/Equity/Accessibility (IDEA) / Women in Linux donation (and honoraria trouble) (Deb/Hans)
+    - [ ] diverse makeup of speakers blog post, maybe as part of the IDEA post (Nathan/Rachel)
     - [ ] blog post on SeaGL 2020 tech stack, there and back again and again and again, include release of codebase (Tech Team)
     - [ ] retrospective suggestions/thanks (Hans/Salt)
 - [ ] upload videos (Romeo)
     - [x] decide on license
         - CC BY-SA 4.0 International
+    - [ ] get Romeo access to pre-recorded speaker videos (Hans/Don)
+    - [ ] Convince art department to make a 4:3 pandemic seagl logo square thing for use in final video (Ben)
+    - [ ] make TeaGL toast video, send to Romeo, can be wearing mask [mug to camera -> pull away and sip -> return mug to camera] (everyone)
     - [ ] transcribe videos  (Romeo/Keith)
     - [x] decide on locations to host (archive.org [default, target links], youtube, fsf peertube?)
     - [ ] notify Nathan/Rachel once videos are on archive.org so they can spot check and prepare blog posts/emails (Romeo)
@@ -96,19 +103,19 @@
     - [ ] [redirect irc channels](https://wiki.ubuntu.com/IRC/MovingChannels#Forwarding) (Salt/Don)
         - This should be temp, drop registration a few weeks later
     - [ ] confirm whether anything that was stood up/expanded has been reduced/removed (Tech Team)
-    - [ ] jitsi
-    - [ ] bbb
-    - [x] osem
-    - [x] azure
-    - [ ] aws
-        - [ ] Rob's account?
-        - [x] Andrew's account
-    - [ ] castr
-    - [x] seagl.org
-    - [ ] ???
+        - [ ] jitsi
+        - [ ] bbb
+        - [x] osem
+        - [x] azure
+        - [ ] aws
+            - [ ] Rob's account?
+            - [x] Andrew's account
+        - [ ] castr
+        - [x] seagl.org
+        - [ ] ???
 - [ ] update get involved/ participate page (Andrew/Hans)
 - [ ] Publish attend.seagl.org repository (Andrew)
-- [ ] ???, keep adding throughout the meeting as things come up
+- [ ] create calendar reminder to send out kick-off meeting time poll in 2nd week of January (Salt)
 
 ### Feedback Form Review
 - BBB, video of presentation area was large and person was tiny, only an issue in real time, not for recordings
@@ -209,7 +216,7 @@
 - Awesome to see all the tweets WITH IMAGES scheduled!!!  this made a huge difference, speakers loved RTing their talk tweets.  Lots of engagement stirred up from that.
 - Schedule of blog posts was good, but lots of posts could have gone out a bit earlier like the schedule by a couple of weeks (note to Program)
 - Would be good to get images out to speakers sooner (Ben: agreed. I used my image to promote on LinkedIn, my newsletter, etc. I'm sure others would like to do the same)
-- MIght want to peel out some of the people who are doing the interviewing or assembly for different pieces of information, from the people who would write the posts themselves ++ generally this is the principle of not having people chair multiple committees
+- Might want to peel out some of the people who are doing the interviewing or assembly for different pieces of information, from the people who would write the posts themselves ++ generally this is the principle of not having people chair multiple committees
 - Would be good to have a list of people with their interests/skills listed, in order to rely less heavily on 1 or 2 people for certain things
 - graphics were so freakin good
 - outreach retrospective pad: https://pad.sfconservancy.org/p/seagl_promo_2020.11.23
@@ -284,6 +291,7 @@
     - We can script much of this to be better for next time and not so human-dependent
     - redundancy is a great thing, let's work on it for next year!
 - Gotta centralize repos/docs/issues for drive-by contributors
+- IRC room counts: https://andrew.kvalhe.im/+e1mb787nbriqupxtach6bcgz8pcztfda
 
 ##### Bikeshed
 - [TODO] (sntxrr) get osem hosted somewhere for Andrew to test upstream
@@ -309,12 +317,20 @@
 
 #### Audio/Visual (Romeo)
 - We have basically no TeaGL Toasts. We have what we had before the conf + 2. I think that brings our total to 7? imho not enough for a promo
+    - it would be good to get some more toasts in, masks and other accessories OK
 - YouTube livestream recording exists - audio desync, choppy video sometimes, people cut off early, volunteers video/voice in the talk
 - BBB feed has microphones+individual webcam feeds+screen recording+slideshows. Also has in-between volunteer discussion that I can cut
 - BBB feeds are difficult to organized and have long terrible filenames
 - I know nothing about transcription
-- we gave $20 to Kevin Macleod?
+- we gave $20 to Kevin MacLeod?
+    - Adam gave this money personally
+    - SeaGL should give $20 officially
+    - link to policy?
 - I haven't decided a style for final rendering but I am thinking something similar to how DEFCON does it: https://www.youtube.com/watch?v=EzGwO5L9oq4
+- would be awesome to prioritize keynote
+- big thanks to a/v <3
+- should have internal doc that links to each videos
+- should link to "our" copies rather than the speaker versions
 
 ##### Bikeshed
 - [TODO] get blog post together about our 2019 a/v setup and other conferences we spoke to
@@ -332,6 +348,9 @@
 - Estimate for when videos will be ready?
 - Co-Chairs++ (strongly recommend for other committees)
 - Individual speaker graphics/tweets were awesome
+- One feedback (sorry if we're not there yet :grimace:) - It'd be easier to get volunteers I think if we had a schedule set earlier so people knew what time they were committing
+- scheduling talks against each other is always tricky, harder when they are related
+- Suggest connective intro/outros for sequentially grouped sessions
 
 ##### Bikeshed
 - [TODO] review site for readability / findability of conference details, e.g. we're remote this year
@@ -350,12 +369,27 @@
 - I had a lot of fun developing the bot, and invite you to submit issues on github for feature requests and improvements, in the event it gets used again. https://github.com/treedavies/seagl-2020-bot
 - Next Year I hope we keep the virtual conference aspect, even if we are able to have an in-person conference. This way attendees who cannot travel can also attend, and we can grow the visibility of the conference.
 - I thought the speaker line-up was great. The talks selected were right for beginner to intermediate technical level, the speakers were fun educational and engaging.
-- I had a great time, and enjoyed working with everyone. You are all amazing people and I feel like I found a tribe of individuals who share in my values and perspective on the world.
+- I had a great time, and enjoyed working with everyone. You are all amazing people and I feel like I found a tribe of individuals who share in my values and perspective on the world. :) <3
 
-##### Previous TODOs
-- [TODO] Link for the bot help on KiwiIRC
+- reduce bot restarts (e.g. when adding volunteer nicks)
+- didn't feel like there was time to focus on the party stuff
+- would have been nice to pull in cool experience things like vr/hubs, https://16colo.rs/
+- still lots to learn
+- after party went unilt 03:30 pacific
+- we could have set better expectations for hallway track
+- hallway track setup was confusing for attendees
+- we were changing irc channel topics by hand, we mostly was Salt
+- next year, it would be good to have topics botted or at least pre-set
+- we should plan after-talk flow
+- perhaps point people at the hallway track for post-talk chatter
+- nice to have less booze focussed events
+- base party room that is family friendly, we set tone, can invite people to breakout rooms that aren't restricted
+- should have had less channels to avoid splitting the crowd until needed
+- more outreach to "drag people along"
+- kids and pets !
 
 ##### Bikeshed
+- [TODO] Link for the bot help on KiwiIRC
 - [TODO] fill out [domain description etherpad]
 
 ##### Important Links
@@ -366,7 +400,9 @@
 ---
 
 #### Finance & Fundraising (??, Hans)
-- 
+- Expo, the expo was not a big success participation-wise, last minute
+- career expo definitely got retweets / excitement if not attendance
+- we got money in, thanks! In the black, adding to our savings, etc
 
 ##### Bikeshed
 - [In-progress] follow up with FSF about finalizing 2020 books, get update on cashlog (Hans)
@@ -455,6 +491,9 @@
 ### SeaGL 2021 Kick-off
 - February/March
 - When should time poll go out?
+- Try to figure out committee chairs async before February kick-off?
+- 2nd week of January polling email
+- maybe start with really bare bones timeline from potential committee chairs before the kickoff mtg
 
 ---
 
@@ -462,7 +501,17 @@
 - 
 
 ## Meeting evaluation / feedback / suggestions / appreciations / goodbyes a bientot round
-- 
+- Tree: had a really good time, so much fun, had the post-conference sads, thank you all so much
+- Don: had a fantastic time, made new friends and put on a fantastic conference, fantastic job everybody
+- Ben: thank Deb again for talking me into doing this, excited to work with everyone again for SeaGL 2021
+- Lucy: could not be prouder of how this conference went, looking forward to 2021
+- Nathan: we did it! another year until we can say that again
+- Deb: we did a fantastic job, all of these new things, showed folks what an online conference could be, opposite of early virtual cons being very dry
+- Keith: was fantastic, great job everyone, thanks for being super persistent Salt, despite constant concern about not going well, excited about doing it next year, hopefully with an in-person component
+- Hans: second year to participate in organizing, even better! with all of the challenges we had, did an amazing job, even despite those, an amazing job, wasn't the same as scc, ???, kept it fun
+- Rachel: kept telling all year will goto an online conference, but it's just going to be rough/dry/etc, but never actually made it to another so nothing to compare directly to, impressed by how warm/social seagl 2020 was, we all brought such a great attitude
+- Andrew: highly nerve wracking, but feel good in retrospect, now begins all of the fun low-priority technical work
+
 
 <!-- Meeting adjourned! -->
 <!-- Capture TODOs -->
