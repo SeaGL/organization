@@ -22,7 +22,7 @@ This is valid as of the OSEM installation in September 2020.
           events.diversity                                                              AS `Diversity`,
           events.first_time                                                             AS `First Time Speaker`,
           events.pnw                                                                    AS `Pacific Northwest`,
-          GROUP_CONCAT(CONCAT(vote_users.name, ":", votes.rating) SEPARATOR "\n")       AS `Votes`,
+          GROUP_CONCAT(CONCAT(vote_users.username, ":", votes.rating) SEPARATOR "\n")   AS `Votes`,
           SUM(votes.rating)                                                             AS `Vote Sum`,
           AVG(votes.rating)                                                             AS `Vote Average`
      FROM events
