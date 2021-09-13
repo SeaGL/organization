@@ -2,7 +2,7 @@
 
 Having a spreadsheet of the proposals is invaluable for scheduling. That requires a dump of more information than we're able to get from the OSEM csv export.
 
-This is valid as of the OSEM installation in September 2020.
+**Note:** This is currently affected by [SeaGL/organization#165](https://github.com/SeaGL/organization/issues/165).
 
 ```sql
    SELECT events.id                                                                     AS `Event ID`,
