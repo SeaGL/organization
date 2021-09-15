@@ -53,5 +53,5 @@ If someone has taken your handle you can use
 ```
 to recover it.
 
-You can read more about nick registration [in Freenode's
-documentation](https://freenode.net/kb/answer/registration).
+You can read more about nick registration [in Libera.Chat's
+documentation](https://libera.chat/guides/registration).
