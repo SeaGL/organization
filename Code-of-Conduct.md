@@ -13,36 +13,36 @@ This CoC applies during the entire conference and in any conference associate sp
 
 -   Offensive verbal, written, or chat comments
 
--   Offensive direct messages (DMs)
+-   Sustained disruption of talks or events
 
--   Sexual images in public spaces
+-   Offensive direct messages (DMs)
 
 -   Deliberate intimidation
 
--   Stalking, following
+-   Stalking, unwelcome following
 
--   Unauthorized photography or recording without permission
-
--   Sustained disruption of talks or events
-
--   Any and all inappropriate physical contact
+-   Sexual images in public spaces
 
 -   Persistent unwelcome sexual attention
 
+-   Any and all inappropriate physical contact
+
+-   Unauthorized photography or recording without permission
+
 -   Server based abuse (flooding, spamming, DoS attempts)
 
-Please note, this list is not exhaustive and SeaGL staff and moderators will be available to triage any actions as they might occur and deploy moderation (sanctioning or expulsion), as needed. Participants asked to stop any harassing behavior are expected to comply immediately.
+Please note, this list is not exhaustive. SeaGL staff and moderators will be available to triage any actions as they might occur, and to deploy moderation (sanctioning or expulsion) as needed. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Sexual language and imagery are not appropriate at this conference. Exhibitors at the sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Sexual language and imagery are not appropriate at this conference. Exhibitors at the sponsor or vendor booths, or similar activities, are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Staff and moderators will be trained and on hand during the entire duration of the conference to address any concerns. For any harassment that happens after the conference, conference staff can also be emailed via <CoC@seagl.org> year-round.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the conference staff immediately. Staff and moderators will be trained and on hand during the entire duration of the event to address any concerns. For any harassment that happens after the conference, staff members can be reached year-round by emailing <CoC@seagl.org>.
 
 To respect the privacy of those involved and insulate any legal concerns, SeaGL's policy is to not make public statements about individual CoC cases. All CoC decisions are made collectively by the SeaGL CoC committee, or in the absence of a current committee, collectively by other committee organizing chairs of the SeaGL organization.
 
-We will be happy to help participants and assist those experiencing harassment or intimidation to feel safe for the duration of the conference. We value your attendance.
+We strive to help our participants, and assist those experiencing harassment or intimidation, in feeling safe for the duration of the conference. We value your attendance!
 
 \---
 
 This CoC is based in part on the template found here, <https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy>, and is available under the Creative Commons Zero License.
 
-We are eager to consider any additions to this CoC that you might find valuable to better support you or others or to clarify our objective. Thank you.
+We are eager to consider any additions to this CoC that you might find valuable, to better support you or others, or to clarify our objective. Thank you!
