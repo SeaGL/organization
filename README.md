@@ -8,12 +8,15 @@ SeaGL has an existing Google Drive that contains a lot of our historical documen
 
 It takes a lot of committees to make a volunteer-run conference happen. Here are ours:
 
-* [Financial](./financial/README.md)
-* [Media](./media/README.md)
-* [Program](./program/README.md)
-* [Onsite](./onsite/README.md)
-* [Outreach](./outreach/README.md)
-* [Tech](./tech/README.md)
+* [Programming & Flow](./programming_flow)
+* [Finance](./finance)
+* [Attendee Experience](./attendee_experience)
+* [Promotion & Outreach](./promotion_outreach)
+* [Partnerships](./partnerships)
+* [SRE/Technical](./tech)
+* [Volunteers](./volunteers)
+* [Inclusivity, Diversity, Equity, Accessibility (IDEA)](./IDEA)
+* [Code of Conduct (CoC)](./CoC)
 
 ## Private files
 
