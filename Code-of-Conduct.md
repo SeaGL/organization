@@ -5,7 +5,7 @@ CODE OF CONDUCT (CoC)
 
 **Email: CoC@SeaGl.org**
 
-SeaGL is dedicated to providing a harassment-free conference experience for everyone; regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, nationality, race, citizenship and/or refugee status, religion, or employment status. We do not tolerate harassment of conference staff, volunteers, presenters, attendees, exhibitors, and participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference, without a refund, at the discretion of the conference organizers.
+SeaGL is dedicated to providing a harassment-free conference experience for everyone. We do not tolerate harassment of conference staff, volunteers, presenters, attendees, exhibitors, and participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference, without a refund, at the discretion of the conference organizers.
 
 This CoC applies during the entire conference and in any conference associate space, online or otherwise. Which includes, but is not limited to: the conference venue, presentation spaces, exhibition hall, evening gatherings, social media, Google groups, email lists, and online channels (Matrix or IRC).
 
