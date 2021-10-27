@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="900px" version="1.1" width="1600px">
+  <defs/>
+  <rect fill="rgb(28,102,131)" height="900px" stroke="rgb(28,102,131)" width="1600px" x="0" y="0"/>
+  <rect fill="rgb(253,180,37)" height="45px" stroke="rgb(253,180,37)" width="1600px" x="0" y="195"/>
+  <rect fill="rgb(255,255,255)" height="125px" stroke="rgb(255,255,255)" width="1600px" x="0" y="775"/>
+  <text fill="rgb(8,9,10)" font-family="Open Sans" font-size="48px" font-weight="700" text-anchor="start" x="35" y="845">#SeaGL2021</text>
+  <text fill="rgb(8,9,10)" font-family="Open Sans" font-size="48px" font-weight="700" text-anchor="end" x="1565" y="845">seagl.org</text>
+  <image height="200px" width="184px" x="708.0" xlink:href="seagl-logo-with-headphone-with-mic.svg" y="20"/>
+  <text fill="rgb(43,141,180)" font-family="Roboto" font-size="138.667px" font-weight="700" text-anchor="start" x="450" y="150">2 0</text>
+  <text fill="rgb(43,141,180)" font-family="Roboto" font-size="138.667px" font-weight="700" text-anchor="end" x="1150" y="150">2 1</text>
+  <text fill="rgb(255,255,255)" font-family="Open Sans Extrabold" font-size="60px" font-weight="400" text-anchor="middle" x="50%" y="500">Computing Confidentially in the Clouds</text>
+  <text fill="rgb(255,255,255)" font-family="Open Sans" font-size="48px" font-weight="400" text-anchor="middle" x="50%" y="650">Aeva Black</text>
+</svg>
