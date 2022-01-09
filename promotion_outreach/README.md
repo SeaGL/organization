@@ -1,10 +1,28 @@
 # Organizational information
 
-* [Kanban board](https://gnu-cloud.yourownnet.cloud/apps/deck/#/board/2)
+* [Google Drive folder](https://drive.google.com/drive/u/1/folders/1visuDPJlFuMf0NDVCcLnfMKBrE83TOKR)
 * Mailing list: outreach@seagl.org
 
 # Blog
 
-See the [README.md file in the seagl.github.io repo](https://github.com/SeaGL/seagl.github.io/blob/master/README.md) for information on the blog.
+See the [README.md file in the seagl.github.io repo][blog] for information on the blog.
 
-More content on its way. Please hold…
+# Duties
+
+The Promotion & Outreach committee is responsible for
+
+* Writing and reviewing [blog][blog] posts
+* Managing social media accounts
+* Press and advertising
+* Design assets related to social media and advertising
+
+# Social media accounts
+
+See the [social guide](social_guide.md) for information on how we use our social media accounts.
+
+* Twitter: [@seagl](https://twitter.com/seagl)
+* Mastodon: [@SeaGL@mastodon.social](https://mastodon.social/web/@SeaGL)
+* Facebook: [SeattleGnuLinuxConference](https://www.facebook.com/SeattleGnuLinuxConference)
+
+
+[blog]: https://github.com/SeaGL/seagl.github.io/blob/main/README.md
