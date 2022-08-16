@@ -1,7 +1,6 @@
-
 # 2022.06.20 SeaGl Finance
-
 - June 20th, 2022. 1600 Pacific Time
+
 - [Shared Pad](https://pad.seattlematrix.org/p/SeaGL_2022_finance)
 - [Jitsi URL](https://meet.seattlematrix.org/SeaGL_2022_finance)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2022)
@@ -16,7 +15,7 @@
 - Facilitator: Norm
 - Note Taker(s): Norm
 - Note Taker(s) for next time: 
-    
+
 - Norm: still phreaking about house, joys of modifying house
 - Sri: been a whole year of changes, busy with job search, doing some Open Source stuff at Intel
 - Salt: also freaking out about unemployment, but spent a week out camping
@@ -27,7 +26,6 @@
 # Agenda
 ## Previous ToDo
 ### Angenda for next meeting
-  
 
 ### References
 - [2021 fiscal sponsor details](https://docs.google.com/spreadsheets/d/1On-iXCVhR1jgV4hCXdmTkLunlayPYrMA9nCmRBwuz10/)
@@ -46,11 +44,12 @@
 - CC finance on all emails with OSI.
   - [ ] Email OSI and start discussion on the above  (Norm) - Do by 6/7
   - https://pad.seattlematrix.org/p/SeaGL_2022_finance_OSI_initial_email
+
 ### sponsor prospectus timeline / shared labor
 - [ ] request monthly transactions (hans/norm)  - Add to OSI email
 
 #### Prospectus/Sponsorship discussion
-- Can we note local businesses no matter the size of the company?  
+- Can we note local businesses no matter the size of the company?
   - Can we have special ribbons for speakers, sponsors, local, etc? (question for tech team?)
   - Multiple years, both sponsors and speakers.  Maybe do something once we get back?
     - scavenger hunt?
@@ -65,11 +64,13 @@
 - Hans worked on formulas, but did not get that far.
   - 3-5 hours to convert it.
   - how do we want to deal with sponsors
-    - paid vs non-paid.   OSI not involved with non-paid, but contracts, etc?
+    - paid vs non-paid.
+      - OSI not involved with non-paid, but contracts, etc?
     - keep lead sheet seperate from the actual sponsor spreadsheet.
       - reduce info/discussion with OSI
       - protect info of lead sheet.
-  - people/timestamps is difficult.   may just use dropdowns/hand enter
+  - people/timestamps is difficult.
+    - may just use dropdowns/hand enter
   - Hans looking at NextCloud.
   - [ ] Finish prepping the OSI budget spreadsheet (hans and norm working session)
   - [ ] Move Lead Sheet over to NextCloud  (hans and norm working session)
@@ -99,15 +100,16 @@
   - Maybe get the monthly data a week before? Not waiting for the day of to review.
   - New, outstanding, recent items.
   - [ ] Include in email to OSI (Norm)
-- Salt paying for storage.  Moved out and then in.
+- Salt paying for storage.
+  - Moved out and then in.
 
 ### Misc Items
 - Periodic coffee/doughnuts for the teams?
   - Maybe OSI when we first meeting with them.
-  - Committees...  $200 for each for team building?
-     - Feedback in the All-hands
-     - Ask OSI if this is an issue.  OSI email+
-  - Gift Cards for remote/virtual meetings?
+- Committees...  $200 for each for team building?
+   - Feedback in the All-hands
+   - Ask OSI if this is an issue.  OSI email+
+- Gift Cards for remote/virtual meetings?
 
 ## Retrospective
 - confirm Mind's Eye has gotten paid from OSI (Salt)
@@ -118,18 +120,19 @@
     - Need to test spreadsheet/process
   - Can we make it right by giving a 'bonus'?
   - Talk to Nathan (after OSI meeting).
-- Bikeshed
-  - fully transition to consistent document formats
-  - write more documentation for external consumption
+
+### Bikeshed
+- fully transition to consistent document formats
+- write more documentation for external consumption
 
 ## Timeline
 - Monthly transactions - Jul 18
 - Meet with tech team about reimbursement templates (Hans) - Jun 13
-~~- Outstanding financial items~~
- ~~ - Ben's April 18th email.~~
-  ~~- Find all items already turned in...  get summary.~~
-    ~~[ ] Norm to gather list - 6/20~~
-    ~~- See what is not in process yet.~~
+- ~~Outstanding financial items~~
+  - ~~Ben's April 18th email.~~
+  - ~~Find all items already turned in...  get summary.~~
+    - [ ] ~~Norm to gather list - 6/20~~
+    - ~~See what is not in process yet.~~
 
 ###  Transaction Tech
 - Ask tech if can have a github template for budget items, re-imbursements,
