@@ -6,8 +6,8 @@
 - [Jitsi URL](https://meet.seattlematrix.org/SeaGL_2022_finance)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2022)
 - [Mailing list](https://groups.google.com/a/seagl.org/g/seagl2022)
-- [Lead Sheet] (https://gnu-cloud.yourownnet.cloud/s/otw43NPCx7GomRn)
-- [Links] (https://etherpad.seattlematrix.org/p/SeaGL_2021_links)
+- [Lead Sheet](https://gnu-cloud.yourownnet.cloud/s/otw43NPCx7GomRn)
+- [2021 Links](https://etherpad.seattlematrix.org/p/SeaGL_2021_links)
 
 ## Procedural
 ### Check-in round
@@ -44,28 +44,24 @@
 - can we get a monthly (or more regular) accounting? can this be in a csv so that we can have in rev control?
 - want to wait on spreadsheet magic until we know where we are heading
 - CC finance on all emails with OSI.
-  [ ] Email OSI and start discussion on the above  (Norm) - Do by 6/7
-  https://pad.seattlematrix.org/p/SeaGL_2022_finance_OSI_initial_email
+  - [ ] Email OSI and start discussion on the above  (Norm) - Do by 6/7
+  - https://pad.seattlematrix.org/p/SeaGL_2022_finance_OSI_initial_email
 ### sponsor prospectus timeline / shared labor
-  [ ] request monthly transactions (hans/norm)  - Add to OSI email
+- [ ] request monthly transactions (hans/norm)  - Add to OSI email
 
 #### Prospectus/Sponsorship discussion
 - Can we note local businesses no matter the size of the company?  
   - Can we have special ribbons for speakers, sponsors, local, etc? (question for tech team?)
   - Multiple years, both sponsors and speakers.  Maybe do something once we get back?
     - scavenger hunt?
-
     - find speakers that have spoken as least 3 years in SeaGL
-
     - which sponsor(s) have been with SeaGL for more than 5 years?
-
     - collect a stamp from Patch ( and have Patch randomly join different sessions/booths)
-
-[ ]  Need blog post about the prospectus being live. (Hans)
- - write and publish once virtual announcement published
+- [ ] Need blog post about the prospectus being live. (Hans)
+  - write and publish once virtual announcement published
 
 #### Sponsorship Spreadsheet
-[ ] investigate formular to capture person and datestamp when an account is marked paid (hans)
+- [ ] investigate formular to capture person and datestamp when an account is marked paid (hans)
 - Hans worked on formulas, but did not get that far.
   - 3-5 hours to convert it.
   - how do we want to deal with sponsors
@@ -75,10 +71,10 @@
       - protect info of lead sheet.
   - people/timestamps is difficult.   may just use dropdowns/hand enter
   - Hans looking at NextCloud.
-  [ ] Finish prepping the OSI budget spreadsheet (hans and norm working session)
-  [ ] Move Lead Sheet over to NextCloud  (hans and norm working session)
-   - spreadsheet in Nextcloud, but still need working session
-   - [ ] verify Sri Nextcloud account and access to Finance (Hans, Sri)
+  - [ ] Finish prepping the OSI budget spreadsheet (hans and norm working session)
+  - [ ] Move Lead Sheet over to NextCloud  (hans and norm working session)
+    - spreadsheet in Nextcloud, but still need working session
+    - [ ] verify Sri Nextcloud account and access to Finance (Hans, Sri)
 
 ###  Sponsors
 - Start looking at Media sponsors for promotion (Hans)
@@ -91,49 +87,49 @@
   - easy to use/transform data from monthly updates.
 
 ### Outstanding Financial items
-  - [ ] [2020 speaker gifts](https://github.com/SeaGL/organization/issues/225)
-  - [ ] [2021 Speaker gift reimbursement](https://github.com/SeaGL/organization/issues/235)
-  - [ ] [2021 Budget: graphical recordings](https://github.com/SeaGL/organization/issues/177)
-  - [ ] [2021 Budget Request: TeaGL]((https://github.com/SeaGL/organization/issues/199)
-  - [ ] [2021 Budget: Conferencing platform costs](https://github.com/SeaGL/organization/issues/173)
-  - [ ] [2021 Budget request: handbills for Open Source Summit](https://github.com/SeaGL/organization/issues/171)
-  - [ ] [2021 Budget request: Social sticker pack design](https://github.com/SeaGL/organization/issues/170)
+- [ ] [2020 speaker gifts](https://github.com/SeaGL/organization/issues/225)
+- [ ] [2021 Speaker gift reimbursement](https://github.com/SeaGL/organization/issues/235)
+- [ ] [2021 Budget: graphical recordings](https://github.com/SeaGL/organization/issues/177)
+- [ ] [2021 Budget Request: TeaGL]((https://github.com/SeaGL/organization/issues/199)
+- [ ] [2021 Budget: Conferencing platform costs](https://github.com/SeaGL/organization/issues/173)
+- [ ] [2021 Budget request: handbills for Open Source Summit](https://github.com/SeaGL/organization/issues/171)
+- [ ] [2021 Budget request: Social sticker pack design](https://github.com/SeaGL/organization/issues/170)
 - Use process we created and follow it.
 - Monthly meetins with OSI financial?
   - Maybe get the monthly data a week before? Not waiting for the day of to review.
   - New, outstanding, recent items.
-  [ ] Include in email to OSI (Norm)
+  - [ ] Include in email to OSI (Norm)
 - Salt paying for storage.  Moved out and then in.
-  
+
 ### Misc Items
-  - Periodic coffee/doughnuts for the teams?
-    - Maybe OSI when we first meeting with them.
-    - Committees...  $200 for each for team building?
-       - Feedback in the All-hands
-       - Ask OSI if this is an issue.  OSI email+
-    - Gift Cards for remote/virtual meetings?
+- Periodic coffee/doughnuts for the teams?
+  - Maybe OSI when we first meeting with them.
+  - Committees...  $200 for each for team building?
+     - Feedback in the All-hands
+     - Ask OSI if this is an issue.  OSI email+
+  - Gift Cards for remote/virtual meetings?
 
 ## Retrospective
-  - confirm Mind's Eye has gotten paid from OSI (Salt)
-    - Meet with OSI
-      - What can we legally do to give them up to 5K?
-      - What other 'gotchas' for using out of country people or companies?
-      - A way to change the contract/wording to not have the 30% held?
-      - Need to test spreadsheet/process
-    - Can we make it right by giving a 'bonus'?
-    - Talk to Nathan (after OSI meeting).
-  - Bikeshed
-    - fully transition to consistent document formats
-    - write more documentation for external consumption
+- confirm Mind's Eye has gotten paid from OSI (Salt)
+  - Meet with OSI
+    - What can we legally do to give them up to 5K?
+    - What other 'gotchas' for using out of country people or companies?
+    - A way to change the contract/wording to not have the 30% held?
+    - Need to test spreadsheet/process
+  - Can we make it right by giving a 'bonus'?
+  - Talk to Nathan (after OSI meeting).
+- Bikeshed
+  - fully transition to consistent document formats
+  - write more documentation for external consumption
 
-  ## Timeline
-  - Monthly transactions - Jul 18
-  - Meet with tech team about reimbursement templates (Hans) - Jun 13
-  ~~- Outstanding financial items~~
-   ~~ - Ben's April 18th email.~~
-    ~~- Find all items already turned in...  get summary.~~
-      ~~[ ] Norm to gather list - 6/20~~
-      ~~- See what is not in process yet.~~
+## Timeline
+- Monthly transactions - Jul 18
+- Meet with tech team about reimbursement templates (Hans) - Jun 13
+~~- Outstanding financial items~~
+ ~~ - Ben's April 18th email.~~
+  ~~- Find all items already turned in...  get summary.~~
+    ~~[ ] Norm to gather list - 6/20~~
+    ~~- See what is not in process yet.~~
 
 ###  Transaction Tech
 - Ask tech if can have a github template for budget items, re-imbursements,
@@ -146,7 +142,7 @@
 - message to last year's partners (Hans, Salt, Sri) - Jul 11
 
 # IDEA - mentioned in meeting.
-[x] Hans requesting writeup of what we are looking for in people (Salt).
+- [x] Hans requesting writeup of what we are looking for in people (Salt).
 - Everyone to look at, perferably someone in addition to finance.
 - https://pad.seattlematrix.org/p/SeaGL_2022_IDEA-first_message
 - ask Dawn for feedback (Hans)
@@ -158,23 +154,21 @@
 # Exihbitors
 
 # New items for next week
-[ ] PR and post virtual announcement
- - https://pad.seattlematrix.org/p/SeaGL_2022_virtual_announcement
+- [ ] PR and post virtual announcement
+  - https://pad.seattlematrix.org/p/SeaGL_2022_virtual_announcement
 
 ## Call for volunteers and such needed.
-[ ] https://pad.seattlematrix.org/p/SeaGL_2022_Outreach-first_message
+- [ ] https://pad.seattlematrix.org/p/SeaGL_2022_Outreach-first_message
 
 ## Update donations section:  Mastodon, etc. (ask Salt)
 
 ## Need to look at once we get Partnerships people.
 - RedHat program? - brought by Salt
-
-    - https://contributor.link/
-
+  - https://contributor.link/
 - Once we get non-profit, working other companies - OpenSuse (since we use their calendar), etc. - brought by Hans
 - Document what we are using and how.   What is pro/con of the item. Example: Big blue button.  Hopefully promote communittee discussion. - brought by Hans
 
-Future partnership leads
+## Future partnership leads
 - Jupiter broadcasting (podcast) - help promote
   - self hosted show (ssh).
 - Tuxedo computers
@@ -189,4 +183,3 @@ Future partnership leads
 - Hans: Made progress, but need progress in other areas.   Better shape than a couple of weeks ago..
 - Norm: thanks for looking at etherpad
 - Sri: thanks for inviting back in to participate in SeaGL for another year, sunny outside, so mood-boosting
-
