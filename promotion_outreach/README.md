@@ -1,5 +1,6 @@
 # Organizational information
 
+* [SeaGL/outreach] repository
 * [Google Drive folder](https://drive.google.com/drive/u/1/folders/1visuDPJlFuMf0NDVCcLnfMKBrE83TOKR)
 * Mailing list: outreach@seagl.org
 
@@ -26,3 +27,4 @@ See the [social guide](social_guide.md) for information on how we use our social
 
 
 [blog]: https://github.com/SeaGL/seagl.github.io/blob/main/README.md
+[SeaGL/outreach]: https://github.com/SeaGL/outreach
