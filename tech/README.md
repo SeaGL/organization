@@ -1,5 +1,9 @@
 # SeaGL Tech
 
+## OUTDATED
+
+Things in this document are out of date, to varying degrees. Contact Tech if you have questions!
+
 ## Welcome - How to get help
 
 SeaGL tech is powered by the fine folks reachable at sre@seagl.org and sometimes also, #seagl on FreeNode. They can help with everything below.
