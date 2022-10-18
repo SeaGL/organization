@@ -2,16 +2,17 @@
 
 ## Resources
 
-- Issue tracker: [SeaGL/tech](https://github.com/SeaGL/tech/issues)
 - Internet Archive collection: [seagl](https://archive.org/details/seagl)
 - Shared storage:
-    - [StreamYard recordings](https://nextcloud.seagl.org/index.php/apps/files/?dir=/AmazonS3/seagl2021-raw-videos-from-streamyard)
+    - [Stream recordings](https://nextcloud.seagl.org/index.php/apps/files/?dir=/AmazonS3/seagl2021-raw-videos-from-streamyard)
 - Tooling:
     - [LosslessCut](https://github.com/mifi/lossless-cut)
     - [AACGain](https://aacgain.altosdesign.com/)
     - [Internet Archive CLI](https://archive.org/services/docs/api/internetarchive/cli.html#bulk-uploading)
 
 ## Video preparation
+
+This can be done in parallel by multiple volunteers.
 
 ### Trimming
 
@@ -244,11 +245,12 @@ If necessary:
     - [x] trimmed video exported
     - [x] volume normalized
 
-## Add title screens
+## Title screens
 
 - [x] Prepend [title screens](https://github.com/SeaGL/tech/issues/28) to exported videos: [`generate-titles`](./generate-titles)
 
 ## Upload to Internet Archive
 
 - [x] Prepare CSV of bulk upload metadata: [`seagl2021.ia.csv`](./seagl2021.ia.csv)
+    - Use identifiers from the [conference archive](https://github.com/SeaGL/seagl.github.io/pull/317)
 - [x] Bulk upload as [@seagl-video-team](https://archive.org/details/@seagl-video-team): `ia upload --spreadsheet 'seagl2021.ia.csv'`
