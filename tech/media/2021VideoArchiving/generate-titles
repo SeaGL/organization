@@ -1,0 +1,93 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+
+mkdir -p "export"
+
+for bare in bare/*.mp4; do
+  base="$(basename "$bare" '.mp4')"
+
+  title="titles/$base.png"
+  title_mp4="titles/$base.mp4"
+  export="export/$base.mp4"
+
+  if [[ ! -f "$title" ]]; then
+    echo "Missing $title" >&2
+    exit 1
+  fi
+
+  if [[ -f "$export" ]]; then
+    echo "Skip $export"
+  else
+    echo "Render $export"
+
+    ffmpeg -hide_banner -loglevel warning -y \
+      -f 'lavfi' -i 'anullsrc' \
+      -framerate '30' -loop '1' -i "$title" \
+      -c:v 'libx264' \
+      -c:a 'aac' \
+      -t '3' \
+      -pix_fmt 'yuv420p' \
+      -vf 'scale=1280x720' \
+      -video_track_timescale '90000' \
+      "$title_mp4"
+
+    ffmpeg -hide_banner -loglevel warning -y \
+      -safe '0' \
+      -f 'concat' \
+      -i <( printf 'file %s\nfile %s' "$(readlink -f "$title_mp4")" "$(readlink -f "$bare")" ) \
+      -c 'copy' \
+      -movflags '+faststart' \
+      "$export"
+
+    rm "$title_mp4"
+  fi
+done
+
+for bare in prerecorded/SeaGL2021-Dmitry_Dolgov-Sounds_of_Open_Source_archaeology_processing_sound_with_sox.mov; do
+  base="$(basename "$bare" '.mov')"
+
+  title="titles/$base.png"
+  title_mp4="titles/$base.mp4"
+  silent="export/$base.silent.mp4"
+  export="export/$base.mp4"
+
+  if [[ ! -f "$title" ]]; then
+    echo "Missing $title" >&2
+    exit 1
+  fi
+
+  if [[ -f "$export" ]]; then
+    echo "Skip $export"
+  else
+    echo "Render $export"
+
+    ffmpeg -hide_banner -loglevel warning -y \
+      -framerate '30' -loop '1' -i "$title" \
+      -c:v 'libx264' \
+      -t '3' \
+      -pix_fmt 'yuv420p' \
+      -vf 'scale=1920x1080' \
+      -video_track_timescale '15360' \
+      "$title_mp4"
+
+    ffmpeg -hide_banner -loglevel warning -y \
+      -safe '0' \
+      -f 'concat' \
+      -i <( printf 'file %s\nfile %s' "$(readlink -f "$title_mp4")" "$(readlink -f "$bare")" ) \
+      -c 'copy' \
+      -an \
+      "$silent"
+
+    ffmpeg -hide_banner -loglevel warning -y \
+      -i "$silent" \
+      -itsoffset '00:00:02.58' \
+      -i "$bare" \
+      -c:v copy \
+      -map 0:0 \
+      -map 1:1 \
+      -movflags '+faststart' \
+      "$export"
+
+    rm "$title_mp4" "$silent"
+  fi
+done
