@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1280 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Background -->
+  <rect width="1280" height="720" fill="#1d7193" />
+  <circle cx="75" cy="-345" r="720" fill="#0c5a73" />
+  <circle cx="-170" cy="-300" r="640" fill="#074558" />
+  <circle cx="946" cy="4584" r="4475" fill="#fff" />
+  <rect y="632" width="1280" height="88" fill="#0c5a73" />
+
+  <!-- Header content -->
+  <image x="37" y="30" width="109" height="118.47825" xlink:href="https://seagl.org/img/seagl-logo-with-headphone-with-mic.svg" />
+
+  <!-- Footer content -->
+  <text x="38" y="692" text-anchor="start" fill="#fff" font-family="Dosis" font-size="44">SeaGL 2022</text>
+  <text x="1242" y="692" text-anchor="end" fill="#fff" font-family="Dosis" font-size="44">seagl.org</text>
+
+  <!-- Main content -->
+  <g transform="translate(640 308)"><text text-anchor="middle" fill="#565656" font-family="Dosis" font-size="44">${prefix}</text></g>
+  <g transform="translate(640 390)"><text text-anchor="middle" fill="#074558" font-family="Dosis" font-size="62">${title}</text></g>
+  <g transform="translate(640 472)"><text text-anchor="middle" fill="#074558" font-family="Lato" font-size="44">${presenter}</text></g>
+</svg>
