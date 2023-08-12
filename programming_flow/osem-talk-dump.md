@@ -19,9 +19,6 @@ Having a spreadsheet of the proposals is invaluable for scheduling. That require
           difficulty_levels.title                                                       AS `Difficulty Level`,
           rooms.name                                                                    AS `Room`,
           events.state                                                                  AS `State`,
-          events.diversity                                                              AS `Diversity`,
-          events.first_time                                                             AS `First Time Speaker`,
-          events.pnw                                                                    AS `Pacific Northwest`,
           GROUP_CONCAT(CONCAT(vote_users.username, ":", votes.rating) SEPARATOR "\n")   AS `Votes`,
           SUM(votes.rating)                                                             AS `Vote Sum`,
           AVG(votes.rating)                                                             AS `Vote Average`
@@ -54,7 +51,7 @@ LEFT JOIN event_users                       AS event_users_submitter
       AND event_users_submitter.event_role  = "submitter"
 LEFT JOIN users                             AS submitter_user
        ON submitter_user.id                 = event_users_submitter.user_id
-    WHERE conferences.short_title           = "seagl2020"
+    WHERE conferences.short_title           = "seagl2023"
  GROUP BY events.id
 ```
 
