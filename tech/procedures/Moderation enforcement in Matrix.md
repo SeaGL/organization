@@ -27,6 +27,10 @@ Examples:
 !mjolnir unban coc user <ID>
 ```
 
+## Escalation
+
+If these commands aren't enough and you can't figure out the solution quickly, or you otherwise need more help, call AJ over the phone network or Signal (phone number is in the control room description).
+
 ## Reference
 
 - [Moderator's guide to Mjolnir]
