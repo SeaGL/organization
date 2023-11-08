@@ -6,6 +6,7 @@ The 2023 speaker gift was a SeaGL-branded programmable USB macropad with three k
 
 1. Discard the printed instruction pamphlet; it’s primarily for a different product and promotes proprietary software.
 1. Peel the protective adhesive layer off of the bottom. Temporarily loosening the screws with a Phillips #1 screwdriver can make this easier.
+1. Apply the adhesive rubber feet around the bottom screws. Each foot is a ring with a discardable core.
 1. Program a key layout; the factory configuration is `c` on all keys.
 
 ## Programming
