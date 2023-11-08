@@ -12,7 +12,7 @@ The 2023 speaker gift was a SeaGL-branded programmable USB macropad with three k
 
 The macropad uses the popular [CH552] microcontroller. A variety of open source projects are available for programming it, and we’ve found [ch57x-keyboard-tool] by Mikhail Trishchenkov to be a straightforward and reliable choice.
 
-Example usage:
+Configure buttons and knob:
 
 ```yaml
 # config.yml
@@ -34,6 +34,16 @@ layers:
 
 ```console
 $ sudo ch57x-keyboard-tool upload < 'config.yml'
+```
+
+Configure LEDs:
+
+- `0` off
+- `1` follow button presses
+- `2` dance
+
+```console
+$ sudo ch57x-keyboard-tool led '1'
 ```
 
 [CH552]: https://hackaday.com/2023/03/03/all-the-usb-you-can-do-with-a-ch552/
