@@ -1,8 +1,8 @@
 <!-- See end of pad for meeting best-practices and discussion mechanisms -->
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
-# SeaGL 2024 Organizing All-Committee
-- Monday, June 3, 2024. 5pm Pacific Time (2024-06-04 01:00 UTC)
+# SeaGL 2024 Organizing Cross-Committee
+- Monday, July 29th, 2024. 5pm Pacific Time (2024-07-30 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2024_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2024_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2024)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Salt, Norm, Alfredo, Chance, Kim, AJ
-- Apologies: Robin, Dawn
-- Facilitator: Salt
-- Note Taker(s): Chance
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -44,163 +44,92 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 -->
 #### 01/29
 - [ ] deal with retrospective blocking tasks (Salt)
-- [ ] coordinate working on 2023 videos (AJ)
 
 #### 02/12
 - [ ] schedule tech testing timeslots at hub (Salt)
-  - still working with UW to get a time slot
 
 #### 03/11
 - [ ] write draft of 2023 thank you emails (Salt)
 - [ ] come up with plans for 2023 speaker gift instructions (AJ)
 
-#### 04/22
-- [x] leave feedback about new stickers posted in staff matrix (everyone)
-  - https://matrix.to/#/!nKvndavuCYyYrFzYNW%3Aseattlematrix.org/%247OOdm72O9VgKRefyb2MhpbYFFCkalVQuyw40rUQzD9c
-  - specifically thoughts on white, black, or blue border
-  - can be different for different stickers
-  - [ ] order new seagl stickers before FOSSY (Andrew)
-
 #### 05/06
 - [ ] ask all staff if nextcloud gantt usability is acceptable (AJ)
-- [-] email osuosl requesting postgres for pretalx (AJ)
-  - waiting until postgres cluster is upgraded
-- [ ] get 2024 budget drafted (Norm)
-  - 3/4ths done, will sync w/ Salt
-- [ ] produce CFP flier and graphics (outreach)
-  - draft exists, waiting on corrections, need them in an editable format
-- [ ] look into why Salt isn't getting emails from participate@ (Tech)
-  - some of them went to spam
-  - unsure if more digging is warranted
-  - AJ doing some looking
-- [x] update health policy (Salt)
+
+#### 06/03
+- [ ] order new seagl stickers (before FOSSY)
+- [ ] Draft email for announce list
+  - incl.: ~CFP~, prospectus, volunteering, matrix
+- [ ] Add the people from last SeaGL who signed up for the announce list (Salt)
+- [ ] reschedule outreach meetings (Alfredo)
+
+#### 06/17
+- [ ] meet with uw to discuss costs (salt)
+- [ ] send idea message
+- [ ] start preparing the first blog post announcing keynote speakers
+- [ ] write social media / blog post about AV/DevOps dev environment
+- [ ] review and add something to a committe you've worked with on wiki-like nextcloud collective (everyone)
+
+#### 07/01
+- [ ] blog post about cfp extension
+
+#### 07/15
+- [ ] build cfp review team (Dawn)
+- [ ] update save-the-date flier for FOSSY/post-CFP
+- [ ] Add Angel to gdrive (Salt)
+- [ ] talk to romeo to arrange transfer of video files (Salt)
 
 
 ### Committee Updates
 <!--
 Important updates and things to share staff-wide
+
+#### Committee Coordinators
+- Attendee Experience: 
+- A/V & DevOps: AJ
+- Finance: Norm
+- IDEA: 
+- Partnerships: Robin
+- Policy & Protocol: 
+- Programming & Flow: Dawn
+- Promotion & Outreach: Alfredo
+- Volunteers: Angel
+- Impresario: Salt
 -->
 
 #### Attendee Experience
-- No updates
 
 #### A/V & DevOps
-- Stuff to support launching the CFP is done / CFP is up!
-- AJ limited in availability re: mailu, largely due to dev environment constraints
-- Q: Dockerized dev environment for SeaGL stuff worthwhile?
-  - Maybe not worth the effort, but could be valauble
-  - Current workflow is for AJ to run Ansible workbooks against production and manually validate
-  - Andrew has a Vagrant/Terraform/Ansible pipeline that we may be able to draw inspiration from
 
 #### Finance
-- Norm to work on the Finance in Nextcloud (modeling after TechDev).
-  - Need to add reimbursement process
 
 #### IDEA
-- Now that CFP is open, worthwhile to reach out to underrepresented people in tech
-- [ ] dust off idea cfp message from previous year (Salt)
 
 #### Partnerships
-- updated sponsors on website
-- table accepted at FOSSY
-  - Context: FOSSY sorta replaced OSCON
-  - 8/1-4 in Portland (https://2024.fossy.us/)
-  - Salt running an economics track, so submit a talk
-- Google is our first paid sponsor
 
 #### Policy & Protocol
-- merged the h&s changes discussed
-  - FOSSY has a fairly tight version we might want to move towards next year
-  - https://2024.fossy.us/attend/health-and-safety/
-- [ ] add h&s to cfp landing page
 
 #### Programming & Flow
-- update about keynote invitations?
-  - deadline for initial batch was yesterday
-  - no confirmations yet
-- CFP has launched!
-  - https://seagl.org/cfp
-- new volunteer interested in joining this committee
 
 #### Promotion & Outreach
-- CFP has launched
-  - have blog post to go along
-  - sent out to socials
-  - will keep posting every couple days for engagement
-  - shorter timeframe, try to get most people during June even if we need an extension
-- need to get physical fliers up asap
-  - [ ] look into modifying save-the-date flier for cfp (kim)
-- Q: Should we create events on social platforms?
-  - Going to post with old banners and update them when available
-  - LinkedIn: couldn't change the header d/t lack of permissions
-- [ ] Create events on social platforms (Salt)
 
 #### Volunteers
-- salt emailed all of the volunteer form submissions
-- currently don't have a mailing list for coordinating volunteers, we just have a list of old volunteers
-  - don't like the proliferation of mailing lists, especially w/ our desire to move away from Google, but may be necessary
-- [ ] Create a volunteer coordination mailing list (Salt)
+
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
 
-#### Emailing Announce list
-- The very-low-traffic announce list would be a good place to call out the CFP, sponsoring, and volunteering (and link to the appropriate blog posts).
-  - Also link to Matrix?
-- [ ] Draft email for announce list
-  - incl.: CFP, prospectus, volunteering, matrix
-- [ ] Add the people from last SeaGL who signed up for the announce list (Salt)
-- [ ] Send announce list email, target Friday, June 7 (Salt)
-  - Sooner is better, want to send by Friday, June 7.
 
-#### Prioritizing Committee Time
-- Not a whole lot of us (trying to change that!), but some committees don't have assigned/available individuals.
-  - Want the committees to ideally be self-standing / operating with some level of independence.
-- Want to explore how to potentially get those committees staffed without burning out existing volunteers.
-- Advice / suggestions welcome re: how to best priortize the time of those we already have.
-- AttendEx will need someone sooner rather than later to ensure the on-site experience is good. Policy and Protocol is maybe less of a demand at the moment. Help reviewing talks soon would be helpful. 
-- Shoutout to AJ for the Nextcloud document sharing initative.
-- Chance suggested the potential of doling out atomic tasks that anyone can pick up w/o the commitment of being a committee coordinator
-  - Existing effort in this direction, could always use more.
-
-#### Recruiting Committee Coordinators
-- Attendee Experience: 
-- A/V & DevOps: AJ
-- Finance: Norm
-- IDEA (Inclusion, Diversity, Equity, Access): 
-- Partnerships: Robin
-- Policy & Protocol: 
-- Programming & Flow: Dawn and Romeo
-- Promotion & Outreach: Alfredo (interim) and Mateus
-- Volunteers: 
-- Impresario: Salt (but is actively seeking a junior to train up/replace)
-
-#### Going through open tasks from last year
+#### Go through open tasks from last year
 - https://github.com/SeaGL/organization/blob/main/meetings/2023/20231113-retrospective.md#1113---new-todos
 
 
 ### Open discussion (~5 minute, if time)
-- [x] Send an email to have OSUOSL upgrade Nextcloud (AJ)
-- [ ] reschedule outreach meetings (Alfredo)
-- [ ] Please try to get your friend(s) to submit a talk! (everyone)
+
 
 ## Wrap-up
-### 06/03 - New TODOs
-- [ ] order new seagl stickers before FOSSY (Andrew)
-- [ ] dust off idea cfp message from previous year (Salt)
-- [ ] add h&s to cfp landing page
-- [ ] look into modifying save-the-date flier for cfp (kim)
-- [ ] Create events on social platforms (Salt)
-- [ ] Create a volunteer coordination mailing list (Salt)
-- [ ] Draft email for announce list
-  - incl.: CFP, prospectus, volunteering, matrix
-- [ ] Add the people from last SeaGL who signed up for the announce list (Salt)
-- [ ] Send announce list email, target Friday, June 7 (Salt)
-- [x] Send an email to have OSUOSL upgrade Nextcloud (AJ)
-- [ ] reschedule outreach meetings (Alfredo)
-- [ ] Please try to get your friend(s) to submit a talk! (everyone)
+### 07/29 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -211,17 +140,17 @@ Important updates and things to share staff-wide
 - November 8-9 (Friday/Saturday): SeaGL 2024
 
 ### Next All-Committee Meeting
-- Monday, June 17 @ 5pm Pacific Time (2024-06-18 01:00 UTC)
+- Monday, August 12 @ 5pm Pacific Time (2024-08-13 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
 - A/V & DevOps: Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), same week as all-hands
-- Finance:  Every Wednesday, 4pm Pacific Time (Thursday 00:00 UTC)
+- Finance: Every Wednesday, 4pm Pacific Time (Thursday 00:00 UTC)
 - IDEA: 
-- Partnerships: 
+- Partnerships: Every Wednesday, 4pm Pacific Time (Thursday 00:00 UTC)
 - Policy & Protocol: 
 - Programming & Flow: Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), off-weeks from all-hands
-- Promotion & Outreach:  Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), off-weeks from all-hands
+- Promotion & Outreach: Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), off-weeks from all-hands
 - Volunteers: 
 
 ### Sign-off round (what's next, appreciations, suggestions)
@@ -229,12 +158,7 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Salt: Thank you everyone! Sorry to have missed an all-team meeting but happy to have the CFP up.
-- Norm: Will work on Reimbursement workflow. Happy to see everyone.
-- Alfredo: Keep pushing the CFP
-- Chance: have some a/v devops stuff to finish, terraform PRs, happy to take notes
-- Kim: nice to meet everyone, hope to have a fun next couple of months/years/unspecified time durations
-- AJ: Bonkers that the CFP is launched and we're less than 6 months out. Very tired.
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
 
