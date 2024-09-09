@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2024 Organizing Cross-Committee
-- Monday, August 26th, 2024. 5pm Pacific Time (2024-08-27 01:00 UTC)
+- Monday, September 9th, 2024. 5pm Pacific Time (2024-09-10 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2024_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2024_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2024)
@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Kim, Norm, Tammy, Salt, Sean, AJ, Dina
-- Apologies: 
+- Attendees: Kim, Salt, AJ, Norm, Dawn, Dina, Sean, Emmanuel, Alfredo
+- Apologies: Angel
 - Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -54,26 +54,39 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 
 #### 06/03
 - [ ] reschedule outreach meetings (Alfredo)
+  - Sending new poll 9/9 (Alfredo)
 
 #### 06/17
-- [ ] edit & send IDEA message (??)
+- [ ] edit & send IDEA message (Dina)
+  - https://pad.riseup.net/p/SeaGL_2024_IDEA
 - [ ] write social media / blog post about AV/DevOps dev environment (AJ, Alfredo)
 - [ ] review and add something to a committee you've worked with on wiki-like nextcloud collective (everyone)
 
-#### 07/15
-- [x] talk to romeo to arrange transfer of video files (Salt)
-  - [ ] get 2023 video files to kim (Salt)
-
 #### 08/12
-- [ ] finalize and post blog announcing keynote speakers (??)
+- [ ] finalize and post blog announcing keynote speakers (Alfredo)
   - https://docs.google.com/document/d/1tEY36Kt5fMcG8Hh8Xl1CRkon1NiYR55xT55GHTIeBgI/
-- [ ] iron out details with JMP sponsorship (Robin)
-- [ ] figure out if everyone is working off same partnership sheet (Robin, Norm, Salt)
-- [ ] send email to confirmed keynotes cc'ing Norm for travel finance (Dawn)
+  - have bio from one speaker
+  - sent emails to alfredo for connecting to promo/outreach
+  - [ ] request keynote bios (Dawn)
+- [x] iron out details with JMP sponsorship (Robin)
+- [x] figure out if everyone is working off same partnership sheet (Robin, Norm, Salt)
+- [x] send email to confirmed keynotes cc'ing Norm for travel finance (Dawn)
+  - no responses yet
 - [ ] create year-round keynote suggestion form (Salt)
-- [ ] create issue to bikeshed paid ticket conversation (??)
+- [ ] create issue to bikeshed paid ticket conversation (Salt)
 - [ ] transfer keynote info into accessible location (Dawn)
-- [x] update cross committee meeting to weekly starting in september (Salt)
+
+#### 08/26
+- [x] get 2023 video files to kim (Salt)
+  - 24/44 presentations are already processed
+- [ ] set up AX meeting, include angel, kim, tammy (Salt)
+- [x] get volunteer for migration of existing @seagl account to mailu (AJ)
+- [x] update 2024 map page with hotel details (Chance)
+  - https://github.com/SeaGL/seagl.github.io/pull/432
+  - want a double-check review from Salt
+- [x] make sure schedulesdirect has been put in the osi pipeline (norm)
+- [x] Need to clarify speaker wrangler/green room definitions (angel, salt)
+- [x] Verify positions actually needed (angel, salt)
 
 
 ### Committee Updates
@@ -81,7 +94,7 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 Important updates and things to share staff-wide
 
 #### Committee Coordinators
-- Attendee Experience: 
+- Attendee Experience (AX): 
 - A/V & DevOps: AJ
 - Finance: Norm
 - IDEA: 
@@ -93,73 +106,84 @@ Important updates and things to share staff-wide
 - Impresario: Salt
 -->
 
-#### Attendee Experience
-- close on contract
-- [ ] set up AX meeting, include angel kim, tammy (Salt)
+#### Attendee Experience (AX)
+- no updates
 
 #### A/V & DevOps
-- mailu is shipping!
-  - have issued one email account to someone who didn't previously have an address
-  - unsuccesful #2
-  - email drafted to send to existing accounts
-  - aj has already successfully transfered their account
-  - [ ] get volunteer for migration of existing @seagl account to mailu (AJ)
-    - norm volunteers as tribute
-- path forward for migration off dokku
-  - this will basically cut server bills to $0 !
-- romeo passed off the laptops with videos and thumbdrive with downloads
-- [ ] update 2024 map page with hotel details
-  - https://seagl.org/maps/2024
-  - University Inn is the cheapest these days.
-  - https://www.staypineapple.com/university-inn-seattle-wa
+- mailu rollout delayed due to mailu bugs and migration weirdness
+- mailu users trying to email salt@ (or other pre-existing @seagl accounts) need to use their personal emails
 
 #### Finance
-- reached out to dawn for keynote contact info but haven't heard back
-  - will try on matrix
+- Had meeting with OSI today.
+  - They will be processing 2 new of the sponsors this week.
+- Sent email to all Keynotes for expense reimbursement
+  - For next year: When emailing Keynotes, ask them to respond and verify that communication has been received and if there is another email they would prefer for these communications.
+- Weekly meetings to be rescheduled to after all hands (30 minutes).
+  - [ ] update calendar event for finance meetings (norm)
 
 #### IDEA
-- https://pad.riseup.net/p/SeaGL_2024_IDEA
-- open to suggestions on things to do now that cfp is closed
+- no updates
 
 #### Partnerships
-- salt updated the website
-- we have another fiscal sponsor that needs to be sent to osi
-- [ ] make sure schedulesdirect has been put in the osi pipeline (norm)
+- no updates
+- if anyone has leads for fiscal sponsors, please forward them to sponsors@
 
 #### Policy & Protocol
 - no updates
 
 #### Programming & Flow
-- Completed 30/80 reviews, will finish this week.
+- we have four keynotes!!!
+  - aaron wolf, duane o'briene, rachel kelly, christopher neugebauer
+  - mostly west coast, so helps keep costs down
+- we've gone through cfp
+  - accepted those ranked 2 and rejected those ranked 1 and below
+  - meeting again for rest
+  - [ ] put together sample schedule to figure out how many talks we can still accept (Dawn)
+  - may need to shift meeting time
+- emails should go out this week for cfp accept/rejects
+  - may need to manually email backup speakers
+- [ ] send calendar invite for wednesday 1700 for cfp review meeting part 2 (AJ)
+  - dawn will dm list of who should be invited
 
 #### Promotion & Outreach
 - no updates
-- still need ads
+- will be sending poll for new regular meeting time
+- need to do some graphics for announcing talks
+  - script from last year to automate this, see if it is possible this year
 
 #### Volunteers
-- Set up 2024 volunteers space on NextCloud https://cloud.seagl.org/index.php/apps/collectives/%5BExperimental%5D%20SeaGL/Volunteers/Volunteers%202024?fileId=13177
-- Requested chairs/committee reps give me their volunteer requirement numbers
-- Created job descriptions for volunteer positions
-- Set up meeting with Salt for Tuesday re: past volunteer and needs
-- [ ] Need to clarify speaker wrangler/green room definitions
-- [ ] Verify positions actually needed (meeting with Salt?)
+- Sept 9: Emailed everyone who responded to the form
+  - Details at https://cloud.seagl.org/index.php/apps/collectives/%5BExperimental%5D%20SeaGL/Volunteers/Volunteers%202024/Completed?fileId=36072
+- @Salt need to add Roman K to the mailing list
+  - already on the 2024 list, do you mean a different one?
+
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
 
+#### First time speaker mentorship
+- are we doing this?
+  - send them to dawn via matrix or email
+  - will help time permitting
+- can we include this in the acceptance email?
+  - [ ] edit pretalx acceptance email (Dawn)
 
 #### Go through open tasks from last year
 - https://github.com/SeaGL/organization/blob/main/meetings/2023/20231113-retrospective.md#1113---new-todos
 
 
 ### Open discussion (~5 minute, if time)
-- moving weekly starting at the next meeting, september 2
 
 
 ## Wrap-up
-### 08/26 - New TODOs
+### 09/09 - New TODOs
+- [ ] request keynote bios (Dawn)
+- [ ] update calendar event for finance meetings (Norm)
+- [ ] put together sample schedule to figure out how many talks we can still accept (Dawn)
+- [ ] send calendar invite for wednesday 1700 for cfp review meeting part 2 (AJ)
+- [ ] edit pretalx acceptance email (Dawn)
 
 ### Upcoming blog/social posts
 <!--
@@ -170,17 +194,17 @@ Important updates and things to share staff-wide
 - November 8-9 (Friday/Saturday): SeaGL 2024
 
 ### Next All-Committee Meeting
-- Monday, September 2 @ 5pm Pacific Time (2024-09-03 01:00 UTC)
+- Monday, September 16 @ 5pm Pacific Time (2024-09-17 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
-- A/V & DevOps: Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), same week as all-hands
-- Finance: Every Wednesday, 4pm Pacific Time (Thursday 00:00 UTC)
+- A/V & DevOps: Every Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC)
+- Finance: Every Monday, 6pm Pacific Time (Tuesday 02:00 UTC)
 - IDEA: 
-- Partnerships: Every Wednesday, 4pm Pacific Time (Thursday 00:00 UTC)
+- Partnerships: Every Monday, 6pm Pacific Time (Tuesday 02:00 UTC)
 - Policy & Protocol: 
-- Programming & Flow: Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), off-weeks from all-hands
-- Promotion & Outreach: Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), off-weeks from all-hands
+- Programming & Flow: TBD
+- Promotion & Outreach: TBD
 - Volunteers: 
 
 ### Sign-off round (what's next, appreciations, suggestions)
@@ -188,14 +212,15 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Angel: going to meet to chat seagl stuff tomorrow, need to touch base with aj about on-boarding volunteers. appreciation for salt taking many things on
-- Kim: excited that we are moving weekly, things seem to be progressing. appreciate everyone, esp salt
-- Norm: thank you for getting another sponsorship salt, will be working through that process
-- Tammy: appreciation for longevity of this conference, remember being codefellows student in 2019, this being so low barrier was really nice, be kind, be the first to say hello
-- Salt: excited for more focused small group calls, appreciate everyone being here in whatever capacity
-- Sean: scale av team has been 3d printing gear from plastic bottles
-- AJ: excited for mailu stuff, has been stressor and probably stressor for others, excited to onboard and take care of self
-- Dina: been reviewing, appreciative of all of the people who have been submitting talks
+- Kim: great to see stuff getting done, have been migrating videos for archive, will be joining av committee meeting
+- Salt: Thank you all.   I really appriciate you.   Especially new faces.
+- AJ: awesome to see so many new people, shout out to everyone helping debug mailu.
+- Norm: thank you dawn for sending out keynote details.
+- Dawn: thank you everyone for bearing with me, really happy to be out of it, excited for direction we are going, about to have keynote roundup in program matrix, then will be pinging keynote speakers again, then cfp acceptances!
+- Dina: appreciate being part of this group, excited to do more speaker reviews, looking forward to looking into IDEA blog post
+- Sean: still trying to find way around platform, goal to join matrix chat
+- Emmanuel: great to hear progress, excited that we are just 2 months away, all set on platform
+- Alfredo: time to start making more noise about conference, happy to have more info to share out
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)

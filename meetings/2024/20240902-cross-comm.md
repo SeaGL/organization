@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2024 Organizing Cross-Committee
-- Monday, August 26th, 2024. 5pm Pacific Time (2024-08-27 01:00 UTC)
+- Monday, September 2nd, 2024. 5pm Pacific Time (2024-09-03 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2024_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2024_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2024)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Kim, Norm, Tammy, Salt, Sean, AJ, Dina
+- Attendees: 
 - Apologies: 
-- Facilitator: Salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -60,20 +60,24 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] write social media / blog post about AV/DevOps dev environment (AJ, Alfredo)
 - [ ] review and add something to a committee you've worked with on wiki-like nextcloud collective (everyone)
 
-#### 07/15
-- [x] talk to romeo to arrange transfer of video files (Salt)
-  - [ ] get 2023 video files to kim (Salt)
-
 #### 08/12
 - [ ] finalize and post blog announcing keynote speakers (??)
   - https://docs.google.com/document/d/1tEY36Kt5fMcG8Hh8Xl1CRkon1NiYR55xT55GHTIeBgI/
 - [ ] iron out details with JMP sponsorship (Robin)
 - [ ] figure out if everyone is working off same partnership sheet (Robin, Norm, Salt)
 - [ ] send email to confirmed keynotes cc'ing Norm for travel finance (Dawn)
-- [ ] create year-round keynote suggestion form (Salt)
+- [ ] create year-round keynote suggestion form
 - [ ] create issue to bikeshed paid ticket conversation (??)
 - [ ] transfer keynote info into accessible location (Dawn)
-- [x] update cross committee meeting to weekly starting in september (Salt)
+
+#### 08/26
+- [ ] get 2023 video files to kim (Salt)
+- [ ] set up AX meeting, include angel kim, tammy (Salt)
+- [ ] get volunteer for migration of existing @seagl account to mailu (AJ)
+- [ ] update 2024 map page with hotel details
+- [ ] make sure schedulesdirect has been put in the osi pipeline (norm)
+- [ ] Need to clarify speaker wrangler/green room definitions
+- [ ] Verify positions actually needed (meeting with Salt?)
 
 
 ### Committee Updates
@@ -94,55 +98,23 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience
-- close on contract
-- [ ] set up AX meeting, include angel kim, tammy (Salt)
 
 #### A/V & DevOps
-- mailu is shipping!
-  - have issued one email account to someone who didn't previously have an address
-  - unsuccesful #2
-  - email drafted to send to existing accounts
-  - aj has already successfully transfered their account
-  - [ ] get volunteer for migration of existing @seagl account to mailu (AJ)
-    - norm volunteers as tribute
-- path forward for migration off dokku
-  - this will basically cut server bills to $0 !
-- romeo passed off the laptops with videos and thumbdrive with downloads
-- [ ] update 2024 map page with hotel details
-  - https://seagl.org/maps/2024
-  - University Inn is the cheapest these days.
-  - https://www.staypineapple.com/university-inn-seattle-wa
 
 #### Finance
-- reached out to dawn for keynote contact info but haven't heard back
-  - will try on matrix
 
 #### IDEA
-- https://pad.riseup.net/p/SeaGL_2024_IDEA
-- open to suggestions on things to do now that cfp is closed
 
 #### Partnerships
-- salt updated the website
-- we have another fiscal sponsor that needs to be sent to osi
-- [ ] make sure schedulesdirect has been put in the osi pipeline (norm)
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- Completed 30/80 reviews, will finish this week.
 
 #### Promotion & Outreach
-- no updates
-- still need ads
 
 #### Volunteers
-- Set up 2024 volunteers space on NextCloud https://cloud.seagl.org/index.php/apps/collectives/%5BExperimental%5D%20SeaGL/Volunteers/Volunteers%202024?fileId=13177
-- Requested chairs/committee reps give me their volunteer requirement numbers
-- Created job descriptions for volunteer positions
-- Set up meeting with Salt for Tuesday re: past volunteer and needs
-- [ ] Need to clarify speaker wrangler/green room definitions
-- [ ] Verify positions actually needed (meeting with Salt?)
+
 
 ### New Items
 <!--
@@ -155,11 +127,10 @@ Important updates and things to share staff-wide
 
 
 ### Open discussion (~5 minute, if time)
-- moving weekly starting at the next meeting, september 2
 
 
 ## Wrap-up
-### 08/26 - New TODOs
+### 09/02 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -170,7 +141,7 @@ Important updates and things to share staff-wide
 - November 8-9 (Friday/Saturday): SeaGL 2024
 
 ### Next All-Committee Meeting
-- Monday, September 2 @ 5pm Pacific Time (2024-09-03 01:00 UTC)
+- Monday, September 9 @ 5pm Pacific Time (2024-09-10 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -188,14 +159,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Angel: going to meet to chat seagl stuff tomorrow, need to touch base with aj about on-boarding volunteers. appreciation for salt taking many things on
-- Kim: excited that we are moving weekly, things seem to be progressing. appreciate everyone, esp salt
-- Norm: thank you for getting another sponsorship salt, will be working through that process
-- Tammy: appreciation for longevity of this conference, remember being codefellows student in 2019, this being so low barrier was really nice, be kind, be the first to say hello
-- Salt: excited for more focused small group calls, appreciate everyone being here in whatever capacity
-- Sean: scale av team has been 3d printing gear from plastic bottles
-- AJ: excited for mailu stuff, has been stressor and probably stressor for others, excited to onboard and take care of self
-- Dina: been reviewing, appreciative of all of the people who have been submitting talks
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
