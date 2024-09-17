@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2024 Organizing Cross-Committee
-- Monday, September 16th, 2024. 5pm Pacific Time (2024-09-17 01:00 UTC)
+- Monday, September 23rd, 2024. 5pm Pacific Time (2024-09-24 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2024_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2024_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2024)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Dina, Robin, Angel, AJ, Norm, Alfredo, Salt
-- Apologies: Kim, Tammy, Dawn
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -52,10 +52,6 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 #### 05/06
 - [ ] ask all staff if nextcloud gantt usability is acceptable (AJ)
 
-#### 06/03
-- [x] reschedule outreach meetings (Alfredo)
-  - thursdays 5pm
-
 #### 06/17
 - [ ] edit & send IDEA message (Dina)
   - https://pad.riseup.net/p/SeaGL_2024_IDEA
@@ -63,21 +59,16 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] review and add something to a committee you've worked with on wiki-like nextcloud collective (everyone)
 
 #### 08/12
-- [/] finalize and post blog announcing keynote speakers (Alfredo)
+- [ ] finalize and post blog announcing keynote speakers (Alfredo)
   - https://docs.google.com/document/d/1tEY36Kt5fMcG8Hh8Xl1CRkon1NiYR55xT55GHTIeBgI/
-  - contacted keynoters for more info, still waiting for responses
 - [ ] create year-round keynote suggestion form (Salt)
 - [ ] create issue to bikeshed paid ticket conversation (Salt)
-- [x] transfer keynote info into accessible location (Dawn)
 
 #### 08/26
 - [ ] set up AX meeting, include angel, kim, tammy (Salt)
 
 #### 09/09
-- [x] request keynote bios (Dawn)
 - [ ] update calendar event for finance meetings (Norm)
-- [x] put together sample schedule to figure out how many talks we can still accept (Dawn)
-- [x] send calendar invite for wednesday 1700 for cfp review meeting part 2 (AJ)
 - [ ] edit pretalx acceptance email (Dawn)
 
 
@@ -99,46 +90,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- venue contract signed, finally
-- talking about not hosting an official after thing on friday, just saturday
-- saturday evening thing will probably run until ~8pm and use the keynote hall
-- we have ~1.5 weeks to make any room changes
-- uncertain yet about what food offerings we'll be able to provide
 
 #### A/V & DevOps
-- mailu migration going well
-- scripted, almost ready to send invitations
-- resolved issue with mailing unmigrated accounts
-- also resolved password issue
-
-##### dev environment social media post
-- thing we were going to publicize about was built on vagrant, but we're pivoting to docker compose
-- hacktoberfest is coming up, would be nice to have announcement that coincides
-- if tech/aj can ship updated version by october, would really like to have social push, otherwise don't worry about it
 
 #### Finance
-- osi should be reaching out to jmp and schedulesdirect
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- no updates
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- met and reviewed all talks
-- cfp acceptance/rejection emails going out asap
 
 #### Promotion & Outreach
-- Schedule new time for weekly meetings. Thurdays 5pm - 6pm PST
-- In contact with keynoters asking for updated bios, socials.
-- TODOs: template images for talks promotion in socials, schedule for posts a very day until day-of-event.
 
 #### Volunteers
-- Only one person responded, are in a meeting this week but are interested in attendee experience and program.
 
 
 ### New Items
@@ -166,7 +133,7 @@ Important updates and things to share staff-wide
 - November 8-9 (Friday/Saturday): SeaGL 2024
 
 ### Next All-Committee Meeting
-- Monday, September 23 @ 5pm Pacific Time (2024-09-24 01:00 UTC)
+- Monday, September 30 @ 5pm Pacific Time (2024-10-01 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -184,13 +151,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Dina: email to send to speakers, IDEA post to send out, appreciate all of the work going on
-- Robin: happy to have idea of next things for partnerships and volunteers
-- Angel: feeling good, grateful to robin, if there is a specific thing that can be helped with lmk
-- AJ: tired but looking forward to having mailu finally here, now to focus on a/v... dreading less than last year
-- Norm: looking forward to finance meeting
-- Alfredo: feeling good about things
-- Salt: really thankful you're all here, gonna try and inbox zero SeaGL stuff
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
