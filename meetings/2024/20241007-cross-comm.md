@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2024 Organizing Cross-Committee
-- Monday, September 30th, 2024. 5pm Pacific Time (2024-10-01 01:00 UTC)
+- Monday, October 7th, 2024. 5pm Pacific Time (2024-10-08 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2024_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2024_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2024)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Alfredo, Norm
-- Apologies: Salt, Dawn
-- Facilitator: Angel
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -69,15 +69,9 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 
 #### 09/23
 - [ ] send email to potential sponsors who haven't responded once our schedule is live (robin)
-- [x] reach out to duane o'brien about keynote info (salt)
 - [ ] generate images for accepted/confirmed talks (alfredo, mateus)
 - [ ] put up posters at physical locations (cafes, libraries, etc.) (everyone)
-- [x] add most recent flyer to website (salt)
 - [ ] connect to go over on-site volunteer needs (Salt, Angel)
-- [x] ask about getting early access on friday (salt)
-- [x] submit updated venue times (salt)
-- [x] submit food and beverage plan to venue (salt)
-- [x] order speaker gifts (salt)
 
 
 ### Committee Updates
@@ -98,11 +92,8 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- Registration volunteer to do brief survey for demographics/comments
 
 #### A/V & DevOps
-- No big changes
-- Approved tech expense for AJ
 
 #### Finance
 
@@ -115,18 +106,8 @@ Important updates and things to share staff-wide
 #### Programming & Flow
 
 #### Promotion & Outreach
-- posted on socials about keynoters
-- need to adress comments on PR for the blog post
-  - almost ready waiting titles and abstract for the talks.
-  - Need to reply to Duane.
-  - Still waiting for Rachel's bio, title and abstract.
-- this week should figure out script to generate images for promoting accepted/confirmed talks
 
 #### Volunteers
-- No updates
-- Registration volunteer
-- If enough volunteers - count attendees
-- Speaker checkin person - distribute gift to them
 
 
 ### New Items
@@ -143,7 +124,7 @@ Important updates and things to share staff-wide
 
 
 ## Wrap-up
-### 09/30 - New TODOs
+### 10/07 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -154,7 +135,7 @@ Important updates and things to share staff-wide
 - November 8-9 (Friday/Saturday): SeaGL 2024
 
 ### Next All-Committee Meeting
-- Monday, October 7 @ 5pm Pacific Time (2024-10-08 01:00 UTC)
+- Monday, October 14 @ 5pm Pacific Time (2024-10-15 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -172,9 +153,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Alfredo: More energy after a short meeting. Keep moving.
-- Norm: Sorry for being late and not being able to open the room earlier. Looking forward to seeing people.
-- Angel: Nervous about the number of volunteer respondees to email. Happy for a shorter meeting.
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
