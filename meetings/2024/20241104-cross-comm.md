@@ -2,8 +2,8 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2024 Organizing Cross-Committee
-- Monday, October 28th, 2024. 5pm Pacific Time (2024-10-29 01:00 UTC)
-- Week -1
+- Monday, November 4th, 2024. 5pm Pacific Time (2024-11-05 02:00 UTC)
+- SeaGL Week!
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2024_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2024_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2024)
@@ -20,9 +20,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Salt, Andrew, Alfredo, Angel, AJ, Kim, Sean, Dina, Norm, Chance, Dawn, Tammy
+- Attendees: 
 - Apologies: 
-- Facilitator: Salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -53,34 +53,32 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] create year-round keynote suggestion form (Salt)
 
 #### 09/23
-- [#] generate images for accepted/confirmed talks (alfredo, mateus)
-  - moved on without images
 - [ ] put up posters at physical locations (cafes, libraries, etc.) (everyone)
   - https://cloud.seagl.org/index.php/apps/files/files/36943?dir=/SeaGL/Promotion%20%26%20Outreach&openfile=true
 
-#### 10/07
-- [x] design badge-program booklet (Kim)
-
 #### 10/14
 - [ ] plan for shopping for coffee, snacks, etc. (Salt)
-- [x] check in with Salt to make checklist of sponsor needs (Norm)
 - [ ] reach out to Romeo and ask about source material for adroll & for badge-program booklet (Salt)
   - let AJ know about adroll, and let Kim know about the booklet
-- [x] flesh out the schedule thing that Salt generated (Salt, Dawn)
-  - https://cloud.seagl.org/index.php/f/38940
 
 #### 10/21
 - [ ] create list of mailing lists to post to
 - [ ] get new room bags/boxes, reorganize and update list of gear in each (AJ)
-- [x] send FAQ email to sponsors (Robin)
 - [ ] email speakers with schedule release details and any other info (Salt)
 - [ ] explore potential conference conflicts for 2025 dates (everyone)
 - [ ] add anything that needs to be printed by 10/28 (everyone)
   - https://cloud.seagl.org/index.php/f/36969
 - [ ] review staged 2023 videos for matching audio, text, start/end time, license, etc. (everyone)
   - https://andrew.kvalhe.im/+7smy8gzeszrw4hxd96iaob9u6eo1b8hy
-  - should we contact speakers?
-  - [ ] ask in general room for reviewers (andrew)
+
+#### 10/28
+- [ ] ask in general room for reviewers of 2023 videos (andrew)
+- [ ] need to pay remainder of venue invoice (salt)
+- [ ] get tech shopping list to salt (aj)
+- [ ] test ephemeral matrix instance (everyone)
+  - https://attend.seagl.org/
+- [ ] draft speaker day-of email (dina)
+- [ ] email about sunday volunteer dimsum (salt)
 
 
 ### Committee Updates
@@ -101,76 +99,28 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- lots of work on the program-badge-booklet
-- [ ] need to pay remainder of venue invoice
-- speaker gifts arrived
-- angel did a lot of work on standardizing printables
-- salt reserved after-social space at big time
 
 #### A/V & DevOps
-- things are proceeding
-- [ ] get tech shopping list to salt (aj)
-- streaming stack progressing
-- matrix portal and space are progressing well
-- [ ] test matrix instance (everyone)
-  - https://attend.seagl.org/
 
 #### Finance
-- osi still working on getting sponsors to pay
-- everyone has responded except for one
 
 #### IDEA
-- no updates
-- if there are certain groups to reach out to, happy to
 
 #### Partnerships
-- robin has left for travels, unreachable until week of seagl
-- emails went out to all of the sponsors with tabling or connection details
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- need assistance due to less availability
-- still planning to be at seagl
-- outstanding task is email to speakers with on-the-day details
-- [ ] draft speaker day-of email (dina)
 
 #### Promotion & Outreach
-- started sending out talk social posts
-- have script and have scheduled posts 4x per day
-- fliering around the city has continued
 
 #### Volunteers
-- No new updates. Setup/registration covered for Friday AM though. :)
-- [ ] email about sunday volunteer dimsum (salt)
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### Post-social at Big Time
-- Salt has a reservation for ~40 from 7-10p on saturday night
-- how much should we publicize this?
-- would like to at least put in booklet
-- physical fliers handouts?
-- if want more people who don't make it to the event, put on schedule
-- regular attendees may know to expect social, but advertising would benefit first-time
-- concern that people will make other plans, but many may expect to hang out with attendees after
-- put something about there being a social, but have to show up and ask for details
-- have an announcement and gathering spot for people to walk over together
-
-#### Program booklet review
-- link coming soon
-- move page numbers to be punch outs
-- update keynote page to use bios
-- add big time to social event
-- update map
-
-#### Printables
-- elevator signs
-
 #### SeaGL 2025 Dates
 - look into moving to october?
   - 10/10-11 (10/13 is indigenous people day)
@@ -192,14 +142,7 @@ Important updates and things to share staff-wide
 
 
 ## Wrap-up
-### 10/28 - New TODOs
-- [ ] ask in general room for reviewers of 2023 videos (andrew)
-- [ ] need to pay remainder of venue invoice (salt)
-- [ ] get tech shopping list to salt (aj)
-- [ ] test ephemeral matrix instance (everyone)
-  - https://attend.seagl.org/
-- [ ] draft speaker day-of email (dina)
-- [ ] email about sunday volunteer dimsum (salt)
+### 11/04 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -210,7 +153,7 @@ Important updates and things to share staff-wide
 - November 8-9 (Friday/Saturday): SeaGL 2024
 
 ### Next All-Committee Meeting
-- Monday, November 4 @ 5pm Pacific Time (2024-11-05 02:00 UTC)
+- Monday, November 18 @ 5pm Pacific Time (2024-11-19 02:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every Thursday, 4pm Pacific Time (Friday 01:00 UTC)
@@ -228,18 +171,7 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Salt: lots to do, lots of thanks
-- Andrew: ditto, seeing how much I can fit in, feel good overall, good stress
-- Alfredo: wish I could do more, but very busy month at work, excited for the event to finally be here, and to help at-day, will be on-call so may not be able to attend next week
-- Angel: Apologies for not being fully present. What a wonderful team. I can't wait to see everyone in person.
-- AJ: feeling the stress, doing better than last year, thank you all for being here, shout out to dina and sean for equiptment help
-- Kim: lot of work to do, but nice to almost be done with booklet
-- Sean: (no audio)
-- Dina: excited, looking forward to the event
-- Norm: was able to switch some vacation days, so will be there friday
-- Chance: excited for first seagl and to be able to play active role
-- Dawn: (had to drop off early)
-- Tammy: been postering like crazy, very excited to have people come and see all of the hard work, here for one-off tasks
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
 
