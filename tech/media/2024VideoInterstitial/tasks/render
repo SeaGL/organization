@@ -1,0 +1,61 @@
+#!/usr/bin/env bash
+set -eEuo pipefail
+
+# Parameters
+audio_path='assets/loop.flac'
+audio_volume='-5dB'
+slide_min_seconds='10'
+slides_path='slides.svg'
+slides_skip='2'
+video_min_seconds="$(( 15 * 60 ))"
+video_height_px='720'
+video_path='interstitial.mp4'
+
+# Calculate video duration
+audio_seconds="$(ffprobe -v 'error' -show_entries 'stream=duration' -of 'default=noprint_wrappers=1:nokey=1' "$audio_path")"
+slides_count="$(( $(grep --count '<inkscape:page' "$slides_path") - slides_skip ))"
+audio_loops="$(<<<"($video_min_seconds + $audio_seconds - 1) / $audio_seconds" bc)"
+video_seconds="$(<<<"$audio_seconds * $audio_loops" bc --mathlib)"
+echo "Minimum video duration ${video_min_seconds}s adjusted to ${video_seconds}s" >&2
+
+# Calculate slide duration
+slides_loop_count="$(( ${video_seconds%.*} / (slides_count * slide_min_seconds) ))"
+slide_seconds="$(<<<"($video_seconds / $slides_loop_count) / $slides_count" bc --mathlib)"
+echo "Minimum slide duration ${slide_min_seconds}s adjusted to ${slide_seconds}s" >&2
+
+# Render slides
+png_dir="$(mktemp --directory --tmpdir="${TMPDIR:-/dev/shm}" 'seagl-XXXXXXXX')"; trap 'rm --force --recursive --verbose "$png_dir"' EXIT
+for ((slide_number=1; slide_number <= slides_count; slide_number++)); do
+  png_path="$(printf '%s/slide-%02d.png' "$png_dir" "$slide_number")"
+
+  echo "Render $png_path" >&2
+  inkscape  \
+    --export-area-page \
+    --export-filename "$png_path" \
+    --export-height "$video_height_px" \
+    --export-page "$((slides_skip + slide_number))" \
+    --export-type 'png' \
+    "$slides_path"
+  [[ -f "$png_path" ]] # Can’t trust Inkscape
+done
+
+# Render video
+echo "Render $video_path" >&2
+ffmpeg \
+  -hide_banner \
+  -framerate "1/$slide_seconds" \
+  -loop '1' \
+  -pattern_type 'glob' \
+  -i "$png_dir/*.png" \
+  -stream_loop "$audio_loops" \
+  -i "$audio_path" \
+  -r '24' \
+  -pix_fmt 'yuv420p' \
+  -codec:v 'libx264' \
+  -tune 'stillimage' \
+  -filter:a "volume=$audio_volume" \
+  -codec:a 'aac' \
+  -b:a '128k' \
+  -t "$video_seconds" \
+  -y \
+  "$video_path"
