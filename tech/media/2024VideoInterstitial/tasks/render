@@ -8,9 +8,10 @@ audio_music_fade_start_seconds='78.795'
 audio_beach_start_seconds='80.951'
 audio_loudness_lufs='-30'
 slide_min_seconds='10'
+slide_transition_min_seconds='0.5'
 slides_path='slides.svg'
 slides_skip='2'
-video_fps='24'
+video_fps='30'
 video_min_seconds="$(( 15 * 60 ))"
 video_height_px='720'
 video_path='SeaGL 2024 interstitial.mp4'
@@ -26,10 +27,14 @@ audio_loops="$(<<<"($video_min_seconds + $audio_seconds - 1) / $audio_seconds" b
 video_seconds="$(<<<"$audio_seconds * $audio_loops" bc --mathlib)"
 echo "Video duration adjusted from ${video_min_seconds}s to ${video_seconds}s" >&2
 
-# Calculate slide duration
-slides_loop_count="$(( ${video_seconds%.*} / (slides_count * slide_min_seconds) ))"
-slide_seconds="$(<<<"($video_seconds / $slides_loop_count) / $slides_count" bc --mathlib)"
+# Calculate slide and transition duration (see https://www.astro-electronic.de/FFmpeg_Book.pdf §2.4)
+slides_loop_count="$(<<<"$video_seconds / ($slides_count * ($slide_min_seconds + $slide_transition_min_seconds))" bc)"
+chunks_per_slide="$(<<<"($slide_min_seconds + $slide_transition_min_seconds) / $slide_transition_min_seconds" bc)"
+chunk_seconds="$(<<<"$video_seconds / ($slides_loop_count * $slides_count * $chunks_per_slide)" bc --mathlib)"
+chunk_hz="$(<<<"1 / $chunk_seconds" bc --mathlib)"
+slide_seconds="$(<<<"$chunk_seconds * ($chunks_per_slide - 1)" bc --mathlib)"
 echo "Slide duration adjusted from ${slide_min_seconds}s to ${slide_seconds}s" >&2
+echo "Transition duration adjusted from ${slide_transition_min_seconds}s to ${chunk_seconds}s" >&2
 
 # Render slides
 png_dir="$(mktemp --directory --tmpdir="${TMPDIR:-/dev/shm}" 'seagl-XXXXXXXX')"; trap 'rm --force --recursive --verbose "$png_dir"' EXIT
@@ -48,6 +53,7 @@ for ((slide_number=1; slide_number <= slides_count; slide_number++)); do
 done
 
 # Render video
+video_width_px="$(ffprobe -v 'error' -show_entries 'stream=width' -of 'default=noprint_wrappers=1:nokey=1' "$png_dir/slide-01.png")"
 echo "Render $video_path" >&2
 ffmpeg \
   -hide_banner \
@@ -55,13 +61,14 @@ ffmpeg \
   -i "$audio_music_path" \
   -i "$audio_beach_path" \
   -filter_complex "
+    [0:v] zoompan=d=$chunks_per_slide:fps=$chunk_hz:s=${video_width_px}x$video_height_px, framerate=fps=$video_fps:interp_start=0:interp_end=255:scene=100, format=yuv420p;
+  " \
+  -filter_complex "
     [1:a] afade=type=out:curve=losi:start_time=$audio_music_fade_start_seconds:duration=$audio_music_fade_duration_seconds [music];
     [2:a] adelay=all=1:delays=${audio_beach_start_milliseconds} [beach];
     [music] [beach] amix, loudnorm=I=$audio_loudness_lufs;
   " \
-  -t "$video_seconds" \
-  -r "$video_fps" \
-  -pix_fmt 'yuv420p' \
+  -shortest \
   -codec:v 'libx264' -tune 'stillimage' \
   -codec:a 'aac' -b:a '128k' \
   -y \
