@@ -66,10 +66,10 @@ ffmpeg \
   -filter_complex "
     [1:a] afade=type=out:curve=losi:start_time=$audio_music_fade_start_seconds:duration=$audio_music_fade_duration_seconds [music];
     [2:a] adelay=all=1:delays=${audio_beach_start_milliseconds} [beach];
-    [music] [beach] amix, loudnorm=I=$audio_loudness_lufs;
+    [music] [beach] amix, loudnorm=I=$audio_loudness_lufs, aresample=48000;
   " \
   -shortest \
-  -codec:v 'libx264' -tune 'stillimage' \
+  -codec:v 'libx264' -preset 'veryslow' -tune 'stillimage' \
   -codec:a 'aac' -b:a '128k' \
   -y \
   "$video_path"
