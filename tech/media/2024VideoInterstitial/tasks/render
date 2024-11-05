@@ -16,6 +16,15 @@ video_min_seconds="$(( 15 * 60 ))"
 video_height_px='720'
 video_path='SeaGL 2024 interstitial.mp4'
 
+# Metadata
+source_dir="$(dirname "${BASH_SOURCE[0]}")/.."
+source_dir_relative="$(realpath --relative-to "$(git rev-parse --show-toplevel)" "$source_dir")"
+source_commit="$(git rev-list --max-count='1' 'HEAD' "$source_dir")"
+source_url="https://github.com/SeaGL/organization/tree/${source_commit}/${source_dir_relative}"
+source_date="$(git show --date='format:%F' --format='%ad' --no-patch "$source_commit")"
+title="SeaGL 2024 interstitial"
+comment="Source: $source_url"
+
 # Calculate video duration
 audio_beach_start_milliseconds="$(printf '%0.0f' "$(<<<"$audio_beach_start_seconds * 1000" bc)")"
 audio_beach_seconds="$(ffprobe -v 'error' -show_entries 'stream=duration' -of 'default=noprint_wrappers=1:nokey=1' "$audio_beach_path")"
@@ -71,5 +80,8 @@ ffmpeg \
   -shortest \
   -codec:v 'libx264' -preset 'veryslow' -tune 'stillimage' \
   -codec:a 'aac' -b:a '128k' \
+  -metadata "title=$title" \
+  -metadata "date=$source_date" \
+  -metadata "comment=$comment" \
   -y \
   "$video_path"
