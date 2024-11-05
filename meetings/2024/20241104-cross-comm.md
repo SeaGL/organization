@@ -20,9 +20,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: 
+- Attendees: Angel, Alfredo, Andrew, Aj, Norm, Kim, Dawn, Chance, Dina, Salt, Sid
 - Apologies: 
-- Facilitator: 
+- Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -50,35 +50,44 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] review and add something to a committee you've worked with on wiki-like nextcloud collective (everyone)
 
 #### 08/12
-- [ ] create year-round keynote suggestion form (Salt)
+- [x] create year-round keynote suggestion form (Salt)
+  - https://cloud.seagl.org/index.php/apps/forms/s/fb2K987pBp4Fm7ANFAZr84EK
+  - what should our shortlink(s) be? (e.g., seagl.org/keynote-nomination)
+    - suggestion: seagl.org/nominate
+  - [ ] create redirect for year-round keynote suggestion form (Salt)
+    - https://cloud.seagl.org/index.php/apps/forms/s/fb2K987pBp4Fm7ANFAZr84EK
 
 #### 09/23
-- [ ] put up posters at physical locations (cafes, libraries, etc.) (everyone)
+- [x] put up posters at physical locations (cafes, libraries, etc.) (everyone)
   - https://cloud.seagl.org/index.php/apps/files/files/36943?dir=/SeaGL/Promotion%20%26%20Outreach&openfile=true
 
 #### 10/14
-- [ ] plan for shopping for coffee, snacks, etc. (Salt)
-- [ ] reach out to Romeo and ask about source material for adroll & for badge-program booklet (Salt)
+- [x] plan for shopping for coffee, snacks, etc. (Salt)
+- [#] reach out to Romeo and ask about source material for adroll & for badge-program booklet (Salt)
   - let AJ know about adroll, and let Kim know about the booklet
 
 #### 10/21
-- [ ] create list of mailing lists to post to
-- [ ] get new room bags/boxes, reorganize and update list of gear in each (AJ)
-- [ ] email speakers with schedule release details and any other info (Salt)
-- [ ] explore potential conference conflicts for 2025 dates (everyone)
-- [ ] add anything that needs to be printed by 10/28 (everyone)
+- [<] create list of mailing lists to post to (??)
+- [x] get new room bags/boxes, reorganize and update list of gear in each (AJ)
+- [x] email speakers with schedule release details and any other info (Dina)
+  - [ ] email remote speakers day before with links to their rooms (AJ)
+- [x] explore potential conference conflicts for 2025 dates (everyone)
+- [x] add anything that needs to be printed by 10/28 (everyone)
   - https://cloud.seagl.org/index.php/f/36969
 - [ ] review staged 2023 videos for matching audio, text, start/end time, license, etc. (everyone)
   - https://andrew.kvalhe.im/+7smy8gzeszrw4hxd96iaob9u6eo1b8hy
 
 #### 10/28
 - [ ] ask in general room for reviewers of 2023 videos (andrew)
-- [ ] need to pay remainder of venue invoice (salt)
-- [ ] get tech shopping list to salt (aj)
-- [ ] test ephemeral matrix instance (everyone)
+  - is there a way to track progress on this? to avoid duplicating work?
+  - low priority given the circumstances
+- [x] need to pay remainder of venue invoice (salt)
+  - yaay for conference happening!!!
+- [x] get tech shopping list to salt (aj)
+- [x] test ephemeral matrix instance (everyone)
   - https://attend.seagl.org/
-- [ ] draft speaker day-of email (dina)
-- [ ] email about sunday volunteer dimsum (salt)
+- [x] draft speaker day-of email (dina)
+- [x] email about sunday volunteer dimsum (salt)
 
 
 ### Committee Updates
@@ -99,23 +108,81 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
+- bought snacks
+  - what snacks?
+    - "almost everything that is single serving at Costco"
+  - how will the station look like?
+    - three hot water carafes and _ that are refilled from another room
+    - will be kept in the other room and will be refilled throughout the day
+      - is a volunteer task
+      - "maintenance of the expo hall" role - made into existence
+    - no pickups (different from previous years)
+    - can always do more shopping at local shops if needed
+- angel got signage ready for printing
+- [ ] empty out storage unit (salt)
+  - aj getting in at 3pm Wed, may be able to help
+  - chance getting in at 9am Wed, also available to help
+- attend portal is live with production server
+  - website also updated
+  - may need more
+- [ ] Send volunteer coordinator information re: onboarding volunteers into Matrix (AJ)
 
 #### A/V & DevOps
+- Tech testing session on Thursday from 1pm-5pm
+  - when the room is had
+  - prep in the 2 hours prior (11am-1pm)
+- production matrix server and element are launched
+- [ ] launch jitsi server (aj)
+  - to generate speaker rooms
+  - could probably be done without jitsi rooms, but probably not a good idea
+- specific areas where people can help?
+  - "yes but probably realistically only if you have a spare laptop that you can install our OS on"
+  - let AJ know if you have more bandwidth and things can be found
+  - put more eyes on the Matrix stuff and raise any issues found
+- Potential new volunteer interested in tech stuff
+  - Emailed (see Volunteers update below)
+  - website proofreading is helpful and approachable
+    - "tell her to go through the remote attend instructions"
+      - do they make sense?
+      - are there any bugs?
+- [ ] adjust the attend portal homepage (andrew)
+  - very confusing language
+  - suggested: change "Sign In" to "Use existing Matrix account"
+  - maybe also just "Create temporary SeaGL Matrix account"?
 
 #### Finance
+- met with osi this morning
+- still two outstanding sponsors
+- osi made final venue payment, needs invoice
+- github issues for reimbursements need to be checked and addressed
+- if anyone else has reimbursement needs, please submit on github
 
 #### IDEA
+- we discussed accessible seating
+- printing some signage to reserve space
+- want to expand next year, include more icons than wheelchair
 
 #### Partnerships
+- no updates
 
 #### Policy & Protocol
+- no updates
 
 #### Programming & Flow
+- sorted out last minute speaker changes
+- need to send out one more email to remote speakers confirming details
+- seem to be approximating good-to-go
+- signage has been updated
 
 #### Promotion & Outreach
+- lets get something that directs people to the site, so they can start joining matrix rooms and such
+- scheduled posts have been going out
+  - some bigger accounts have boosted our posts
 
 #### Volunteers
-
+- [x] Reach out potential tech volunteer to help with testing (Angel)
+- [ ] Send everyone information re: getting in the right spot in Matrix (Angel)
+- [ ] Add Expo Hall monitor - replenish food/coffee (Angel)
 
 ### New Items
 <!--
@@ -136,13 +203,34 @@ Important updates and things to share staff-wide
 - would like to move away from kubecon conflict
   - 11/10-13 2025, 10/26-29 2026
 - plan to decide at week -0 meeting
+- prices on hub will increase next year due to not having a time cap
+- keep an eye on this year's attendance to make a decision for future years
+- not enough time to change venues before making this decision
+- decided to go with 11/7-8 for 2025
+- [ ] book hub for 11/7-8, 2025 (salt)
 
+#### Sunday Volunteer Thank-You Dim-Sum
+- 11am on Sunday November 10th (2024-11-10 19:00 UTC)
+- Ocean Star (605 7th Ave S Seattle, WA 98104)
+- we'll likely be at the round tables in the back.
+- welcome to bring a +1 and anyone who is interested in volunteering with SeaGL next year
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 ### 11/04 - New TODOs
+- [ ] create redirect for year-round keynote suggestion form (Salt)
+  - https://cloud.seagl.org/index.php/apps/forms/s/fb2K987pBp4Fm7ANFAZr84EK
+- [ ] email remote speakers day before with links to their rooms (AJ)
+- [ ] empty out storage unit (salt)
+- [ ] send volunteer coordinator information re: onboarding volunteers into Matrix (AJ)
+- [ ] launch jitsi server (aj)
+- [ ] adjust the attend portal homepage (andrew)
+- [x] reach out potential tech volunteer to help with testing (Angel)
+- [ ] send everyone information re: getting in the right spot in Matrix (Angel)
+- [ ] add Expo Hall monitor - replenish food/coffee (Angel)
+- [ ] book hub for 11/7-8, 2025 (salt)
 
 ### Upcoming blog/social posts
 <!--
@@ -152,17 +240,19 @@ Important updates and things to share staff-wide
 ### Timeline
 - November 8-9 (Friday/Saturday): SeaGL 2024
 
-### Next All-Committee Meeting
+### 2024 Retrospective Meeting
 - Monday, November 18 @ 5pm Pacific Time (2024-11-19 02:00 UTC)
+- This will likely take over an hour, so please plan 90-120 minutes
 
 ### Committee Meetings
 - Attendee Experience: Every Thursday, 4pm Pacific Time (Friday 01:00 UTC)
 - A/V & DevOps: Every Tuesday, 5pm Pacific Time (Wednesday 02:00 UTC)
+  - Tech Retrospective: November 19, Tuesday after after SeaGL, 5pm Pacific Time (Wednesday 02:00 UTC)
 - Finance: Every Monday, 6pm Pacific Time (Tuesday 03:00 UTC)
 - IDEA: 
 - Partnerships: Every Monday, 6pm Pacific Time (Tuesday 03:00 UTC)
 - Policy & Protocol: 
-- Programming & Flow: TBD
+- Programming & Flow: 
 - Promotion & Outreach: Every Thursday, 5pm Pacific Time (Thursday 02:00 UTC)
 - Volunteers: 
 
@@ -171,6 +261,18 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
+- Angel: looking forward to it actually happening, being there, etc. Worried about onboarding volunteers to matrix stuff.
+- Alfredo: not much left to say, looking forward to friday and seeing everyone in person and making it happen
+- Andrew: looking forward to seeing everyone, lot of last minute tech stuff but feel good, excited
+- Aj: also looking forward to seeing everyone, still doesn't feel real, but feels more real than it did at the beginning of this meeting. feel like it will feel very real on Thursday.
+  - recurring jitsi glitches are a source of much humor
+- Norm: can't wait for this to happen
+- Kim: excited to see everyone, long time coming
+- Dawn: (had to leave early)
+- Chance: glad robin coaxed me into getting connected, this is cool
+- Dina: (had to leave early)
+- Salt: looking forward to seeing everyone in person. Excited to see all the attendees and speakers. Very excited.
+- Sid: 
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
