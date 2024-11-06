@@ -14,7 +14,7 @@ slides_skip='2'
 video_fps='30'
 video_min_seconds="$(( 15 * 60 ))"
 video_height_px='720'
-video_path='SeaGL 2024 interstitial.mp4'
+video_path="SeaGL 2024 interstitial.${video_height_px}p.mp4"
 
 # Metadata
 source_dir="$(dirname "${BASH_SOURCE[0]}")/.."
