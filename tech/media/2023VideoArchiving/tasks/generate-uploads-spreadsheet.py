@@ -11,20 +11,24 @@ from sys import stdout
 from yaml import safe_load  # https://pypi.org/project/PyYAML/
 
 markdown_it = MarkdownIt("commonmark")
+markdown_it.add_render_rule("softbreak", lambda s, t, i, o, e: " ")  # markdown-it/markdown-it#611
 
 
 def to_item(session_path):
     _, yaml, description = re.split("^---$", session_path.read_text(), 2, re.M)
     session = safe_load(yaml)
 
-    identifier = session["resources"]["internet_archive_identifier"]
+    identifier = session.get("resources", {}).get("internet_archive_identifier")
+    if identifier is None:
+        return
+
     beginning = datetime.fromisoformat(session["beginning"])
 
     return {
         "collection": "seagl",
         "date": beginning.date().isoformat(),
         "description": markdown_it.render(description),
-        "file": f"{identifier}.mp4",
+        "file": f"uploads/{identifier}.mp4",
         "identifier": identifier,
         "language": "English",
         "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -39,7 +43,7 @@ arg_parser = ArgumentParser()
 arg_parser.add_argument("sessions_dir", type=Path)
 args = arg_parser.parse_args()
 
-items = sorted(map(to_item, args.sessions_dir.iterdir()), key=lambda i: i["identifier"])
+items = sorted(filter(None, map(to_item, args.sessions_dir.iterdir())), key=lambda i: i["identifier"])
 fields = sorted(set(chain.from_iterable([i.keys() for i in items])))
 
 csv = DictWriter(stdout, fieldnames=fields)

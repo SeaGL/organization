@@ -4,19 +4,28 @@
 
 Dependencies:
 
+- [FFmpeg]
+- [Git]
 - [Internet Archive CLI]
-- Python dependencies of [`generate-ia-csv.py`](./generate-ia-csv.py)
-- Source of the session archive [containing Internet Archive identifiers](https://github.com/SeaGL/seagl.github.io/pull/418)
+- [Make]
+- [Python] and dependencies of [`generate-ia-csv.py`](./tasks/generate-ia-csv.py)
+- videos at `uploads/${IDENTIFIER}.mp4`
 
 Procedure:
 
 1. Generate a [bulk upload spreadsheet] from the session archive:
 
    ```bash
-   ./generate-ia-csv.py "$SEAGL_WEBSITE/_archive-sessions/2023" > 'seagl2023.ia.csv'
+   make 'seagl2023.ia.csv'
    ```
 
-1. Review the spreadsheet for correctness.
+1. Generate a preview of the uploads:
+
+   ```bash
+   make 'preview'
+   ```
+
+1. Review the spreadsheet and preview for correctness.
 
 1. Authenticate as [@seagl-video-team]:
 
@@ -32,4 +41,8 @@ Procedure:
 
 [@seagl-video-team]: https://archive.org/details/@seagl-video-team
 [bulk upload spreadsheet]: https://archive.org/developers/internetarchive/cli.html#bulk-uploading
-[Internet Archive CLI]: https://archive.org/services/docs/api/internetarchive/cli.html
+[FFmpeg]: https://www.ffmpeg.org/
+[Git]: https://git-scm.com
+[Internet Archive CLI]: https://archive.org/developers/internetarchive/cli.html
+[Make]: https://www.gnu.org/software/make/
+[Python]: https://www.python.org/
