@@ -8,7 +8,7 @@ Dependencies:
 - [Git]
 - [Internet Archive CLI]
 - [Make]
-- [Python] and dependencies of [`generate-ia-csv.py`](./tasks/generate-ia-csv.py)
+- [Python] and dependencies of [`generate-uploads-spreadsheet.py`](./tasks/generate-uploads-spreadsheet.py)
 - videos at `uploads/${IDENTIFIER}.mp4`
 
 Procedure:
