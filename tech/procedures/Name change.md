@@ -21,6 +21,8 @@ Review and update as necessary:
           - [ ] Miscellaneous mentions
           - [ ] Version history
 
+ 1. [pretalx](https://pretalx.seagl.org)
+
  1. [OSEM](https://osem.seagl.org/) (note [confusing fields](https://github.com/openSUSE/osem/issues/1410)):
      1. Administration → Users → Edit:
           - [ ] Name
@@ -59,3 +61,5 @@ Review and update as necessary:
 
  1. [Meeting notes](https://github.com/SeaGL/organization/tree/main/meetings):
       - [ ] Miscellaneous mentions
+
+ 1. [Matrix](https://seagl.org/meet)
