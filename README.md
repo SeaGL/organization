@@ -1,32 +1,24 @@
 # SeaGL Organization Repo
 
-This repo holds the public policies, processes, procedures, notes, and other files related to organizing the [Seattle GNU/Linux conference](http://seagl.org).
+This repo holds miscellaneous files related to organizing the [Seattle GNU/Linux conference](http://seagl.org), and also pulls double-duty as an organization-wide issue tracker.
 
-SeaGL has an existing Google Drive that contains a lot of our historical documents. Whenever possible, we'll try to link to the relevant docs here or transfer them over as time allows. We're a bunch of volunteers though, so be patient with us. :-)
+It used to also have a bunch of documentation, but that's been moved over to our [Nextcloud Collectives wiki](https://cloud.seagl.org/index.php/apps/collectives/p/JCPGykDcDS9JGBr/SeaGL%20wiki).
+
+SeaGL has an existing Nextcloud folder that contains a lot of our historical documents. Whenever possible, we'll try to link to the relevant docs here or transfer them over to Nextcloud Collectives as time allows. We're a bunch of volunteers though, so be patient with us. :-)
 
 ## Committees
 
-It takes a lot of committees to make a volunteer-run conference happen. Here are ours:
-
-* [Programming & Flow](./programming_flow)
-* [Finance](./finance)
-* [Attendee Experience](./attendee_experience)
-* [Promotion & Outreach](./promotion_outreach)
-* [Partnerships](./partnerships)
-* [SRE/Technical](./tech)
-* [Volunteers](./volunteers)
-* [Inclusivity, Diversity, Equity, Accessibility (IDEA)](./IDEA)
-* [Code of Conduct (CoC)](./CoC)
+It takes a lot of committees to make a volunteer-run conference happen. You can read more about each committee, and maybe even get involved, [on this page](https://seagl.org/get_involved).
 
 ## Private files
 
-Information that should not be public should be saved in the SeaGL Google Drive.
+Information that should not be public should be saved in the `SeaGL Private` Nextcloud group folder.
 
 ## Other repos
 
 All website-related stuff lives in the [seagl.github.io](https://github.com/SeaGL/seagl.github.io) repository.
 
-Our conference management software repository is at [seagl/osem](https://github.com/SeaGL/osem).
+Our conference management software repository is at [seagl/pretalx](https://github.com/SeaGL/pretalx).
 
 ## Licensing
 
