@@ -1,9 +1,9 @@
 <!-- See end of pad for meeting best-practices and discussion mechanisms -->
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
-# SeaGL 2025 Kick-Off
-- Monday, Februray 3, 2025. 5pm Pacific Time (2025-02-04 01:00 UTC)
-- [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_kick-off)
+# SeaGL 2025 Organizing Cross-Committee
+- Monday, Februray 17, 2025. 5pm Pacific Time (2025-02-18 01:00 UTC)
+- [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
 - [Matrix Space](https://matrix.to/#/#SeaGL:seagl.org)
@@ -18,9 +18,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: AJ, Norm, Alfredo, Kim, Chance, Sen
-- Apologies: Andrew, Angel, Robin
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -37,40 +37,50 @@
 Add new things to discuss after `### New Items` below
 -->
 
+### Previous TODOs
+<!--
+Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
+-->
+#### 02/03
+- [ ] setup dns records for bsky (AV/DevOps)
+- [ ] upload test copies of 2024 videos to Nextcloud (Sen)
+- [ ] look for alternate copies of missing recordings (AJ)
+
+
 ### Committee Updates
 <!--
 Important updates and things to share staff-wide
+
+#### Committee Coordinators
+- Attendee Experience (AX): Sen
+- A/V & DevOps: AJ
+- Finance: Norm
+- IDEA: 
+- Partnerships: Kim
+- Policy & Protocol: 
+- Programming & Flow: 
+- Promotion & Outreach: Alfredo
+- Volunteers: 
+- Impresario: Salt
 -->
-(most have been dormant)
 
 #### Attendee Experience (AX)
-- initial venue reservation has gone through
 
 #### A/V & DevOps
-- no major updates
 
 #### Finance
-- aj still has some outstanding reimbursements
-- committee has not been able to connect with osi since last year
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- no updates
 
 #### Policy & Protocol
-- added date to decide 2025 polices
 
 #### Programming & Flow
-- no updates
 
 #### Promotion & Outreach
-- tried to setup bsky, need to add dns registration
-  - [ ] setup dns records for bsky (AV/DevOps)
 
 #### Volunteers
-- no updates
 
 
 ### New Items
@@ -78,64 +88,26 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### Meeting Regularity
-- is every other week fine for cross-committee meetings?
-- when do we want to move to weekly meetings?
-  - pretty far out to ask, but feel free to start thinking about it and making any strong opinions known
-
 #### Communication Channels
 - want to make sure everyone is on Calendar, Mailinglist, Matrix, Nextcloud, and GitHub?
 - does anyone who wants an @seagl.org email not have one?
-  - anyone that wants one should be able to have one since the large blocker (of cost) is gone
 - suggestions for improving communication this year?
-  - what we have is good, but always eager to do better
 
 #### Committees
 - do these committees still feel right?
-- which committees should meet together to start?
 
 #### Committee Coordinators
-- Attendee Experience (AX): Sen
-- A/V & DevOps: AJ
-- Finance: Norm
 - IDEA (Inclusion, Diversity, Equity, Access): 
-- Partnerships: Kim
 - Policy & Protocol: 
 - Programming & Flow: 
-- Promotion & Outreach: Alfredo
 - Volunteers: 
-- Impresario: Salt
-  - At some point maybe there will be opportunity to pass along
 
-#### Budgets and Timelines
+#### Budgets
 - how much "spending money" should be allocated to each committee?
-- would someone take on extending/verifying the gantt chart?
-  - alfredo can help, but not for next 2-3 weeks
-  - would be good to review it with everyone at one of the next meetings so that we are aware of it
 
 #### Year 13 Theme
 - something to do with luck...
 - suggestions?
-- having a theme helps promotion/outreach a lot
-
-#### 2025 Venue
-- uw hub again
-- less/more rooms?
-  - more rooms = more presenters, but also more cost
-  - cloak room?
-- lyceum or not?
-  - chance votes no Lyceum :)
-- room hours?
-  - need to talk to venue
-  - last year, 8+ hours provided additional no-cost reservation for the day
-  - this year, this may not be the case
-
-#### 2024 Videos
-- status?
-- thanks to Sen for the effort
-- the videos have been processed, though some things were missing or unusuable
-- [ ] upload test copies of 2024 videos to Nextcloud (Sen)
-- [ ] look for alternate copies of missing recordings (AJ)
 
 #### Go through open tasks from last year
 - https://github.com/SeaGL/organization/blob/main/meetings/2024/20241118-retrospective.md#1118---new-todos
@@ -144,10 +116,7 @@ Important updates and things to share staff-wide
 
 
 ## Wrap-up
-### 02/03 - New TODOs
-- [ ] setup dns records for bsky (AV/DevOps)
-- [ ] upload test copies of 2024 videos to Nextcloud (Sen)
-- [ ] look for alternate copies of missing recordings (AJ)
+### 02/17 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -158,7 +127,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, February 17 @ 5pm Pacific Time (2025-02-18 01:00 UTC)
+- Monday, March 3 @ 5pm Pacific Time (2025-03-04 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -176,13 +145,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- AJ: tired, great to see you all, looking forward to the season
-- Norm: will get AJs request in, heading to vacation in Hawaii for next meeting
-- Alfredo: feels good to be here again, starting to feel more beginning stress, hopefully can make this one better, busy for next couple of weeks
-- Kim: great to see everyone, lot of work to do, hope to get most of it done
-- Chance: "we're so back", "ah s*** here we go again" (but good, not the bad way), community around organizing seagl seems pretty cool ^TM
-- Sen: OH BOY, looking forward to focussing on important community stuff
-- Salt: <3
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
