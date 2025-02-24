@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, Februray 17, 2025. 5pm Pacific Time (2025-02-18 01:00 UTC)
+- Monday, March 3, 2025. 5pm Pacific Time (2025-03-04 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -18,10 +18,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Sen, Johnney Darkness, Amber, Angel, Dina, Robin, AJ
-- Apologies: Andrew
-- Facilitator: Salt
-- Note Taker(s): Angel, Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -43,9 +43,18 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 -->
 #### 02/03
 - [ ] setup dns records for bsky (AV/DevOps)
-- [x] upload test copies of 2024 videos to Nextcloud (Sen)
+
+#### 02/17
+- [ ] review 2024 videos for publication (everyone)
   - Link: https://cloud.seagl.org/index.php/s/CxgRtm65sXAYAtK
-- [-] look for alternate copies of missing recordings on SD card (AJ)
+- [ ] schedule committee kick-off meetings (committee coordinators)
+- [ ] setup volunteering form automation with windmill (AJ)
+- [ ] decide on task/project management system (AJ, Salt)
+- [ ] Angel will send PyCascades IDEA info to Robin (Angel)
+- [ ] update save-the-date/sponsorship handbill before SCaLE (Salt, ??)
+- [ ] organize onboarding process meeting (Angel, Salt, AJ)
+- [ ] document the list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what (??)
+- [ ] decide on year 13 theme (Salt)
 
 
 ### Committee Updates
@@ -66,50 +75,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- purchased new pump for inflatable seagull
-- Angel is happy to help out with recommendations based on last year
-  - Before July is better. :)
 
 #### A/V & DevOps
-- windmill integration setup with nextcloud
-  - automation engine (ITTT?), when form is submitted, do stuff
-  - Volunteers need automation go to with volunteering form & onboarding!
-  - volunteer form needs fixing so that people don't submit 5x
-- researching task/project management systems
-  - Angel is interested in systems stuff. I would like to come to the meeting too please.
-  - open to suggestions
-  - plane, wekan, etc
-- ordered 5x hdmi capture cards
-- slashed a bunch of monthly Google spend
 
 #### Finance
-- no updates
 
 #### IDEA
-- no updates
-- [ ] Angel will send PyCascades info to Robin by the end of the week
 
 #### Partnerships
-- no updates
-- some people think november is too far out
-- some places book 1-2 years ahead, need to keep contacts
-- should have save-the-date and sponsor handbill ready by scale would be good
-  - ~march 7
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- no updates
 
 #### Promotion & Outreach
-- no updates
 
 #### Volunteers
-- I've seen some chatter about open source volunteer organizing software that I'm going to investigate.
-- I've started chatting with a couple of other volunteer chairs about different ideas and resources.
-- Onboarding process will have two levels (forms) AJ and Angel will sync off-line.
-- [ ] Angel will organize a meeting with Salt and AJ before February 24.
 
 
 ### New Items
@@ -117,30 +98,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### Communication Channels
-- want to make sure everyone is on Calendar, Mailinglist, Matrix, Nextcloud, and GitHub?
-- does anyone who wants an @seagl.org email not have one?
-- suggestions for improving communication this year?
-  - Can we have a list of all the communication channels and how to join them?
-  - What roles need which channels?
-  - What type of communication comes from each channel?
-
-#### Committees
-- do these committees still feel right?
-
 #### Committee Coordinators
 - IDEA (Inclusion, Diversity, Equity, Access): 
 - Policy & Protocol: 
 
-#### Budgets
-- how much "spending money" should be allocated to each committee?
-
 #### Year 13 Theme
-- something to do with luck...
-  - an unlucky year for closed source
-  - freedom is in the cards
-  - open source is aces
-- suggestions?
+- an unlucky year for closed source
+- freedom is in the cards
 
 #### Go through open tasks from last year
 - https://github.com/SeaGL/organization/blob/main/meetings/2024/20241118-retrospective.md#1118---new-todos
@@ -149,17 +113,7 @@ Important updates and things to share staff-wide
 
 
 ## Wrap-up
-### 02/17 - New TODOs
-- [ ] review 2024 videos for publication (everyone)
-  - Link: https://cloud.seagl.org/index.php/s/CxgRtm65sXAYAtK
-- [ ] schedule committee kick-off meetings (committee coordinators)
-- [ ] setup volunteering form automation with windmill (AJ)
-- [ ] decide on task/project management system (AJ, Salt)
-- [ ] Angel will send PyCascades IDEA info to Robin (Angel)
-- [ ] update save-the-date/sponsorship handbill before SCaLE (Salt, ??)
-- [ ] organize onboarding process meeting (Angel, Salt, AJ)
-- [ ] document the list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what (??)
-- [ ] decide on year 13 theme (Salt)
+### 03/03 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -170,7 +124,8 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, March 3 @ 5pm Pacific Time (2025-03-04 01:00 UTC)
+- Monday, March 17 @ 5pm Pacific Time (2025-03-18 01:00 UTC)
+  - St. Patrick's Day
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -188,14 +143,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Sen: doing live stream tomorrow at 6pm PT, will add link. Appreciate everybody's patience and being able to focus on something community based.
-- Johnney Darkness: I would be wiling to interact with DEI, and CS people at Seattle Colleges to sound them out as well.
-- Amber: Looking forward to get unconfused, happy to help guinepig onboarding.
-- Angel: Loving everybody so much, excited to work with everyone, great seeing same people and getting to know you from last year's conference. Will get things scheduled and resources out.
-- Dina: Very happy to be here and to see you all, excited for this year.
-- Robin: Curious about how things are going to go, things are going to be a bit busy, but know there is some automation in place.
-- AJ: Shout out to Angel for sticking with us while failing to get onboarded. Like to echo everyone else, good to see people. Particularly excited to not be fighting fires. Next steps, work on onboarding and task management.
-- Salt: <3 y'all, will be working to push out save-the-date by SCaLE
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
