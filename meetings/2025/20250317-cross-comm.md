@@ -2,7 +2,8 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, March 3, 2025. 5pm Pacific Time (2025-03-04 01:00 UTC)
+
+- Monday, March 17, 2025. 5pm Pacific Time (2025-03-18 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -18,13 +19,15 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: AJ, Angel, Kim, Sen, Alfredo
-- Apologies: Norm, Dina
-- Facilitator: Salt
-- Note Taker(s): Angel
+
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
+
 - Review agenda
 - Consider tensions, progress updates, blockers, questions
 - Gather personal notes, tasks, emails
@@ -41,22 +44,23 @@ Add new things to discuss after `### New Items` below
 <!--
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
-#### 02/03
-- [x] setup dns records for bsky (AV/DevOps)
 
 #### 02/17
+
 - [ ] review 2024 videos for publication (everyone)
   - Link: https://cloud.seagl.org/index.php/s/CxgRtm65sXAYAtK
-  - [ ] grab youtube versions of missing videos (sen)
 - [ ] schedule committee kick-off meetings (committee coordinators)
-- [/] setup volunteering form automation with windmill (AJ)
+- [ ] setup volunteering form automation with windmill (AJ)
 - [ ] decide on task/project management system (AJ, Salt)
-- [x] Angel will send PyCascades IDEA info to Robin (Angel)
-- [>] update save-the-date/sponsorship handbill before SCaLE (Salt, ??)
-- [x] organize onboarding process meeting (Angel, Salt, AJ)
 - [ ] document the list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what (Kim)
-- [x] decide on year 13 theme (Salt)
-  - freedom is in the cards
+
+#### 03/03
+
+- [ ] grab youtube versions of missing videos (Sen)
+- [ ] scaffold documentation for ax committee (Sen)
+- [ ] fill out signage information on the wiki (Angel)
+- [ ] add speaking details to get_involved page (Salt)
+- [ ] write blog post (salt)
 
 
 ### Committee Updates
@@ -64,6 +68,7 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 Important updates and things to share staff-wide
 
 #### Committee Coordinators
+
 - Attendee Experience (AX): Sen
 - A/V & DevOps: AJ
 - Finance: Norm
@@ -77,46 +82,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- do we have documentation for this on the wiki?
-  - not really
-  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience?fileId=4919
-- [ ] scaffold documentation for ax committee (sen)
-- [ ] Fill out signage information on the wiki (Angel)
 
 #### A/V & DevOps
-- some work on picking task system
-- some work on onboarding
-- slashed some monthly cash drains
 
 #### Finance
-- no updates
-- osi put off meeting again
 
 #### IDEA
-- Sent PyCascades CoC information to Robin
 
 #### Partnerships
-- Planning to meet with Salt
-- hopefully more updates @ next meeting
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- dina confirmed access to mailu and pretalx
-- planning on setting up and configuring this year's conference next
-- started discussion about updating topics list
 
 #### Promotion & Outreach
-- we have initial flyer
-- tried to update design based on theme
-- hoping to have handbills distributed at SCaLE
-- new social media acct: https://bsky.app/profile/seagl.org
 
 #### Volunteers
-- Started reviewing the on-boarding process.
-- Pipeline to get people to Participate room that alerts Angel in the works
-- removed duplicates from previous volunteer form submissions
 
 
 ### New Items
@@ -124,55 +105,33 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### save-the-date/sponsorship handbill
-- https://github.com/SeaGL/outreach/tree/main/design/flyers/2025
-- for SCaLE should have flyers ready by friday for expo hall, but for thursday would be best
-- remove topics, mention broad categories e.g. talks, community, ??
-- don't need full address
-- do we want to say expect cfp open in may?
-  - do presenters need to know if more than a month out?
-- when/where/what, space for qr code?
-- anything additional for sponsors?
-  - maybe specific qr to specific pages?
-  - probably point qr to get_involved
-  - could point to /links and then redirect to /get_involved to avoid changing
-- [ ] add speaking details to get_involved page (salt)
-  - also social media list
-
 #### Committee Coordinators
+
 - IDEA (Inclusion, Diversity, Equity, Access): 
 - Policy & Protocol: 
 
-#### Go through open tasks from last year
-- https://github.com/SeaGL/organization/blob/main/meetings/2024/20241118-retrospective.md#1118---new-todos
-- will be removing this from cross-comm meeting items, but good idea for folks to review
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
-### 03/03 - New TODOs
-- [ ] grab youtube versions of missing videos (Sen)
-- [ ] scaffold documentation for ax committee (Sen)
-- [ ] fill out signage information on the wiki (Angel)
-- [ ] add speaking details to get_involved page (Salt)
-- [ ] write blog post (Salt)
+### 03/17 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
 
-- on bluesky and open for keynote suggestions, ask for volunteers, keep an eye out for first fliers at SCaLE (Salt)
-
 ### Timeline
+
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, March 17 @ 5pm Pacific Time (2025-03-18 00:00 UTC)
-  - St. Patrick's Day
+
+- Monday, March 31 @ 5pm Pacific Time (2025-04-01 00:00 UTC)
 
 ### Committee Meetings
+
 - Attendee Experience: 
 - A/V & DevOps: Every other Tuesday, 5pm Pacific Time (Wednesday 01:00 UTC), same week as cross-comm
 - Finance: 
@@ -189,18 +148,11 @@ Copy attendees list from above and format as:
 - NAME: sign-off
 -->
 
-- Robin: SCaLE is fun, here early easy to do things for SeaGL, people are actually accomidating
-- Alfredo: wish I could goto SCaLE, happy to be here and getting traction on big todo list
-- Angel: very tired, added bunch of items to todo list
-- Sen: the horrors persist, yet so do I. Continue to fight with Matrix, admire everybodys patience with me, happy to be in charge of something and get more involved, happy to see everybody
-- Kim: exciting to get some work done, happy to be here, thanks for everyone for being here, see y'all at next meeting
-- AJ: great to see you all, excited about stuff happening right now, excited to be getting food, feel little bad for not quite paying attention, but did just get form webhook notifications working in windmill
-- Salt: <3 y'all
-
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
 
 ### Check that we have note taker(s) for next meeting
+
 
 ## Meeting adjourned!
 
