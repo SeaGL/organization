@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, March 17, 2025. 5pm Pacific Time (2025-03-18 00:00 UTC)
+- Monday, March 31, 2025. 5pm Pacific Time (2025-04-01 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -18,10 +18,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, sen, Salt, Andrew, AJ, Robin, Alfredo, Chance
-- Apologies: Norm, Kim, Dina
-- Facilitator: Salt
-- Note Taker(s): Angel
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -43,23 +43,28 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 -->
 
 #### 02/17
-- [x] review 2024 videos for publication (everyone)
-  - Link: https://cloud.seagl.org/index.php/s/CxgRtm65sXAYAtK
 - [ ] schedule committee kick-off meetings (committee coordinators)
 - [ ] setup volunteering form automation with windmill (AJ)
-- [x] decide on task/project management system (AJ, Salt)
-  - https://vikunja.io/
-- [>] document the list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what (Kim)
-  - https://cloud.seagl.org/index.php/f/44755
 
 #### 03/03
-- [x] grab youtube versions of missing videos (Sen)
-- [x] scaffold documentation for ax committee (Sen)
 - [ ] fill out signage information on the wiki (Angel)
-- [x] add speaking details to get_involved page (Salt)
-  - https://seagl.org/get_involved
-- [x] write blog post (salt)
-  - https://seagl.org/news/2025/03/06/2025-announcements
+
+#### 03/17
+- [ ] review communication channels document (everyone)
+  - https://cloud.seagl.org/index.php/f/44755
+  - should list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what
+- [ ] Add AX Committee meetings to the calendar (Sen)
+- [x] show Sen how to add things to shared calendar (AJ)
+- [ ] upload 2024 videos (sen, andrew)
+- [ ] spin up vikunja (??)
+- [ ] Add partnerships email to handouts/fliers as lots of people asked (Angel?)
+- [ ] Start sending out emails to potential sponsors (Partnerships)
+  - blocked by updated prospectus
+- [ ] decide on masking policy by CFP launch (everyone)
+- [ ] submit keynote suggestions (eveyone)
+  - https://seagl.org/keynote_nominations
+- [ ] Compile list of specific on-going volunteer jobs with filled status (Angel)
+- [ ] Remove X link from footer (AJ)
 
 
 ### Committee Updates
@@ -80,57 +85,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- had a good kick-off meeting
-- Setup timeline for dropdead dates, deadlines, conference days
-- Meetings are the Fridays we don't have Cross Comm, 5pm Pacific
-- [ ] Add AX Committee meetings to the calendar (Sen)
-  - [x] show Sen how to add things to shared calendar (AJ)
 
 #### A/V & DevOps
-- upgraded pretalx
-- fixed windmill bug
-- [ ] upload 2024 videos (sen, andrew)
-- [ ] spin up vikunja (??)
 
 #### Finance
-- met with osi
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- Robin went to SCaLE, talked to potential sponsors
-- [ ] Add partnerships email to handouts/fliers as lots of people asked (Angel?)
-- [ ] Start sending out emails to potential sponsors (Partnerships)
-  - need to wait for prospectus
 
 #### Policy & Protocol
-- OSI asked about hybrid and whether or not we will enforce masking
-- [ ] decide on masking policy by CFP launch (everyone)
 
 #### Programming & Flow
-- Reminder for keynote nominations on social media
-- Combine past and present nominations into one set
-- Created a document of past keynote speakers
-  - https://cloud.seagl.org/index.php/apps/files/files/1287?dir=/SeaGL/Programming%20%26%20Flow
-- targeting CFP launch at LFNW, April 25
-- [ ] submit keynote suggestions (eveyone)
-  - https://seagl.org/keynote_nominations
 
 #### Promotion & Outreach
-- Find time for regular meetings
-- Need poster for CPF
-- Will continue to promote keynote speaker nominations
-- Can promote job specific volunteer oppotunities
-  - Graphic designer (brand update?)
 
 #### Volunteers
-- Reached out to 2 new people who have submitted the form. No word back yet.
-- Will send out request for meeting time preferences for Volunteer Committee meetings.
-- New volunteer roles coming from Partnerships (Robin)
-- [ ] Compile list of specific on-going volunteer jobs with filled status (Angel)
-  - CFP Reviewers
-  - Graphic Design
 
 
 ### New Items
@@ -142,38 +112,12 @@ Important updates and things to share staff-wide
 - IDEA (Inclusion, Diversity, Equity, Access): 
 - Policy & Protocol: 
 
-#### Sponsor Prospectus
-- 2024: https://seagl.org/sponsors/SeaGL_Partnership_Sponsor_Prospectus_2024.pdf
-- OSI suggested our sponsor levels are low
-  - Up difference between bronze/silver, silver/gold, gold/platinum
-- OSI said sponsorships may be picking up this year compared to the last couple of years
 
 ### Open discussion (~5 minute, if time)
-- AJ win with script for receipts
-- Mastodon: 850 followers, Bluesky: 7 (week old)
-- Keeping Twitter (X) account
-  - [ ] Remove X link from footer (AJ)
-- https://www.linkedin.com/events/7303940958444810240/
-- https://www.facebook.com/events/986475819655647
 
 
 ## Wrap-up
-### 03/17 - New TODOs
-- [ ] review communication channels document (everyone)
-  - https://cloud.seagl.org/index.php/f/44755
-  - should list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what
-- [ ] Add AX Committee meetings to the calendar (Sen)
-- [x] show Sen how to add things to shared calendar (AJ)
-- [ ] upload 2024 videos (sen, andrew)
-- [ ] spin up vikunja (??)
-- [ ] Add partnerships email to handouts/fliers as lots of people asked (Angel?)
-- [ ] Start sending out emails to potential sponsors (Partnerships)
-  - blocked by updated prospectus
-- [ ] decide on masking policy by CFP launch (everyone)
-- [ ] submit keynote suggestions (eveyone)
-  - https://seagl.org/keynote_nominations
-- [ ] Compile list of specific on-going volunteer jobs with filled status (Angel)
-- [ ] Remove X link from footer (AJ)
+### 03/31 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -184,7 +128,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, March 31 @ 5pm Pacific Time (2025-04-01 00:00 UTC)
+- Monday, April 14 @ 5pm Pacific Time (2025-04-15 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Friday, 5pm Pacific Time (Saturday 00:00 UTC), off week from cross-comm
@@ -202,14 +146,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Angel: looking forward to having time to do things
-- sen: happy to be here, glad ax meeting went so well, hope for more people
-- Salt: Hopeful due to earlish start this year, launching CFP at Linuxfest NW is awesome
-- Andrew: good to see everyone, kick-off for me, excited for another round
-- AJ: Also happy to see Andrew, asked if Andrew was coming back. Excited about doing stuff, Salt's mood is energizing. Pull request to remove Twitter from footer done.
-- Robin: (had to leave early)
-- Alfredo: Very glad to see everyone here and things moving. Happy to see Sen so enthusiastic re: AX and it's starting so early in the year.
-- Chance: Another round, it's great. Agrees with Alfredo(?) Looking forward to tech delegation and going through the backlog
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
