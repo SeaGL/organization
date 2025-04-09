@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, March 31, 2025. 5pm Pacific Time (2025-04-01 00:00 UTC)
+- Monday, April 14, 2025. 5pm Pacific Time (2025-04-15 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -18,10 +18,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Andrew, Angel, Sen, Dina, Norm, Kim, Alfredo (late), AJ
-- Apologies: Robin
-- Facilitator: Salt
-- Note Taker(s): Angel, Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -44,27 +44,41 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 
 #### 02/17
 - [ ] schedule committee kick-off meetings (committee coordinators)
-- [x] setup volunteering form automation with windmill (AJ)
 
 #### 03/03
-- [/] fill out signage information on the wiki (Angel)
+- [ ] fill out signage information on the wiki (Angel)
 
 #### 03/17
 - [ ] review communication channels document (everyone)
   - https://cloud.seagl.org/index.php/f/44755
   - should list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what
-- [/] add AX Committee meetings to the calendar (Sen)
-- [x] show Sen how to add things to shared calendar (AJ)
-- [x] upload 2024 videos (sen, andrew)
-  - of all videos we could find, all but one video
-- [/] spin up vikunja (Andrew)
+- [ ] add AX Committee meetings to the calendar (Sen)
+- [ ] spin up vikunja (Andrew)
 - [ ] start sending out emails to potential sponsors (Partnerships)
   - blocked by updated prospectus
 - [ ] decide on masking policy by CFP launch (everyone)
-- [x] submit keynote suggestions (eveyone)
-  - https://seagl.org/keynote_nominations
-- [/] compile list of specific on-going volunteer jobs with filled status (Angel)
-- [/] remove X link from footer (AJ)
+- [ ] compile list of specific on-going volunteer jobs with filled status (Angel)
+- [ ] remove X link from footer (AJ)
+
+#### 03/31
+- [ ] inventory storage while folks are in-town for lfnw (Salt, Andrew, sen, ??)
+  - look for aj's magic 8-ball sticker box
+- [ ] setup windmill automation of volunteer onboarding (AJ)
+- [ ] share LPI contact email with partnerships (Dina)
+- [ ] reach out to LPI about sponsorship (partnerships)
+- [ ] vote on 2025 keynotes (everyone)
+  - STAR voting link: (link redacted)
+  - Experienced keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45326
+  - Up-and-coming keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45239
+- [ ] check whether we have everything for lfnw tabling kit (Salt)
+- [ ] get CFP ready for launch at LFNW (programming)
+- [ ] review 2025 pretalx settings (Salt, tech)
+- [ ] update socials banners for 2025 (promotion)
+- [ ] design 2025 CFP poster/handbill (promotion)
+- [ ] decide on masking policy by May 7th (Salt)
+- [ ] add masking question to CFP (programming)
+- [ ] refine links landing page (Kim)
+  - https://github.com/SeaGL/seagl.github.io/pull/457
 
 
 ### Committee Updates
@@ -85,86 +99,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- we determined major items that need to get done
-  - probably not starting until after lfnw
-- [ ] inventory meeting around lfnw
-  - look for aj's magic 8-ball sticker box
-- Robin agreed to do TeaGL again this year
 
 #### A/V & DevOps
-- "so much has happened"
-- videos are almost uploaded
-  - thanks sen and andrew
-  - total wall clock time over 21 hours
-- osuosl provisioned postgresql databases for us
-- migrated entirely off aws to osuosl
-  - haven't deleted things yet, but backed up and ready to
-- have instance of vaultwarden for credentials
-  - if you want to test, let AJ know
-  - eventually will replace 1password, probably
-- working on identity provider for single sign on
-- in process of setting up task management platform
-- looking at alternative solutions for Jitsi and Etherpad
-- [ ] windmill automation of volunteer onboarding (AJ)
 
 #### Finance
-- had a meeting with osi
-- building out this year's budget
-  - mainly relying on data from last year
-  - potentially losing $1000/yr bill from AWS
 
 #### IDEA
-- don't have anyone focusing on this at the moment, but looking for someone to focus on it.
-- would love to get something out that's been thought about by the CfP.
-  - q: like a Code of Conduct?
-  - a: no, an IDEA-specific plan for doing diversity, inlusion, access type stuff.
-  - for example in Pretalx, we get to decide what questions we ask; going through them with an IDEA lens specifically.
 
 #### Partnerships
-- did a starbestfit and threw one of those links into the main Element chat.
-- had a meeting!
-  - hopefully will have a meeting set up this week or next week.
-  - meet weekly for this month to get stuff set up, then biweekly after.
-- Salt working on the prospectus.
-- Ted Matsumoro from Linux Professional Institute asked about sponsoring
-  - Reach out ASAP
-  - [ ] Dina will share email
-- LinuxFest Northwest is at the end of the month.
-  - we have a table there (Salt assumes??).
-  - SeaGL has been on the website since November...
-  - already planning for this, they will let us know if there's anything else that needs to be done.
-  - Dina can give us all this info we need about tabling and stuff.
 
 #### Policy & Protocol
-- no updates
-- discuss photo policy? (From AX meeting)
 
 #### Programming & Flow
-- two document lists of keynote speakers to vote on have been created
-  - experienced keynote speakers list: https://cloud.seagl.org/index.php/f/45326
-  - new keynote speakers list: https://cloud.seagl.org/index.php/f/45239
-- voting campaign started and will last for two weeks, but best to finish voting asap so that we can send out emails and be able to publisize CFP by end of April.
-  - please vote: (link redacted)
-- we are planning to launch CFP at LFNW
-- AV should check settings in PreTalx before CFP launches
-  - there were issues with mailing last year
 
 #### Promotion & Outreach
-- working on organizing a recurring meeting
-- urgent items:
-  - [ ] Update all socials banners from last year
-  - [ ] Start working on CFP poster
-- look into Linux Magazine ad
-- make sure there is an email on the next handout/flier
 
 #### Volunteers
-- did some work on specific job descriptions
-  - Prioritize
-  - Physical vs mental
-  - Pre-conference/conference
-  - Experienced volunteer needed?
-- added Partnerships jobs requested by chair
-- setup biweekly meetings in the calendar
 
 
 ### New Items
@@ -172,48 +122,15 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### Committee Meetings
-- side note from Salt:
-  - biweekly doesn't have to happen.
-  - hour long meetings don't have to happen!
-  - sometimes it's good to sprint for a week or so and then just not meet for a month.
-  - or have weekly 15 minute meetings.
-
 #### Keynote Voting
-- plan is to close and select by next meeting
+- STAR voting link: (link redacted)
+- Experienced keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45326
+- Up-and-coming keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45239
 
-#### 2024 Videos Blog Post
-- mention that they are up
-- mention how long it took?
-- link to https://seagl.org/archive/2024
-  - availability pending https://github.com/SeaGL/seagl.github.io/pull/447
-- thank Internet Archive
-- thank volunteers
-- mention content license
-- optionally link to https://archive.org/details/seagl?and[]=year:2024
+#### LinuxFest Northwest
+- April 26th and 27th
 
-#### Mask Policy
-- last year COVID masks were required in speaking rooms/option but encouraged elsewhere
-- we are close to the only event with requirements still
-- starting to run out of our purchased masks
-- there are speakers who request/require masks
-- not too much resistance from our community for masking
-- there are accessibility issue for masking and being unmasked
-- should try to decide by LFNW
-- our commitment is to not "weaken" health policy
-- rooms have CO2 monitors
-- enforcement hasn't been 100% in the past
-  - more responsive than proactive
-- need to decide by May 7th
-- could informally ask peoples' opinion on socials
-  - would need to do prior to our decision deadline (before next meeting)
-- could include masking question in CFP
-
-#### SeaGL links page (Kim)
-- https://github.com/SeaGL/seagl.github.io/pull/457
-- useful as a QR code target
-- landing page for QR that can go on everything
-- suggestion: needs button for interested in sponsoring, speaking, volunteering
+#### Impresario (un)Availability
 
 #### Committee Coordinators
 - still need someone for IDEA (Inclusion, Diversity, Equity, Access) and Policy & Protocol
@@ -223,31 +140,13 @@ Important updates and things to share staff-wide
 
 
 ## Wrap-up
-### 03/31 - New TODOs
-- [ ] inventory storage while folks are in-town for lfnw (Salt, Andrew, sen, ??)
-  - look for aj's magic 8-ball sticker box
-- [ ] setup windmill automation of volunteer onboarding (AJ)
-- [ ] share LPI contact email with partnerships (Dina)
-- [ ] reach out to LPI about sponsorship (partnerships)
-- [ ] vote on 2025 keynotes (everyone)
-  - STAR voting link: (link redacted)
-  - Experienced keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45326
-  - Up-and-coming keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45239
-- [ ] check whether we have everything for lfnw tabling kit (Salt)
-- [ ] get CFP ready for launch at LFNW (programming)
-- [ ] review 2025 pretalx settings (Salt, tech)
-- [ ] update socials banners for 2025 (promotion)
-- [ ] design 2025 CFP poster/handbill (promotion)
-- [ ] decide on masking policy by May 7th (Salt)
-- [ ] add masking question to CFP (programming)
-- [ ] refine links landing page (Kim)
-  - https://github.com/SeaGL/seagl.github.io/pull/457
+### 04/14 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
-- [ ] draft by 4/4: 2024 videos have been published (Alfredo)
+- [x] draft by 4/4: 2024 videos have been published (Alfredo)
 - [ ] social media polling about switching from masks required to encouraged and participation
 - [ ] attending lfnw / cfp launching there
 - [ ] cfp has launched
@@ -266,7 +165,7 @@ Important updates and things to share staff-wide
 - Partnerships: Every Thursday, 6pm Pacific Time (Friday 01:00 UTC)
 - Policy & Protocol: w/ IDEA
 - Programming & Flow: async for now
-- Promotion & Outreach: tbd / async
+- Promotion & Outreach: 
 - Volunteers: Every other Thursday, 5pm Pacific Time (Friday 00:00 UTC), same week as cross-comm
 
 ### Sign-off round (what's next, appreciations, suggestions)
@@ -274,15 +173,7 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Andrew: thanks to everyone doing notetaking, looking forward to tech stuff tomorrow
-- Angel: look forward to having some time to flesh out volunteer lists
-- Sen: looking forward to tomorrow's tech meeting. robin is doing teagl again!
-- Dina: happy to see all of you, will be more with it... later
-- Norm: Happy to be here and painfree. Will start working on stuff with Salt
-- Kim: Great to be here as always. Excited to see some work getting done.
-- Alfredo: Glad to be here, lots of things to catch up to. Excited for where we'll be one month from now.
-- Salt: Really glad to have such a great group of people here. Folks who consistently come back and have done the things they said they would, it's not their first year and they understand what SeaGL looks like in person. Can lead to it looking better. Really happy to see that things are getting checked off every meeting and not lingering.
-- AJ: Also looking forward to Tech meeting. Going to work on Ansible and NOT stay up too late working on the Ansible code.
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
 
