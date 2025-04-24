@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, April 14, 2025. 5pm Pacific Time (2025-04-15 00:00 UTC)
+- Monday, April 28, 2025. 5pm Pacific Time (2025-04-29 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -18,9 +18,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Alfredo, Kim, Robin
-- Apologies: AJ, sen, Dina, Norm
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -46,7 +46,7 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] schedule committee kick-off meetings (committee coordinators)
 
 #### 03/03
-- [/] fill out signage information on the wiki (Angel)
+- [ ] fill out signage information on the wiki (Angel)
 
 #### 03/17
 - [ ] review communication channels document (everyone)
@@ -55,10 +55,8 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] add AX Committee meetings to the calendar (Sen)
 - [ ] spin up vikunja (Andrew)
 - [ ] start sending out emails to potential sponsors (Partnerships)
-  - blocked by updated prospectus
 - [ ] decide on masking policy by CFP launch (everyone)
-- [/] compile list of specific on-going volunteer jobs with filled status (Angel)
-- [x] remove X link from footer (AJ)
+- [ ] compile list of specific on-going volunteer jobs with filled status (Angel)
 
 #### 03/31
 - [ ] inventory storage while folks are in-town for lfnw (Salt, Andrew, sen, ??)
@@ -66,19 +64,25 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] setup windmill automation of volunteer onboarding (AJ)
 - [ ] share LPI contact email with partnerships (Dina)
 - [ ] reach out to LPI about sponsorship (partnerships)
-- [ ] vote on 2025 keynotes (everyone)
+- [x] vote on 2025 keynotes (everyone)
   - STAR voting link: (link redacted)
   - Experienced keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45326
   - Up-and-coming keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45239
 - [ ] check whether we have everything for lfnw tabling kit (Salt)
 - [ ] get CFP ready for launch at LFNW (programming)
-- [ ] review 2025 pretalx settings (Salt, tech)
+- [x] review 2025 pretalx settings (Salt, tech)
 - [ ] update socials banners for 2025 (promotion)
-- [ ] design 2025 CFP poster/handbill (promotion)
+- [x] design 2025 CFP poster/handbill (promotion)
 - [ ] decide on masking policy by May 7th (Salt)
 - [ ] add masking question to CFP (programming)
 - [ ] refine links landing page (Kim)
   - https://github.com/SeaGL/seagl.github.io/pull/457
+
+#### 04/14
+- [ ] Reply with thank you to LPI, cc parternship email (kim)
+- [ ] Schedule recurring meetings (Alfredo)
+- [ ] Short social posts for being at LFNW (Alfredo)
+- [ ] Create blog post for CFP (Alfredo)
 
 
 ### Committee Updates
@@ -99,43 +103,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- On hold waitig for inventory
-- Alfredo has another potential for coffee donations and/or discounted rate
 
 #### A/V & DevOps
-- no updates
 
 #### Finance
-- no updates
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- Meeting was delayed, no updates
-- Person from LPI replied but he's a volunteer board member not involved.
-  - Email forwarded Max and Matthew at LPI.
-  - [ ] Reply with thank you to LPI, cc parternship email (kim)
-- Robin has a potential sponsor
-- Sponsors should utilize open-source software, but does not need to be a OSS company directly
 
 #### Policy & Protocol
 
 #### Programming & Flow
-- Initial pass for CfP on PreTalx, long list
 
 #### Promotion & Outreach
-- Post for 2024 videos out
-  - Mentions CFP coming soon
-- [ ] Schedule recurring meetings (Alfredo)
-- [ ] Create poster for CFP (Alfredo?) 
-- Social media re: masking?
-  - No.
-- [ ] Short social posts for being at LFNW (Alfredo)
-- [ ] Create blog post for CFP (Alfredo)
 
 #### Volunteers
-- no updates
 
 
 ### New Items
@@ -143,17 +126,7 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### Keynote Voting
-- STAR voting link: (link redacted)
-- Experienced keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45326
-- Up-and-coming keynote speaker descriptions: https://cloud.seagl.org/index.php/f/45239
-- Very few votes!!
-- May extend for a short time
-
 #### LinuxFest Northwest
-- April 26th and 27th
-
-#### Impresario (un)Availability
 
 #### Committee Coordinators
 - still need someone for IDEA (Inclusion, Diversity, Equity, Access) and Policy & Protocol
@@ -163,18 +136,12 @@ Important updates and things to share staff-wide
 
 
 ## Wrap-up
-### 04/14 - New TODOs
-- [ ] Reply with thank you to LPI, cc parternship email (kim)
-- [ ] Schedule recurring meetings (Alfredo)
-- [ ] Short social posts for being at LFNW (Alfredo)
-- [ ] Create blog post for CFP (Alfredo)
+### 04/28 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
-- [x] draft by 4/4: 2024 videos have been published (Alfredo)
-- [-] social media polling about switching from masks required to encouraged and participation
 - [ ] attending lfnw / cfp launching there
 - [ ] cfp has launched
 
@@ -182,7 +149,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, April 28 @ 5pm Pacific Time (2025-04-29 00:00 UTC)
+- Monday, May 12 @ 5pm Pacific Time (2025-05-13 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Friday, 5pm Pacific Time (Saturday 00:00 UTC), off week from cross-comm
@@ -200,11 +167,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Salt: #drained, took on too much stuff for own good again
-- Alfredo: Happy to attend this meeting, busy too, lots of things happening. More time for SeaGL to finish the things for Outreach "better" more on time than last year. Still have regular meeting to schedule.
-- Angel: just a speeding car at the end of the tunnel
-- Kim: Typical Monday, busy as usual, feeling alright
-- Robin: Busy weekend, some things to catch up on for business, but more free time soon.
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub)
