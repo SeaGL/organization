@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, May 26, 2025. 5pm Pacific Time (2025-05-27 00:00 UTC)
+- Monday, June 9, 2025. 5pm Pacific Time (2025-06-10 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -18,10 +18,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Salt, Angel, AJ (kind of?)
-- Apologies: Everyone else
-- Facilitator: Salt
-- Note Taker(s): Salt, Angel
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -42,9 +42,6 @@ Add new things to discuss after `### New Items` below
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
 
-#### 02/17
-- [>] schedule committee kick-off meetings (committee coordinators)
-
 #### 03/03
 - [ ] fill out signage information on the wiki (Angel)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
@@ -54,10 +51,7 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
   - moved this into the all-staff collective
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All-staff/List%20of%20All%20Communication%20Channels?fileId=44755
   - should list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what
-- [x] spin up vikunja (Andrew)
-- [x] start sending out emails to potential sponsors (Partnerships)
-- [x] decide on masking policy by CFP launch (everyone)
-- [/] compile list of specific on-going volunteer jobs with filled status (Angel)
+- [ ] compile list of specific on-going volunteer jobs with filled status (Angel)
 
 #### 03/31
 - [ ] setup windmill automation of volunteer onboarding (AJ)
@@ -66,20 +60,20 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 
 #### 04/14
 - [ ] Reply with thank you to LPI, cc parternship email (kim)
-- [>] Schedule recurring promo/outreach meetings (Alfredo)
+- [ ] Schedule recurring promo/outreach meetings (Alfredo)
 
 #### 04/28
 - [ ] make list of tools with ready to use status/in progress (AJ)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/AV%20%26%20DevOps/System%20setup%20status?fileId=45922
 - [ ] distribute around U-District ASAP (Salt)
-- [x] figure out what/where response to Saskquatch went (Angel)
 
 #### 05/12
-- [x] update health and safety policy for 2025 (Salt)
-- [ ] send out email to all past speakers reminding them of the CfP (Dina)
-- [x] add announcements email to the announcements channel in Matrix (Salt)
+- [x] send out email to all past speakers reminding them of the CfP (Dina)
 - [ ] create flyer with keynotes (Alfredo?)
 - [ ] distribute CFP fliers around Seattle (everyone!!!)
+
+#### 05/26
+- [x] test Vikunja and send out invites to everyone (AJ)
 
 
 ### Committee Updates
@@ -102,9 +96,6 @@ Important updates and things to share staff-wide
 #### Attendee Experience (AX)
 
 #### A/V & DevOps
-- [x] Test Vikunja tonight and send out invite to everyone. (AJ)
-- Errors in NextCloud log, looks like they might have upgraded MySQL
-  - Text entry in Collective, extremely slow
 
 #### Finance
 
@@ -121,26 +112,14 @@ Important updates and things to share staff-wide
 #### Programming & Flow
 
 #### Promotion & Outreach
-- Emails went out to sponsors, not all of them but many
 
 #### Volunteers
-- Added information to the spreadsheet
-  - Need assistance from Salt and committees for prioritization
-  - https://cloud.seagl.org/index.php/apps/files/files/45585?dir=/SeaGL/Volunteers&openfile=true
-- Started to update in NextCloud, but it was too glitchy and slow 
-- Volunteer from last year submitted form and seems keen on all areas.
-  - Invited to All Staff and June 9th meeting
-  - Advised them we desperately need posterers!
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-
-#### Committee Coordinators
-- still need someone for IDEA (Inclusion, Diversity, Equity, Access) and Policy & Protocol
-- dropping the explicit call in each meeting, but hoping to fill these...
 
 #### schedule committee kick-off meetings
 - promo/outreach is the main one still dangling
@@ -150,8 +129,7 @@ Important updates and things to share staff-wide
 
 
 ## Wrap-up
-### 05/26 - New TODOs
-- [ ] Test Vikunja and send out invites to everyone (AJ)
+### 06/09 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -163,7 +141,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, June 9 @ 5pm Pacific Time (2025-06-10 00:00 UTC)
+- Monday, June 23 @ 5pm Pacific Time (2025-06-24 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Async through end of June
