@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, June 9, 2025. 5pm Pacific Time (2025-06-10 00:00 UTC)
+- Monday, June 23, 2025. 5pm Pacific Time (2025-06-24 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -18,10 +18,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Norm, Dina, Matt, AJ, Salt, Robin, Chance, Alfredo
-- Apologies: Sen, Kim
-- Facilitator: Salt
-- Note Taker(s): Angel, Salt, Chance
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -47,41 +47,30 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
 
 #### 03/17
-- [/] review communication channels document (everyone)
+- [ ] review communication channels document (everyone)
   - moved this into the all-staff collective
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All&20Staff/Communication%20Channels?fileId=44755
   - should list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what
-- [/] compile list of specific on-going volunteer jobs with filled status (Angel)
-  - mostly done, waiting on review from tech
+- [ ] compile list of specific on-going volunteer jobs with filled status (Angel)
 
 #### 03/31
-- [x] setup windmill automation of volunteer onboarding (AJ)
-  - mvp done, more things to be added later
 - [ ] refine links landing page (Kim)
   - https://github.com/SeaGL/seagl.github.io/pull/457
-  - Brainstorming and draft status update, not ready yet
 
 #### 04/14
 - [ ] Reply with thank you to LPI, cc parternship email (kim)
 - [ ] Schedule recurring promo/outreach meetings (Alfredo)
-  - https://starbestfit.com/seagl-promo-outreach-meeting-242935
-
-#### 04/28
-- [x] make list of tools with ready to use status/in progress (AJ)
-  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/AV%20%26%20DevOps/System%20setup%20status?fileId=45922
-- [x] distribute around U-District ASAP (Salt)
 
 #### 05/12
-- [x] send out email to all past speakers reminding them of the CfP (Dina)
 - [ ] create flyer with keynotes (Alfredo?)
-  - Earlier is good but FOSSY is hard deadline (End of July)
 - [ ] distribute CFP fliers around Seattle (everyone!!!)
-  - ideas for distribution locations?
-  - opportunities for people to pitch in (without duplicating effort)?
-  - deliver by bike is very effective!
 
-#### 05/26
-- [x] test Vikunja and send out invites to everyone (AJ)
+#### 06/09
+- [ ] upgrade pretalx (tech)
+- [ ] review tech support docs and let AJ know or add any additional resources (All)
+  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All%20Staff/Tech%20support%20resources?fileId=46792
+- [ ] Email partnership contacts to partners@seagl (All)
+- [ ] Find self-hosted social media manager (AJ)
 
 
 ### Committee Updates
@@ -102,54 +91,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- no updates
 
 #### A/V & DevOps
-- updating pretalx?
-  - Worth it to upgrade during CfP
-  - Find a way to adequately test post update
-- Started a tech support section in All Staff to help people get set up with all our systems.
-  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All%20Staff/Tech%20support%20resources?fileId=46792
-  - [ ] review and let AJ know or add any additional resources (All)
-- Vikunja is up but it is not configured yet
 
 #### Finance
-- No updates
-- Keynote speakers travel reimbursement? Who should sent out emails?
-  - Two have asked, send information to Norm (Dina)
-  - OSI suggested a cap on the amount, email to keynoters does mention the cap
 
 #### IDEA
-- No updates
 
 #### Partnerships
-- Some of the larger organizations have said they can't support us this year
-- We may have one sponsor but amount not known yet
-- [ ] Email partnership contacts to Robin (All)
-- Need volunteer to help with finding contact information for potential open source organization partnerships
 
 #### Policy & Protocol
-- Won't make health policy less restrictive
-  - Currently states that speakers can request that masks be required for their talk, masks encouraged, not required
 
 #### Programming & Flow
-- Communicating with keynoters is going well
-- extending cfp?
-  - Extension announcement will go out before Sunday
-- keynote announcement
-- Email template for reimbursement will be sent to go to Finance
-- Sent emails to past speakers
-- Up to about 28
-- Messaging groups re: CfP
-- Send potential speakers to Dina if they have questions, otherwise send to CfP
 
 #### Promotion & Outreach
-- Working on meeting schedule
-- Some social media posts
 
 #### Volunteers
-- Volunteer role spreadsheet is nearly done, just waiting on tech roles review
-- Added role to find contact information for Partnerships
 
 
 ### New Items
@@ -157,35 +114,12 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### schedule committee kick-off meetings
-- promo/outreach is the main one still dangling
-- let's schedule it real-time
-
-#### birdsite shadowban
-- Leave status as is, we link to website and Mastodon on it
-- Link was removed from the website footer
-- Still worth keeping as we have some reach there
-- Do we manually cross post? Put in original source for tweet on cross posted tweets?
-  - Create auto posts from site in the future
-  - [ ] Find self-hosted social media manager (AJ)
-
-#### CFP extension
-- until when?
-- Until June 30th at 11:59PM
-
 
 ### Open discussion (~5 minute, if time)
-- Vikunja, continue adding tasks? Planning larger structure?
-  - Be Bold, keep adding tasks, let structure bubble up, we can make changes
 
 
 ## Wrap-up
-### 06/09 - New TODOs
-- [ ] upgrade pretalx (tech)
-- [ ] review tech support docs and let AJ know or add any additional resources (All)
-  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All%20Staff/Tech%20support%20resources?fileId=46792
-- [ ] Email partnership contacts to partners@seagl (All)
-- [ ] Find self-hosted social media manager (AJ)
+### 06/23 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -197,7 +131,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, June 23 @ 5pm Pacific Time (2025-06-24 00:00 UTC)
+- Monday, July 7 @ 5pm Pacific Time (2025-07-08 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Async through end of June
@@ -215,15 +149,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Angel: happy to finally have volunteers windmilling about
-- Norm: Happy to see new people and that thing are organized
-- Dina: Excited about how organized we are. It's really nice to be part of this group
-- Matt: Excited to be here and to be getting more involved. I'm happy to be a useful idiot for the purposes of onboarding testing.
-- AJ: I'm glad the Windmill stuff is done. Excited to update Pretalx, excited in general. Pumped!
-- Salt: I'm going to reach out to some sponsors next to remind them we are in need. I'm looking forward to editing the draft for the CfP extension and keynote announcement. I appreciate all of you being here, it's really great to have new faces but also friendly faces
-- Robin: (Had to leave early.)
-- Chance: will find something to do, thanks everyone for what you do ;)
-- Alfredo: Able to join for the last 10 minutes, have a conflicting meeting now. Just wanted to say hi to everyone
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
