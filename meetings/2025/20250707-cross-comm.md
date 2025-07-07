@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, June 23, 2025. 5pm Pacific Time (2025-06-24 00:00 UTC)
+- Monday, July 7, 2025. 5pm Pacific Time (2025-07-08 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Salt, Matt, Sen, Angel, Kim
-- Apologies: Alfredo, Robin, Norm, AJ, Dina
-- Facilitator: Salt
-- Note Taker(s): Angel
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -44,40 +44,33 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 -->
 
 #### 03/03
-- [/] fill out signage information on the wiki (Angel)
+- [ ] fill out signage information on the wiki (Angel)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
 
 #### 03/17
-- [x] review communication channels document (everyone)
-  - moved this into the all-staff collective
-  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All%20Staff/Communication%20Channels?fileId=44755
-  - should list of all our communication channels, how to join them, what type of communication is expected on each, and who has access to what
 - [ ] compile list of specific on-going volunteer jobs with filled status (Angel)
 
 #### 03/31
 - [ ] refine links landing page (Kim)
   - https://github.com/SeaGL/seagl.github.io/pull/457
-  - looking for input on the list of pages we should link (everyone)
-  - https://github.com/SeaGL/seagl.github.io/pull/466
 
 #### 04/14
-- [x] Reply with thank you to LPI, cc parternship email (kim)
 - [ ] Schedule recurring promo/outreach meetings (Alfredo)
 
 #### 05/12
 - [ ] create flyer with keynotes (Alfredo?)
-  - deadling FOSSY last week July/first August
-- [x] distribute CFP fliers around Seattle (everyone!!!)
-  - A bunch of areas/libraries done
-  - UW campus
 
 #### 06/09
 - [ ] upgrade pretalx (tech)
 - [ ] review tech support docs and let AJ know or add any additional resources (All)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All%20Staff/Tech%20support%20resources?fileId=46792
 - [ ] Email partnership contacts to partners@seagl (All)
-- [<] Find self-hosted social media manager (AJ)
-  - This can be moved to tech backlog
+
+#### 06/23
+- [ ] Figure out streaming infrastructure (Sen)
+- [ ] Need network information re: UW rooms (Salt)
+- [ ] Contact to get new volunteer on Matrix or email (Matt)
+- [ ] Write post CfP closing blog post (??)
 
 
 ### Committee Updates
@@ -98,73 +91,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- AX meetings tabled until inventory completed
-- Inventory completed June 23
-  - Have sufficient quantities of most consumables
-  - Have sufficient perennial signs
-  - Have sufficient coffee supplies
-  - Lanyards: ~150, less than 200
-  - Table shopping list items for AX meeting
-  - Need to print new large (2'x4') signs - AX meeting
-  - Excess of speaker gifts
-- Next AX Tuesday July 1 @ 5 pacific
-  - [ ] Add to calendar (Sen)
-- Salt meeting with UW on July 2/3 for final contract details
 
 #### A/V & DevOps
-- Inventory
-  - Missing 2 laptops, 1 power supply
-  - One may be with Kim and one with AJ
-    - kim does not have any of the laptops nor power supply, everything was given to Andrew
-- Discussed Vikunja setup
-- [ ] Figure out streaming infrastructure (Sen)
-- [ ] Need network information re: UW rooms (Salt)
-- Capture cards in all laptop bags
 
 #### Finance
-- No updates
 
 #### IDEA
-- No updates
 
 #### Partnerships
-- Reminders went out to all potential partners re: CfP closing soon & keynotes
-- No fiscal sponsors yet
-- A few aren't able to this year
-- Contact at AWS?
-  - Spot, they've been spoken to (no money)
-- Range for fiscal sponsors $1500 - $12000
-- Updated partnership communication templates
 
 #### Policy & Protocol
-- No updates
 
 #### Programming & Flow
-- Dina is away for a couple of weeks
-  - Office hours need to be covered 6 - 7 Pacific on Mondays
-  - [x] Check if auto responder set (Angel)
-    - Bounce back undeliverable
-- When she's back, we'll need to figure out the process for CFP reviewers, volunteers?
-- CfP Volunteers
-  - Angel
-  - Matt
-  - Salt
-  - Kim (?)
-  - nomad
 
 #### Promotion & Outreach
-- Had meeting
-- Released the keynote speaker names
-- Extended CfP until June 30th
-- Socials posts about CfP
-- Starting to reach out to designer re: speaker gifts
 
 #### Volunteers
-- New volunteer submission form
-  - Signal only
-  - [ ] Contact to get on Matrix or email (Matt)
-- Volunteer job sheet
-  - REMINDER (AJ): review AV/DevOps jobs
 
 
 ### New Items
@@ -172,31 +114,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
+
 ### Open discussion (~5 minute, if time)
-
-#### COVID Policy
-- No change to policy last meeting
-- Change for razorblade throat strain?
-  - Too far out for now
-- Will wait to see what speakers request for masking in rooms
-
-#### Links Landing Page
-- [ ] Clean up and add final push (Kim)
-- wait for feedback from others
-- Incorpoate Salt's suggestions as you see fit
-
-#### New Blog Post
-- [ ] Need to put out a blog post after CfP submissions are done
-  - Talk about the next steps, tentative schedule, and then talk about how they can meet us at FOSSY
 
 
 ## Wrap-up
 
-### 06/23 - New TODOs
-- [ ] Figure out streaming infrastructure (Sen)
-- [ ] Need network information re: UW rooms (Salt)
-- [ ] Contact to get new volunteer on Matrix or email (Matt)
-- [ ] Write post CfP closing blog post (??)
+### 07/08 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -208,7 +132,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, July 7 @ 5pm Pacific Time (2025-07-08 00:00 UTC)
+- Monday, July 21 @ 5pm Pacific Time (2025-07-22 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Async through end of June
@@ -226,11 +150,7 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Salt: Appreciate everyone being here! The CfP closing allows other doors to open.
-- Matt: Had a good trial run hanging CfP posters. Will keep an eye on them to see how they fare in the weather. Will work on reviewing CfP submissions after I'm back
-- Sen: Happy to be here! Felt productive and important today, and excited to get into more AX stuff
-- Angel: Looking forward to AX stuff, and happy to finish the CfP posters
-- Kim: Getting more exciting, thanks everyone for being here, and hoping to see how it all turns out. 
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
 
