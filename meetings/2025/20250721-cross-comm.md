@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, July 7, 2025. 5pm Pacific Time (2025-07-08 00:00 UTC)
+- Monday, July 21, 2025. 5pm Pacific Time (2025-07-22 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Robin, Kim, Alfredo, Dina, Norm, AJ
-- Apologies: Matt
-- Facilitator: Salt
-- Note Taker(s): Angel, Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -44,17 +44,15 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 -->
 
 #### 03/03
-- [/] fill out signage information on the wiki (Angel)
+- [ ] fill out signage information on the wiki (Angel)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
 
 #### 03/17
-- [/] compile list of specific on-going volunteer jobs with filled status (Angel)
-  - still needs review from AJ
+- [ ] compile list of specific on-going volunteer jobs with filled status (Angel)
 
 #### 03/31
 - [ ] refine links landing page (Kim)
   - https://github.com/SeaGL/seagl.github.io/pull/466
-  - Potentially needs 2nd round of feedback, screenshot in All Staff (Matrix)
 
 #### 04/14
 - [ ] Schedule recurring promo/outreach meetings (Alfredo)
@@ -68,13 +66,18 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] review tech support docs and let AJ know or add any additional resources (All)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All%20Staff/Tech%20support%20resources?fileId=46792
 - [ ] Email partnership contacts to partners@seagl (All)
-  - we need money
 
 #### 06/23
 - [ ] Figure out streaming infrastructure (Sen)
 - [ ] Need network information re: UW rooms (Salt)
-- [x] Contact to get new volunteer on Matrix or email (Matt)
 - [ ] Write post CfP closing blog post (Dina)
+
+#### 07/07
+- [ ] Review potential for updating old ads (Angel)
+- [ ] Update form to be specific for email or Matrix (Angel)
+- [ ] Check form for level of involvement (Angel)
+- [ ] Figure out where to put the people that just want to help day of (Angel)
+- [ ] Ask DiscoTech for preferred time slots (Dina)
 
 
 ### Committee Updates
@@ -95,90 +98,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- signed venue contract
-  - Cuts will need to be made. Deadline September
-  - Can't leave things in expo hall without paying extra
-  - Includes all of our and sponsors' stuff ($$$$$$$$)
-  - Do we still want the Lyceum?
 
 #### A/V & DevOps
-- gsuite payments? (Cutoff on August 2)
-  - Price increase only applies to active users
-  - AJ will fix NOW
-  - Remove Norm's account
-  - Remove ALL the accounts, Google is evil! (<- personal opinion)
-- pretalx update?
-  - Some work done but not ready to test and go
-  - Recommend being more casual with update due to CfP open
 
 #### Finance
-- 3 of 4 keynotes do not need travel assistance
 
 #### IDEA
-- No updates
 
 #### Partnerships
-- Conversation with potential sponsors on Wednesday
-- Ada's and EFF will be media sponsors
-- Work with current sponsors
-- Reach out to potential new sponsors
-  - Salt has a couple of suggestions
-- One more sponsor push once schedule is out
-- Where is the list of sponsors?
-  - https://cloud.seagl.org/index.php/apps/files/files/46015?dir=/SeaGL/Partnerships/2025&openfile=true
 
 #### Policy & Protocol
-- No updates
 
 #### Programming & Flow
-- cfp next steps
-  - Closed
-  - Got 91 proposals from 54 people
-  - Schedule meeting to discuss CfP Review timeline/process/scoring
-  - Two meetings re: reviews
-  - Update PreTalx settings: Reviewer Teams, Reviewer Phases
-- 2 keynoters information not there yet
-- Decide acceptance email date, will dictate timelines for reviews
-  - Around mid-August, after FOSSY
-  - Before September 1st
 
 #### Promotion & Outreach
-- started speaker gift design
-  - ordered first designs from the artist, should receive within this week, will share on matrix for feedback.
-- need new flyer asap
-  - can work on this Thursday/Friday (Alfredo) ETA 7/13
-- We have people asking for ads
-  - https://github.com/SeaGL/outreach/tree/main/design/ads
-  - newsletter
-    - png or jpg
-    - 600x110
-    - 300x250
-    - Text: 3-5 word headline, up to 50 words, call to action with link
-  - website
-    - static or animated
-    - 728x90
-    - 300x250
-    - 160x600
-  - magazine
-    - Bleed size: 216 x 303 mm
-    - Bleed: Continue colors and graphical backgrounds 3mm beyond trim at any page edge.
-    - Type area: 184 x 266
-    - Live Area: Space within the ad for locating text and important graphic elements.
-    - Allow 5mm from the edge of the Live Area to the trim line.
-    - Trim size: 210 x 297
-    - Trim: The final dimensions assuming perfect placement.
-    - File format: Send closed (non-editable) files as high-resolution PDF
-    - Graphics: Artwork should use the CMYK color space.
-    - Resolution: 300 dpi minimum.
-    - Crop marks: Include crop marks outside the bleed size to indicate how your ad should be positioned and cropped.
-    - Fonts: All fonts must be embedded.
-  - [ ] Review potential for updating old ads (Angel)
 
 #### Volunteers
-- Onboarding link sent to potential new volunteer
-- [ ] Update form to be specific for email or Matrix (Angel)
-- [ ] Check form for level of involvement (Angel)
-- [ ] Figure out where to put the people that just want to help day of (Angel)
 
 
 ### New Items
@@ -186,26 +121,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### DiscoTech from /dev/hack
-- Resisting Tech Monopolies
-  - Many booths showing alternatives to Google
-  - Mini 2-4 hours event with multiple tables
-  - Exhibit hall, side room, lounge?
-  - Probs room for tables (3) in exhibit hall
-  - Extra $ for workshop layout in side room
-- [ ] Ask them for preferred time slots (Dina)
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 07/07 - New TODOs
-- [ ] Review potential for updating old ads (Angel)
-- [ ] Update form to be specific for email or Matrix (Angel)
-- [ ] Check form for level of involvement (Angel)
-- [ ] Figure out where to put the people that just want to help day of (Angel)
-- [ ] Ask DiscoTech for preferred time slots (Dina)
+### 07/21 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -218,7 +140,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, July 21 @ 5pm Pacific Time (2025-07-22 00:00 UTC)
+- Monday, August 4 @ 5pm Pacific Time (2025-08-05 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Async through end of June
