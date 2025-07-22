@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, July 21, 2025. 5pm Pacific Time (2025-07-22 00:00 UTC)
+- Monday, August 4, 2025. 5pm Pacific Time (2025-08-05 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Linnea, AJ, Kim, Dina, Salt
-- Apologies: Norm, Alfredo
-- Facilitator: Salt
-- Note Taker(s): Angel, Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -44,16 +44,11 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 -->
 
 #### 03/03
-- [/] fill out signage information on the wiki (Angel)
+- [ ] fill out signage information on the wiki (Angel)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
 
 #### 03/17
-- [/] compile list of specific on-going volunteer jobs with filled status (Angel)
-  - still waiting on review by AJ
-
-#### 03/31
-- [x] refine links landing page (Kim)
-  - https://github.com/SeaGL/seagl.github.io/pull/466
+- [ ] compile list of specific on-going volunteer jobs with filled status (Angel)
 
 #### 04/14
 - [ ] Schedule recurring promo/outreach meetings (Alfredo)
@@ -65,9 +60,6 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
   - draft: https://github.com/SeaGL/outreach/blob/main/design/flyers/2025/seagl_2025_keynotes.svg
 
 #### 06/09
-- [x] upgrade pretalx (tech)
-- [x] review tech support docs and let AJ know or add any additional resources (All)
-  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/All%20Staff/Tech%20support%20resources?fileId=46792
 - [ ] Email partnership contacts to partners@seagl (All)
 
 #### 06/23
@@ -75,17 +67,15 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] Need network information re: UW rooms (Salt)
 - [/] Write post CfP closing blog post (Dina)
   - draft: https://github.com/SeaGL/seagl.github.io/pull/467
-  - dina to update for tuesday review
 
 #### 07/07
-- [/] Review potential for updating old ads (Angel)
-- [x] Update form to be specific for email or Matrix (Angel)
-  - to work with salt after meeting to update
-- [x] Check form for level of involvement (Angel)
-  - to work with salt after meeting to update
+- [ ] Review potential for updating old ads (Angel)
 - [ ] Figure out where to put the people that just want to help day of (Angel)
-- [x] Ask DiscoTech for preferred time slots (Dina)
-  - made contact, but still waiting on times
+
+#### 07/21
+- [ ] bring up questions to DiscoTech folks (Linnea)
+- [ ] send cfp reviewers email (Dina)
+- [ ] review PreTalx settings before CfP review phase (Dina/Salt)
 
 
 ### Committee Updates
@@ -106,47 +96,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- contract signed (maybe a repeat notice)
-- sen and dina met, discussed discotech
-- potential rescheduling regular meeting
 
 #### A/V & DevOps
-- PreTalx was updated
-- AJ starting to look at streaming solutions for this year
-- Assess tech meeting timing
-  - Time for more frequent meetings?
 
 #### Finance
-- No update
 
 #### IDEA
-- Not many speakers filled out their pronouns
-- Masking in speaker rooms not yet checked
-- Marginalized community information not yet checked
 
 #### Partnerships
-- No update
 
 #### Policy & Protocol
-- No update
 
 #### Programming & Flow
-- 2 keynote speakers not filled out information form
-- Concerned about people away during August for CfP reviews
-  - Salt thinks there will be plenty of people around
-- CfP closed blog post drafted, still needs to be finalized
 
 #### Promotion & Outreach
-- Draft of keynote speaker poster uploaded
-- Draft of print ad shared
-- Designs for speaker gifts leaked in Promo channel
-- Flier for everything poster needed by Fossy - July 31
 
 #### Volunteers
-- New volunteer!!!
-- Onboarding process went fairly smoothly
-- Consideration when rolling out single sign on
-  - include SeaGL spaces for participants but not yet volunteers, e.g. PreTalx
 
 
 ### New Items
@@ -154,42 +119,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### DiscoTech (Linnea)
-- Multiple tables with activities (~3 tables)
-  - Intro to different FOSS topics and practices
-  - Beginner and Advanced topics
-- Half day of tables/activities, either day
-  - Saturday PM is the preferred time of DiscoTech
-- SeaGL provided materials?
-  - Power, screens, table clothes
-  - Probably just power
-- [ ] bring up questions to DiscoTech folks (Linnea)
-
-#### CFP Reviews (Dina)
-- August timing may be tricky with people travelling
-- Async seems best
-- [ ] Send out a deadling for people to start reviewing (Dina)
-- Instruction email to all people who volunteered (Dina)
-  - Dina needs list (Salt)
-  - Roughly two weeks after email sent
-  - Deadline to complete reviews August 15th
-  - Include scheduling tool for meeting (prob 2) following deadline week
-- Post CfP review period meetings
-  - Numbers of rooms
-  - Numbers of talks (max for schedule)
-- [ ] Review PreTalx settings before CfP review phase (Dina/Salt)
-
 
 ### Open discussion (~5 minute, if time)
-- When does All Hands switch to weekly meetings?
-  - September
+
 
 ## Wrap-up
 
-### 07/21 - New TODOs
-- [ ] bring up questions to DiscoTech folks (Linnea)
-- [ ] send cfp reviewers email (Dina)
-- [ ] review PreTalx settings before CfP review phase (Dina/Salt)
+### 08/04 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -202,7 +138,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, August 4 @ 5pm Pacific Time (2025-08-05 00:00 UTC)
+- Monday, August 18 @ 5pm Pacific Time (2025-08-19 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Async through end of June
@@ -220,12 +156,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Angel: very busy this summer, would like to be able to contribute more, excited to see everyone and have new folks join
-- Linnea: Will check with DiscoTech ppl and get back to SeaGL. Very happy to be here.
-- AJ: (had to leave early)
-- Kim: Welcome Linnea. Happy that everyone is here. I feel like I haven't been as active in the conversations as I could be, but hoping to get better.
-- Dina: Have lots to do but summer is starting to get really busy. Less time in August. Really excited that Linnea's here and to start ramping things up for SeaGL.
-- Salt: Exciting to have new folks joining us. Feeling disconnected from SeaGL as I travel and to other things. Nice to see things move forward, I'm pingable and available.
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
