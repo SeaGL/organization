@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, August 4, 2025. 5pm Pacific Time (2025-08-05 00:00 UTC)
+- Monday, August 18, 2025. 5pm Pacific Time (2025-08-19 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Salt, Angel, Matt, AJ, Kim
+- Attendees: 
 - Apologies: 
-- Facilitator: Salt
-- Note Taker(s): Salt, Angel
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -53,29 +53,34 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 #### 04/14
 - [ ] Schedule recurring promo/outreach meetings (Alfredo)
 
-#### 05/12
-- [x] create flyer with keynotes (Alfredo?)
-  - previous year examples can be found here: https://seagl.org/fliers/
-  - due by fossy, thursday 7/31
-  - draft: https://github.com/SeaGL/outreach/blob/main/design/flyers/2025/seagl_2025_keynotes.svg
-
 #### 06/09
 - [ ] Email partnership contacts to partners@seagl (All)
 
 #### 06/23
 - [ ] Figure out streaming infrastructure (Sen)
 - [ ] Need network information re: UW rooms (Salt)
-- [x] Write post CfP closing blog post (Dina)
-  - draft: https://github.com/SeaGL/seagl.github.io/pull/467
 
 #### 07/07
-- [x] Review potential for updating old ads (Angel)
 - [ ] Figure out where to put the people that just want to help day of (Angel)
 
 #### 07/21
 - [ ] bring up questions to DiscoTech folks (Linnea)
-- [x] send cfp reviewers email (Dina)
-- [x] review PreTalx settings before CfP review phase (Dina/Salt)
+
+#### 08/04
+- [ ] schedule new regular AX meeting time (sen)
+  - https://starbestfit.com/seagl-ax-meeting-530113
+- [ ] explore registration options (AV/DevOps)
+- [ ] create expo hall table chart  (Partnerships)
+- [ ] ship new ads to linux magazine (salt)
+- [ ] give additional list of flyer places to Matt (Salt)
+- [ ] create form for tabling at other events (Angel)
+  - ask about volunteering (at-event or committee)
+  - join mailing list
+- [ ] explore transition to mailman (AV/DevOps)
+- [ ] create a list of tabling items (Salt/Angel)
+- [ ] create tracker for flyer counts per year/event (Angel)
+- [ ] get a bigger bag for tabling items (Salt)
+- [ ] get scissors/papercutter for tabling bag (Salt)
 
 
 ### Committee Updates
@@ -96,71 +101,28 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- hasn't met, scheduling new regular time
-  - https://starbestfit.com/seagl-ax-meeting-530113
-  - respond by eod wednesday 8/6
-- Add an optional registration form w/donation link for those that can
-  - Can this be done through Pretalx? (AV/DevOps)
 
 #### A/V & DevOps
-- things stalled out
-  - aj has been traveling
-  - plan to meet tomorrow
-- AJ started work on webpage to remote control streaming laptops
-- https://seagl.org/links launched
 
 #### Finance
-- No update
-- AJ still needs credit card
-  - email sent to OSI live during this meeting
 
 #### IDEA
-- No update
 
 #### Partnerships
-- Salt asked about tables for groups
-- Create table chart
-  - Consider showing premium tables and link them to sponsorship levels or charge for them
-  - Salt says probably not this year
 
 #### Policy & Protocol
-- Most recent blog post mentioned mask policy, no feedback yet
 
 #### Programming & Flow
-- CfP reviews in process
-  - Let Dina or Salt know if you want to be a reviewer
 
 #### Promotion & Outreach
-- keynote names on poker chips?
-- [ ] ship new ads to linux magazine (salt)
-- fossy went well
-  - future tabling we should have form to ask for help with volunteering
-- [ ] Give additional list of flyer places to Matt (Salt)
 
 #### Volunteers
-- New person for at-conference volutneering from FOSSY - Justin
-- Remote streaming website will make the room person role less technical, but won't eliminate the need for a person there
-- [ ] Create form for volunteer form for tabling (Angel)
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### Tabling set up
-- lots of questions whether we were selling merch (stuffed seagulls, past swag etc)
-- [ ] Create mailing list sign-up
-  - [-] Software Freedom Conservancy to get on mailing list server? (AJ)
-  - SFC is still on Mailman 2 it seems (https://lists.sfconservancy.org/mailman/listinfo) so we might as well just use OSUOSL's setup
-- [ ] Create a list of tabling items (Salt/Angel)
-- Printed 400 handbills, 30 left
-- [ ] Create tracker for flyer counts per year/event (Angel)
-- Get a bigger bag for tabling items (Salt)
-- Need scissors/papercutter for tabling
-
-#### QR code per event/location to track usefulness
-- separate for handout/flyers vs at conferences
-- would be really useful to just have super basic flow analytics. "x people from y conference went to the QR code and clicked through to Pretalx"
 
 
 ### Open discussion (~5 minute, if time)
@@ -168,28 +130,12 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 08/04 - New TODOs
-- [ ] schedule new regular AX meeting time (sen)
-  - https://starbestfit.com/seagl-ax-meeting-530113
-- [ ] explore registration options (AV/DevOps)
-- [ ] create expo hall table chart  (Partnerships)
-- [ ] ship new ads to linux magazine (salt)
-- [ ] give additional list of flyer places to Matt (Salt)
-- [ ] create form for tabling at other events (Angel)
-  - ask about volunteering (at-event or committee)
-  - join mailing list
-- [ ] explore transition to mailman (AV/DevOps)
-- [ ] create a list of tabling items (Salt/Angel)
-- [ ] create tracker for flyer counts per year/event (Angel)
-- [ ] get a bigger bag for tabling items (Salt)
-- [ ] get scissors/papercutter for tabling bag (Salt)
+### 08/18 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
-- [x] post CfP closing (Dina)
-  - outline review/acceptance timeline, mention that we'll be tabling at FOSSY
 
 ### Timeline
 - November 7-8 (Friday/Saturday): SeaGL 2025
@@ -213,11 +159,7 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Salt: You're all wonderful. I'm excited for SeaGL. I'm tired.
-- Angel: Brain doesn't work so good when hungry. Nice to see things getting done. Concerned about lack of partners with money.
-- Matt: Going out next weekend to do more flyering.
-- AJ: It's nice to see you all again.
-- Kim: It's hard to believe that August is already here. Thanks all for being here. I'm excited to see how the conference goes this year.
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
 
