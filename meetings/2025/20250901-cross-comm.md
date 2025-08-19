@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, August 18, 2025. 5pm Pacific Time (2025-08-19 00:00 UTC)
+- Monday, September 1, 2025. 5pm Pacific Time (2025-09-02 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Alfredo, Matt, Angel, Sen, Salt, Norm, AJ, Dina
-- Apologies: Kim
-- Facilitator: Angel
-- Note Taker(s): Angel
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -47,20 +47,14 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [/] fill out signage information on the wiki (Angel)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
 
-#### 03/17
-- [x] compile list of specific on-going volunteer jobs with filled status (Angel)
-  - https://cloud.seagl.org/index.php/apps/files/files/45585?dir=/SeaGL/Volunteers&editing=false&openfile=true
-
 #### 04/14
 - [ ] Schedule recurring promo/outreach meetings (Alfredo)
-  - Stable schedule will make that easier to schedule
 
 #### 06/09
 - [ ] Email partnership contacts to partners@seagl (All)
 
 #### 06/23
 - [ ] Figure out streaming infrastructure (Sen)
-  - Been busy with work, will have stuff for AV/DevOps meeting
 - [ ] Need network information re: UW rooms (Salt)
 
 #### 07/07
@@ -70,8 +64,6 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] bring up questions to DiscoTech folks (Linnea)
 
 #### 08/04
-- [x] schedule new regular AX meeting time (sen)
-  - Non-all hands weeks 11am Wednesdays
 - [ ] explore registration options (AV/DevOps)
 - [ ] create expo hall table chart  (Partnerships)
 - [ ] ship new ads to linux magazine (salt)
@@ -80,12 +72,25 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
   - ask about volunteering (at-event or committee)
   - join mailing list
 - [ ] explore transition to mailman (AV/DevOps)
-  - Asked Lance - timeline soon.
-  - [ ] Ping Lance about mailman3 timeline (AJ)
 - [ ] create a list of tabling items (Salt/Angel)
 - [ ] create tracker for flyer counts per year/event (Angel)
 - [ ] get a bigger bag for tabling items (Salt)
 - [ ] get scissors/papercutter for tabling bag (Salt)
+
+#### 08/18
+- [ ] Ping Lance about mailman3 timeline (AJ)
+- [ ] Meet to discuss on-site signage (Angel/Sen)
+- [ ] Meet with Linnea to discuss Disco Tech needs (Sen)
+- [ ] Meet to discuss expo hall layout (Salt/Sen)
+- [ ] Talk to Open Signal folks from Portland (AJ)
+- [ ] Annual conference streaming updates and prep (AV/DevOps)
+- [ ] Meet to discuss non-exhibiting shipment destination/process (Norm, Salt)
+- [ ] Put fliers around UW campus (Salt)
+- [ ] Distribute Ad fliers (everyone)
+  - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
+  - Ad flyer/handbill links: https://seagl.org/fliers/2025/
+- [ ] Follow up with Linux Mag re: timing for ad (Salt)
+- [ ] Sync re: speaker gifts (Salt/Alfredo)
 
 
 ### Committee Updates
@@ -106,69 +111,22 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- [ ] Meet to discuss on-site signage (Angel/Sen)
-- Met with Dina and Linnea re: DiscoTech ideas/needs
-  - They need 3 tables (Partnerships/AX)
-  - [ ] Meet with Linnea to discuss Disco Tech needs (Sen)
-- Regular meetings have been scheduled for every other Wednesday at 11
-- Is there a table layout diagram?
-  - Yes
-  - [ ] Meet to discuss expo hall layout (Salt/Sen)
 
 #### A/V & DevOps
-- Work on streaming stuff is progressing
-- [ ] Talk to Open Signal folks from Portland (AJ)
-  - https://www.opensignalpdx.org/about/staff/ (Chris Polanco)
-- [ ] Annual conference streaming updates and prep (AV/DevOps)
 
 #### Finance
-- Met with Phyllis from OSI
-  - JMP agreed to sponsor
-  - [ ] Send partnership form to JMP (Norm)
-  - [ ] Send JMP info to OSI (Norm)
-  - Review/update sponsorship processes
-- Liasing w/partnerships re: sponsorship process
 
 #### IDEA
-- No updates
 
 #### Partnerships
-- We have a Sponsor: JMP chat !!!!!!!!!!!!!!!!
-  - Non-exhibiting
-- Salt confirmed Schedules Direct will sponsor this year
-  - Non-exhibiting
-- Norm will speak to JMP re: shipping and stickers etc.
-- [ ] Meet to discuss non-exhibiting shipment destination/process (Norm, Salt)
 
 #### Policy & Protocol
-- No updates
 
 #### Programming & Flow
-- Need more reviewers to review
-  - Salt
-  - Alfredo
-  - Matt B
-- Review meeting (Next week)
-  - Talk about reviews/scores
-  - Decide categories
 
 #### Promotion & Outreach
-- New poster used at FOSSY
-  - https://seagl.org/fliers/2025/SeaGL_2025_Ad_flyer_flier_poster_us-letter_full-bleed.pdf
-  - went well, printed ~300 handbills, less than 60 remaining
-  - Salt put up a flier at Worldcon
-- Need to distribute new poster around town!
-  - Matt put up a bunch of fliers around per spreadsheet: https://cloud.seagl.org/index.php/f/36943
-  - [ ] Put fliers around UW campus (Salt)
-  - [ ] Distribute Ad fliers (everyone)
-    - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
-    - Ad flyer/handbill links: https://seagl.org/fliers/2025/
-- In Linux Mag list of upcoming events
-  - [ ] Follow up with Linux Mag re: timing for ad (Salt)
-- Alfredo will restart socials
 
 #### Volunteers
-- New interest from flier at gym
 
 
 ### New Items
@@ -178,27 +136,11 @@ Important updates and things to share staff-wide
 
 
 ### Open discussion (~5 minute, if time)
-- Start weekly meetings in September!
-- [ ] Sync re: speaker gifts (Salt/Alfredo)
-- General thanks
 
 
 ## Wrap-up
 
-### 08/18 - New TODOs
-- [ ] Ping Lance about mailman3 timeline (AJ)
-- [ ] Meet to discuss on-site signage (Angel/Sen)
-- [ ] Meet with Linnea to discuss Disco Tech needs (Sen)
-- [ ] Meet to discuss expo hall layout (Salt/Sen)
-- [ ] Talk to Open Signal folks from Portland (AJ)
-- [ ] Annual conference streaming updates and prep (AV/DevOps)
-- [ ] Meet to discuss non-exhibiting shipment destination/process (Norm, Salt)
-- [ ] Put fliers around UW campus (Salt)
-- [ ] Distribute Ad fliers (everyone)
-  - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
-  - Ad flyer/handbill links: https://seagl.org/fliers/2025/
-- [ ] Follow up with Linux Mag re: timing for ad (Salt)
-- [ ] Sync re: speaker gifts (Salt/Alfredo)
+### 09/01 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -209,7 +151,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, September 1 @ 5pm Pacific Time (2025-09-02 00:00 UTC)
+- Monday, September 8 @ 5pm Pacific Time (2025-09-09 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Wednesday, 11am Pacific Time (Wednesday 18:00 UTC), off week from cross-comm
@@ -227,14 +169,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Alfredo: Glad to be here. Nervous about a month left to work
-- Matt: Gonna do CfP reviews for real this time
-- Angel: Will get on those tasks I haven't completed. Will sync with Salt re: joint tasks
-- Sen: Happy to be back. Happy schedule has finally quieted down a little bit. Will review CfPs.
-- Salt: Tired and worn down. I am excited. It feels like we're in a better place than we usually are at this time. It's all you.
-- Norm: Glad to see everyone here. Getting worried about sponsors, but we got two!
-- AJ: Also tired. I agree with Salt and Alfredo. It's scary but less scary than previous years. Yay?
-- Dina: Excited about review, happy to get that going. We have some really, really good proposals.
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
