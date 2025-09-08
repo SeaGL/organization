@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, September 1, 2025. 5pm Pacific Time (2025-09-02 00:00 UTC)
+- Monday, September 8, 2025. 5pm Pacific Time (2025-09-09 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: AJ, Salt, Dina, Alfredo, Robin
-- Apologies: Angel
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -47,16 +47,11 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [/] fill out signage information on the wiki (Angel)
   - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
 
-#### 04/14
-- [x] Schedule recurring promo/outreach meetings (Alfredo)
-  - Fridays at 4pm PT
-
 #### 06/09
 - [ ] Email partnership contacts to partners@seagl (All)
 
 #### 06/23
 - [ ] Figure out streaming infrastructure (Sen)
-- [-] Need network information re: UW rooms (Salt)
 
 #### 07/07
 - [ ] Figure out where to put the people that just want to help day of (Angel)
@@ -68,37 +63,33 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] explore registration options (AV/DevOps)
 - [ ] create expo hall table chart  (Partnerships)
 - [ ] ship new ads to linux magazine (salt)
-- [x] give additional list of flyer places to Matt (Salt)
 - [ ] create form for tabling at other events (Angel)
   - ask about volunteering (at-event or committee)
   - join mailing list
-- [x] explore transition to mailman (AV/DevOps)
-  - osuosl is working on it "soon", next upcoming project
-  - continuing to wait on osuosl rather than migrating to mailman2
 - [/] create a list of tabling items (Salt/Angel)
-  - guess I'd already started it here, but probably incomplete: https://cloud.seagl.org/index.php/apps/collectives/SeaGL-wiki-1/Tabling-at-other-conferences-45913
+  - draft: https://cloud.seagl.org/index.php/apps/collectives/SeaGL-wiki-1/Tabling-at-other-conferences-45913
 - [ ] create tracker for flyer counts per year/event (Angel)
 - [ ] get a bigger bag for tabling items (Salt)
-  - blocked until we decide on the list and such, but I can find a canvas bag to donate for now
+  - blocked until we decide on the list and such
 - [ ] get scissors/papercutter for tabling bag (Salt)
   - does something like this look good? https://www.amazon.com/Firbon-Scrapbooking-Automatic-Safeguard-Cardstock/dp/B075NYWF5P
   - or do we want one more like this? https://www.amazon.com/MAKEASY-Guillotine-Capacity-Trimmer-Cutting/dp/B0C2HDCTWN
   - or just a pair of scissors?
 
 #### 08/18
-- [x] Ping Lance about mailman3 timeline (AJ)
 - [ ] Meet to discuss on-site signage (Angel/Sen)
 - [ ] Meet with Linnea to discuss Disco Tech needs (Sen)
 - [ ] Meet to discuss expo hall layout (Salt/Sen)
 - [ ] Talk to Open Signal folks from Portland (AJ)
-- [/] Annual conference streaming updates and prep (AV/DevOps)
+- [ ] Annual conference streaming updates and prep (AV/DevOps)
 - [ ] Meet to discuss non-exhibiting shipment destination/process (Norm, Salt)
 - [ ] Put fliers around UW campus (Salt)
 - [ ] Distribute Ad fliers (everyone)
   - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
   - Ad flyer/handbill links: https://seagl.org/fliers/2025/
-- [x] Follow up with Linux Mag re: timing for ad (Salt)
-- [x] Sync re: speaker gifts (Salt/Alfredo)
+
+#### 09/01
+- [ ] ping keynote speakers to add their details to pretalx (Dina)
 
 
 ### Committee Updates
@@ -119,54 +110,36 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- no updates
 
 #### A/V & DevOps
-- no updates
-- nextcloud forms have finally implemented collaborative editing, hopefully available soon
 
 #### Finance
-- no updates
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- no updates
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- updates!
-- about to send out all of the acceptance/rejection emails...TODAY
-- [ ] ping keynote speakers to add their details to pretalx (Dina)
 
 #### Promotion & Outreach
-- working on linux magazine ads
-- working on finalizing speaker gift designs
 
 #### Volunteers
-- no updates
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### mailman
-- just embarassing that we are on google groups?
-- people can't join without creating a "google account"
-  - can create a form and just manually add people, but historically that has not been done
-  - little bit more than a minor thing, but agreed it isn't more important than A/V stuff
+
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 09/01 - New TODOs
-- [ ] ping keynote speakers to add their details to pretalx (Dina)
+### 09/08 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -178,7 +151,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, September 8 @ 5pm Pacific Time (2025-09-09 00:00 UTC)
+- Monday, September 15 @ 5pm Pacific Time (2025-09-16 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Wednesday, 11am Pacific Time (Wednesday 18:00 UTC), off week from cross-comm
@@ -196,11 +169,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- AJ: exciting we are sending out acceptances, scary that it is september
-- Salt: excited, also scared, also going weekly
-- Dina: excited to finally be launching talks, less stress that this is going out soon
-- Alfredo: even if september, think people are doing great job, more confident every year, more or less on schedule
-- Robin: everything does seem to be better this year, schedule has changed to working on mornings or evenings, still plan to join seagl, would still like to do teagl
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
