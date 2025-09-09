@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, September 8, 2025. 5pm Pacific Time (2025-09-09 00:00 UTC)
+- Monday, September 15, 2025. 5pm Pacific Time (2025-09-16 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Linnea, Angel, sen, Dina, AJ, Norm, Alfredo
-- Apologies: Matt (had to drop)
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -43,54 +43,36 @@ Add new things to discuss after `### New Items` below
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
 
-#### 03/03
-- [x] fill out signage information on the wiki (Angel)
-  - https://cloud.seagl.org/index.php/apps/collectives/SeaGL%20wiki/Attendee%20Experience/Signage?fileId=44660
-
 #### 06/09
 - [ ] Email partnership contacts to partners@seagl (All)
 
-#### 06/23
-- [x] Figure out streaming infrastructure (Sen)
-
-#### 07/07
-- [x] Figure out where to put the people that just want to help day of (Angel)
-
 #### 07/21
-- [/] bring up questions to DiscoTech folks (Linnea)
+- [ ] bring up questions to DiscoTech folks (Linnea)
 
 #### 08/04
 - [ ] explore registration options (AV/DevOps)
-- [x] create expo hall table chart  (Partnerships)
 - [ ] ship new ads to linux magazine (Salt)
 - [ ] create form for tabling at other events (Angel, Salt)
   - ask about volunteering (at-event or committee)
   - join mailing list
 - [/] create a list of tabling items (Salt/Angel)
   - draft: https://cloud.seagl.org/index.php/apps/collectives/SeaGL-wiki-1/Tabling-at-other-conferences-45913
-- [<] create tracker for flyer counts per year/event (Angel)
 - [ ] get a bigger bag for tabling items (Salt)
   - blocked until we decide on the list and such
-- [x] get scissors/papercutter for tabling bag (Salt)
-  - does something like this look good? https://www.amazon.com/Firbon-Scrapbooking-Automatic-Safeguard-Cardstock/dp/B075NYWF5P
-  - or do we want one more like this? https://www.amazon.com/MAKEASY-Guillotine-Capacity-Trimmer-Cutting/dp/B0C2HDCTWN
-  - or just a pair of scissors?
 
 #### 08/18
-- [x] Meet to discuss on-site signage (Angel/Sen)
 - [ ] Meet with Linnea to discuss Disco Tech needs (Sen)
-- [x] Meet to discuss expo hall layout (Salt/Sen)
-- [<] Talk to Open Signal folks from Portland (AJ)
-- [/] Annual conference streaming updates and prep (AV/DevOps)
-- [x] Meet to discuss non-exhibiting shipment destination/process (Norm, Salt)
-  - cuttoff monday before seagl
+- [ ] Annual conference streaming updates and prep (AV/DevOps)
 - [ ] Put fliers around UW campus (Salt)
 - [ ] Distribute Ad fliers (everyone)
   - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
   - Ad flyer/handbill links: https://seagl.org/fliers/2025/
 
-#### 09/01
-- [x] ping keynote speakers to add their details to pretalx (Dina)
+#### 09/08
+- [ ] Send venue updates to UW (Salt)
+- [ ] Send table request list to Partnerships and AX (Norm)
+- [ ] Respond to requests for cfp feedback (Dina)
+- [ ] create Linux Mag web ads (Angel)
 
 
 ### Committee Updates
@@ -111,55 +93,20 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- good meeting last week
-- went over day-of timeline
-- discussed expo hall layout
-- [ ] Send venue updates to UW (Salt)
-  - Anything re: selling books?
-  - All forms like uuf
-  - Table 21
-  - September 22nd deadline for room count/times
 
 #### A/V & DevOps
-- no updates
 
 #### Finance & Partnerships
-- No updates re: OSI due to holiday
-- Need more partnerships
-  - Google withdrew
-- Compiling table list
-  - [ ] Send to Partnerships and AX (Norm)
-- Ada's Technical Bookshop social space on Friday
-  - They want one day (4hrs) to sell books
-  - Non-disco day
 
 #### IDEA
-- No updates
 
 #### Policy & Protocol
-- No updates
 
 #### Programming & Flow
-- 50% speakers confirmed
-- Communication w/speakers ongoing
-- [ ] Respond to requests for feedback (Dina)
-- Keynoters have until Friday for info
-- on-track for October 1 schedule release
 
 #### Promotion & Outreach
-- [ ] Keynote info blog post
-- Had first recurring meeting on Friday at 4pm
-- [ ] create Linux Mag web ads (Angel)
-- Working with same artist for speaker gifts
-  - Discussing quote
-- Speakers have started posting acceptance
-- Waiting for all keynote bios
-- Waiting for schedule to promote talks
-- Can work on posters/fliers in the mean time
 
 #### Volunteers
-- One new volunteer
-  - type TBD
 
 
 ### New Items
@@ -173,11 +120,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 09/08 - New TODOs
-- [ ] Send venue updates to UW (Salt)
-- [ ] Send table request list to Partnerships and AX (Norm)
-- [ ] Respond to requests for cfp feedback (Dina)
-- [ ] create Linux Mag web ads (Angel)
+### 09/15 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -190,7 +133,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, September 15 @ 5pm Pacific Time (2025-09-16 00:00 UTC)
+- Monday, September 22 @ 5pm Pacific Time (2025-09-23 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Wednesday, 11am Pacific Time (Wednesday 18:00 UTC), off week from cross-comm
@@ -208,14 +151,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Linnea: Doing good, brain racing, have stuff to do, will have discotech answers by ax meeting on wednesday
-- Angel: Using extra half hour to work on seagl tasks!
-- sen: Feeling better after last week's ax meeting, excited, happy to be here
-- Dina: Happy to be here. Getting excited, it's getting close.
-- AJ: Similar vibes, both scary and exciting that we're 60 days away
-- Norm: Freaking out that it's getting closer and closer. Need to reserve time off from work.
-- Alfredo: Great to see you all here. Great to see how happy speakers are to be accepted. Excited for what will happen.
-- Salt: I know 60 sounds small but it's also 2 months. There's a lot that can happen in 2 months and I'm feeling better than in years past at 2 months. Part of that is all of you. Thank you.
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
