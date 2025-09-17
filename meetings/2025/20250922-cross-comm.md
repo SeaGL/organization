@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, September 15, 2025. 5pm Pacific Time (2025-09-16 00:00 UTC)
+- Monday, September 22, 2025. 5pm Pacific Time (2025-09-23 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: sen, AJ, Norm, Alfredo, Dina, Kim, Salt
-- Apologies: Angel
-- Facilitator: Salt
-- Note Taker(s): AJ
+- Attendees: 
+- Apologies: 
+- Facilitator: 
+- Note Taker(s): 
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -50,8 +50,6 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] bring up questions to DiscoTech folks (Linnea)
 
 #### 08/04
-- [>] explore registration options (AV/DevOps)
-- [x] ship new ads to linux magazine (Salt)
 - [ ] create form for tabling at other events (Angel, Salt)
   - ask about volunteering (at-event or committee)
   - join mailing list
@@ -61,21 +59,27 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
   - blocked until we decide on the list and such
 
 #### 08/18
-- [x] Meet with Linnea to discuss Disco Tech needs (Sen)
-  - four tables, power
-- [/] Annual conference streaming updates and prep (AV/DevOps)
+- [ ] Annual conference streaming updates and prep (AV/DevOps)
 - [ ] Put fliers around UW campus (Salt)
 - [ ] Distribute Ad fliers (everyone)
   - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
   - Ad flyer/handbill links: https://seagl.org/fliers/2025/
 
 #### 09/08
-- [ ] Send venue updates to UW (Salt)
-  - have a list to send, waiting on a question from Tech
-- [x] Send table request list to Partnerships and AX (Norm)
-- [/] Respond to requests for cfp feedback (Dina)
-  - mostly done, not quite at the finish line
-- [x] create Linux Mag web ads (Angel)
+- [x] Send venue updates to UW (Salt)
+- [ ] Respond to requests for cfp feedback (Dina)
+
+#### 09/15
+- [ ] launch ephemeral server by oct 1 (Tech)
+- [ ] send at-con volunteer tasks to Angel (Everyone)
+- [ ] ask UW professors about extra credit/assignment alternative for volunteering with SeaGL (Salt)
+- [ ] create "registration" nextcloud form (Salt)
+  - explitily optional
+  - link OSI donation page with suggestions
+  - ask about joining mailinglist
+  - ask about becoming volunteer
+- [ ] ask Andrew to generate a draft Matrix space (AJ)
+- [ ] send update to OSI donation page text (Salt)
 
 
 ### Committee Updates
@@ -96,83 +100,24 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- 8 sponsor booths assigned
-- meetings are on Wednesday, please join, especially if you have thoughts about coffee.
-- Salt: weekly meetings are going well, appreciate you leading this Sen
 
 #### A/V & DevOps
-- work progressing
-- sen developing custom remote presenter solution
-- [ ] launch ephemeral server by oct 1
-- presenter solution for meetings?
-  - no, really meant for 1:many
-- may still have network issues with streaming
-  - backup plan is 3rd party solution
 
 #### Finance & Partnerships
-- met with OSI this morning
-  - discussed sponsor billing/paperwork/etc.
-- partnerships: set a deadline for next week to send out another round of emails. hopefully will have by the all hands after we meet Thursday.
-- any contacts this week would be helpful, because next week we decide whether to drop space that would give us room for additional booths.
 
-#### IDEA
-- no updates
-
-#### Policy & Protocol
-- no updates
+#### IDEA / Policy & Protocol
 
 #### Programming & Flow
-- 2/3 confirmed!
-- first draft of the schedule
-  - we have a few more spots, so letting in people from the waitlist or maybe switch people from 20m to 50m.
-  - lot more talks, but we did reduce TeaGL to a half hour.
-  - talks go all the way to 6 every day with morning keynotes for both days.
-- still waiting on 1 bio from keynoters.
-  - pinged and got a response today.
 
 #### Promotion & Outreach
-- thanks Salt and Angel for sending the Linux Magazine web ads.
-- speaker gift.
-  - reached a deal with the artist, doing the full set.
-  - able to bring the price down and they understand we're close to the event.
-  - hopefully first draft by this Thursday.
-  - ideally want to send to print early October. depends on when the final design is ready, and if there are/aren't tariff or shipping restrictions at that time.
-  - Salt has a backup of a local printing shop, but more expensive.
-- also posting stuff on socials, for people to check spam for the CfP.
 
 #### Volunteers
-- Angel isn't here, but there were things worked on, stuff is moving forward.
-- if you have at-con volunteer tasks and haven't let Angel know yet, please get those listed.
-- Salt hoping to approach some of the professors and see if people can get extra credit for volunteering for SeaGL.
-  - LFNW does this.
-  - Dina: no no no. it's more like, you can volunteer, or you can write this paper.
+
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-
-#### registration options (AJ)
-- haven't done much research, but general feeling has been to go with pretix
-- don't think it is a good use of tech time to setup ticketing system right now
-- how do people feel about a nextcloud form for registration?
-  - optional, how much donating to osi, etc
-- pretalx may have some functionality related to reviewing talks
-- for this year nextcloud is probably the way
-- open ticket for next year
-
-#### ephemeral server goals (AJ)
-- attend portal functioning?
-- conference space functioning?
-- priority: server, then conference space (including talk rooms), then attend portal.
-  - ok if attend portal is like, "coming soon" or "it's available but we're making changes up until the conference"
-- this implies that we'd need the schedule beforehand, so we can generate and QA the space.
-- should have schedule locked in by next week. it's mostly locked in so far, just tweaking things. asked speakers to respond by the 23rd we think.
-- [ ] ask Andrew to generate a draft space based on the current draft schedule, so we can do some rough QA (AJ)
-
-#### osi donation blurb (Salt)
-- posted in staff on matrix, please review
-- incorporating feedback, not suggesting ticket price on this page
 
 
 ### Open discussion (~5 minute, if time)
@@ -180,17 +125,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 09/15 - New TODOs
-- [ ] launch ephemeral server by oct 1 (Tech)
-- [ ] send at-con volunteer tasks to Angel (Everyone)
-- [ ] ask UW professors about extra credit/assignment alternative for volunteering with SeaGL (Salt)
-- [ ] create "registration" nextcloud form (Salt)
-  - explitily optional
-  - link OSI donation page with suggestions
-  - ask about joining mailinglist
-  - ask about becoming volunteer
-- [ ] ask Andrew to generate a draft Matrix space (AJ)
-- [ ] send update to OSI donation page text (Salt)
+### 09/22 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -203,7 +138,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, September 22 @ 5pm Pacific Time (2025-09-23 00:00 UTC)
+- Monday, September 29 @ 5pm Pacific Time (2025-09-30 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Wednesday, 11am Pacific Time (Wednesday 18:00 UTC), off week from cross-comm
@@ -221,13 +156,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- sen: happy to be here, things are heating up, join us wednesday
-- AJ: cranking through meetings, nice to not be pushing till the end, excited for dinner and ephemeral server
-- Norm: seems like more is happening earlier than last year, todo items getting done
-- Alfredo: like that we seem to be at a good pace, no one is (visibly) panicking
-- Dina: really hungry, happy to be here
-- Kim: great to hear everything is going smooth this year, partnerships is weak point
-- Salt: <3
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
