@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, September 22, 2025. 5pm Pacific Time (2025-09-23 00:00 UTC)
+- Monday, September 29, 2025. 5pm Pacific Time (2025-09-30 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: aj, kim, matt, sen, dina, alfredo (late)
-- Apologies: angel
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -43,9 +43,6 @@ Add new things to discuss after `### New Items` below
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
 
-#### 06/09
-- [x] Email partnership contacts to partners@seagl (All)
-
 #### 07/21
 - [ ] bring up questions to DiscoTech folks (Linnea)
 
@@ -65,18 +62,14 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
   - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
   - Ad flyer/handbill links: https://seagl.org/fliers/2025/
 
-#### 09/08
-- [x] Send venue updates to UW (Salt)
-- [x] Respond to requests for cfp feedback (Dina)
-
 #### 09/15
-- [x] launch ephemeral server by oct 1 (Tech)
 - [ ] send at-con volunteer tasks to Angel (Everyone)
 - [ ] ask UW professors about extra credit/assignment alternative for volunteering with SeaGL (Salt)
 - [/] create "registration" nextcloud form (Salt)
-- [x] ask Andrew to generate a draft Matrix space (AJ)
-- [ ] generate draft Matrix space (Andrew)
-- [x] send update to OSI donation page text (Salt)
+- [ ] send update to OSI donation page text (Salt)
+
+#### 09/22
+- [ ] respond to lpi ted (Salt)
 
 
 ### Committee Updates
@@ -97,69 +90,25 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- coffee plans progressing
-- more details about friday's afterparty at ada's
 
 #### A/V & DevOps
-- not many updates
-- working on nice speaker experience
-- deferring "real" ticket/reg system til next year
-- ephemeral matrix server is up, andrew is working on matrix space
-  - still on track with schedule go-live date
 
 #### Finance & Partnerships
-- no updates
-- follow-up with jmp.chat
-- sending emails to confirm exhibitor space
 
 #### IDEA / Policy & Protocol
-- no update
 
 #### Programming & Flow
-- drafted email to send reminder to 10 unconfirmed speakers
-- drafted blog post with keynotes, abstracts, times
-  - would like review
-- lots of ongoing email threads with speakers
-  - can they update their session text?
-  - yes
-- talked up seagl at cascadiajs
 
 #### Promotion & Outreach
-- we have final designs for speaker gifts
-- next step is to send to printer
-- in contact with LPI to discuss promotion
-- please print/distribute posters
-- starting to think about daily posts to promote talks through october
 
 #### Volunteers
-- no updates
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### ted donation
-- $1000 budget, $250 towards scn
-  - $750 to seagl?
-- wants advice on which option to choose from prospectus
-  - wants to see what is most needed
-  - and most appropriate for lpi
-- wants to get seagl on lpi calendar and blog list
-  - needs guidance/feedback
-- [ ] respond to ted (salt)
 
-#### volunteers
-- met people who wanted to volunteer
-- do we have specific roles?
-  - room monitors, expo hall tidying, 7am load-in, city-wide flyering
-
-#### sponsoring
-- usually plan out entire year in year before
-
-#### blog post
-- main talks in 145 this year?
-  - yes
 
 ### Open discussion (~5 minute, if time)
 
@@ -167,7 +116,6 @@ Important updates and things to share staff-wide
 ## Wrap-up
 
 ### 09/22 - New TODOs
-- [ ] respond to lpi ted (salt)
 
 ### Upcoming blog/social posts
 <!--
@@ -198,13 +146,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- kim: great to see everyone, short meeting but stuff moving
-- matt: apologies for missing a couple of meetings, more regular now
-- sen: happy to be here, feeling shockingly productive
-- dina: excited, countdown begins now
-- alfredo (late): feeling good about being on schedule
-- aj: also feeling good about the schedule
-- salt: 
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
