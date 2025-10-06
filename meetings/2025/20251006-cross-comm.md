@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, September 29, 2025. 5pm Pacific Time (2025-09-30 00:00 UTC)
+- Monday, October 6, 2025. 5pm Pacific Time (2025-10-07 00:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: sen, angel, Norm, AJ, salt, alfredo, dina
-- Apologies: Kim
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -43,13 +43,7 @@ Add new things to discuss after `### New Items` below
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
 
-#### 07/21
-- [x] bring up questions to DiscoTech folks (Linnea)
-
 #### 08/04
-- [<] create form for tabling at other events (Angel, Salt)
-  - ask about volunteering (at-event or committee)
-  - join mailing list
 - [/] create a list of tabling items (Salt/Angel)
   - draft: https://cloud.seagl.org/index.php/apps/collectives/SeaGL-wiki-1/Tabling-at-other-conferences-45913
 - [ ] get a bigger bag for tabling items (Salt)
@@ -57,7 +51,6 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 
 #### 08/18
 - [/] Annual conference streaming updates and prep (AV/DevOps)
-- [x] Put fliers around UW campus (Salt)
 - [ ] Distribute Ad fliers (everyone)
   - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
   - Ad flyer/handbill links: https://seagl.org/fliers/2025/
@@ -66,7 +59,6 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] send at-con volunteer tasks to Angel (Everyone)
 - [/] ask UW professors about extra credit/assignment alternative for volunteering with SeaGL (Salt)
 - [/] create "registration" nextcloud form (Salt)
-- [x] send update to OSI donation page text (Salt)
 
 #### 09/22
 - [ ] respond to lpi ted (Salt)
@@ -90,47 +82,18 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- Paid venue deposit
-- Still a little bit blocked on sigange stuff until the schedule is finalized
-- Lots of research on coffee and setup crew breakfast
-- Will talk at next AX meeting
-- DiscoTech schedule/tabling questions
-  - 1 - 4:30 on Saturday
-  - Need power
 
 #### A/V & DevOps
-- Development is on pace for conference
-- Except we're slipping on October 1st timeline for Matrix space
-  - Discuss at end of meeting today or Tech meeting tomorrow (AJ/Salt)
-  - May need to reorg timeline
-- Sen's working on speaker stuff
-- Everything will be fine, but need to prioritize
-- Ad roll handled by Tech with a script
-  - Will include schedule if able
 
 #### Finance & Partnerships
-- Met with OSI, confirmed things are working
-- Haven't heard about new sponsors
-- Hopefully meet Wednesay morning
 
 #### IDEA / Policy & Protocol
-- No updates
 
 #### Programming & Flow
-- Schedule is almost done
-  - Waiting on 3 ppl to respond
-  - Waiting on word back from Bluesky
-- Blog post about schedule (Dina)
-- Ada and DiscoTech events will be separate posts
 
 #### Promotion & Outreach
-- Have final design for speaker gifts
-  - https://github.com/SeaGL/outreach/tree/main/design/speaker-gift/2025
-- Will start post for schedule as soon as it's done (Alfredo)
-- Will merge with keynotes post
 
 #### Volunteers
-- Another new room monitor
 
 
 ### New Items
@@ -138,40 +101,33 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### pretalx for social events
-- Do we want a room for the expo hall area for extra events? eg TeaGL, DiscoTech
-- Do we want a room for off-site social events?
-- Will add to schedule
-- Some concerns about UX
-- Some concerns about room capacity with advertising social more
-
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 09/29 - New TODOs
+### 10/06 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
-- [ ] October 1st: schedule is live, keynote bios and talk titles (Dina)
+- [x] October 1st: schedule is live, keynote bios and talk titles (Dina)
 - [ ] social events: disco tech, ada's, big time
 
 ### Timeline
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, October 6 @ 5pm Pacific Time (2025-10-07 00:00 UTC)
+- Monday, October 13 @ 5pm Pacific Time (2025-10-14 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Wednesday, 11am Pacific Time (Wednesday 18:00 UTC), off week from cross-comm
 - A/V & DevOps: Every Tuesday, 5pm Pacific Time (Wednesday 00:00 UTC)
 - Finance: Every other Monday, 9:30am Pacific Time (Monday 16:30 UTC), same week as cross-comm
 - IDEA: 
-- Partnerships: Being rescheduled
+- Partnerships: Every Wednesday, 5:30pm Pacific Time (Thursday 00:30 UTC)
 - Policy & Protocol: w/ IDEA
 - Programming & Flow: Async, message Dina for meeting request
 - Promotion & Outreach: Every Friday, 4pm Pacific Time (Friday 23:00 UTC)
@@ -182,14 +138,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Sen: I survived! Pretty excited, feeling like this was a shockingly productive day. Looking forward to Wednesday AX meeting.
-- Angel: I'm tired now, still concerned about the border thing
-- Norm: (Had to leave early)
-- AJ: I too am tired. Will persevere.
-- Salt: It's great. I'm very excited about how quickly we dealt with the regular meeting stuff.
-- Alfredo: (Had to leave early)
-- Dina: Getting myself pumped about the blog post and will do it.
-- Linnea: (Had to leave early)
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
