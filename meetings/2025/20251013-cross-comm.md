@@ -2,8 +2,8 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, October 6, 2025. 5pm Pacific Time (2025-10-07 00:00 UTC)
-- Week -4
+- Monday, October 13, 2025. 5pm Pacific Time (2025-10-14 00:00 UTC)
+- Week -3
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -20,9 +20,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Matt, AJ, Alfredo
-- Apologies: Sen, Kim
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -44,12 +44,6 @@ Add new things to discuss after `### New Items` below
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
 
-#### 08/04
-- [<] create a list of tabling items (Salt/Angel)
-  - draft: https://cloud.seagl.org/index.php/apps/collectives/SeaGL-wiki-1/Tabling-at-other-conferences-45913
-- [<] get a bigger bag for tabling items (Salt)
-  - blocked until we decide on the list and such
-
 #### 08/18
 - [/] Annual conference streaming updates and prep (AV/DevOps)
 - [ ] Distribute Ad fliers (everyone)
@@ -59,11 +53,13 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 #### 09/15
 - [ ] send at-con volunteer tasks to Angel (Everyone)
 - [/] ask UW professors about extra credit/assignment alternative for volunteering with SeaGL (Salt)
-- [x] create "registration" nextcloud form (Salt)
-  - https://seagl.org/register
 
 #### 09/22
 - [ ] respond to lpi ted (Salt)
+
+#### 10/06
+- [ ] generating posts to promote each talk (matt)
+- [ ] write blurb to teachers recruiting volunteers (Angel/Salt)
 
 
 ### Committee Updates
@@ -84,54 +80,24 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- signage due in about a week, angel progressing
-- coffee pickup at 7:15 on friday, 8 on saturday
-- discussing setup crew coffee sponsorship
-- last venue deadlines today, see below
 
 #### A/V & DevOps
-- streaming work is progressing
-- prototype of room laptop remote control
-- generated draft matrix space, feedback welcome
-  - https://matrix.to/#/#SeaGL2025:strugee.net
 
 #### Finance & Partnerships
-- exhibitor confirmation email went out
-- drafting last nudge for fiscal sponsors email
-- got permission to badger fiscal sponsor till check arrives
 
 #### IDEA / Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- schedule released
-- blog post published
-- still trying to confirm final speaker
 
 #### Promotion & Outreach
-- generate posts to promote each talk (matt)
-  - script exists
-  - should begin wednesday
 
 #### Volunteers
-- no updates
-- [ ] write blurb to teachers recruiting volunteers (Angel/Salt)
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### Venue Materials / Run of Show
-- would like to review these before pressing send
-
-#### Donation Page Rates
-- do we want to change the suggested amounts and/or selected choice?
-- https://seagl.org/donate
-  - can we have "personal vs employer matched" question?
-  - maybe list approximately how much we are spending per attendee
-  - maybe list volunteer hours
-  - suggest sharing with friends
 
 
 ### Open discussion (~5 minute, if time)
@@ -139,15 +105,12 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 10/06 - New TODOs
-- [ ] generating posts to promote each talk (matt)
-- [ ] write blurb to teachers recruiting volunteers (Angel/Salt)
+### 10/13 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
-- [x] October 1st: schedule is live, keynote bios and talk titles (Dina)
 - [ ] social events: disco tech, ada's, big time
 - [ ] seagl cost breakdown, request for donations
 
@@ -155,7 +118,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, October 13 @ 5pm Pacific Time (2025-10-14 00:00 UTC)
+- Monday, October 20 @ 5pm Pacific Time (2025-10-21 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Wednesday, 11am Pacific Time (Wednesday 18:00 UTC), off week from cross-comm
@@ -173,11 +136,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Angel: shoot to get printable assets done by sunday. we got this!
-- Matt: excited, little anticipatory
-- AJ: nervous, level has not changed, however, feel way better at finishing significant chunk of birdhouse, at least it is gonna be better than last year
-- Alfredo: feeling good, lets promote the talks and have lots of attendees, lots of visiblity, bring more sponsors. glad that we didn't scale back despite lack of sponsors.
-- Salt: sorry to break the t-minus date. feel really good compared to the last few years. excited to get things to the printer before last minute.
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
