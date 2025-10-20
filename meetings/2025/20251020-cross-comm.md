@@ -2,8 +2,8 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, October 13, 2025. 5pm Pacific Time (2025-10-14 00:00 UTC)
-- Week -3
+- Monday, October 20, 2025. 5pm Pacific Time (2025-10-21 00:00 UTC)
+- Week -2
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -20,9 +20,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: matt, sen, norm, alfredo, Angel, AJ
+- Attendees: 
 - Apologies: 
-- Facilitator: Salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -58,8 +58,10 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [ ] respond to lpi ted (Salt)
 
 #### 10/06
-- [x] generating posts to promote each talk (matt)
 - [ ] write blurb to teachers recruiting volunteers (Angel/Salt)
+
+#### 10/13
+- [ ] reserve uw for seagl 14 (salt)
 
 
 ### Committee Updates
@@ -80,42 +82,18 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- alfredo locked down morning coffee service
-- figured out setup crew coffee
-- teagl tea swap launched
-- working out more details re socials
-- all final deliverables sent to uw and approved
-- need to reschedule weekly meeting
 
 #### A/V & DevOps
-- work continues on streaming infra
-- aj working on nice ui for room monitors
-- initial work on attend portal
 
 #### Finance & Partnerships
-- osi cancelled meeting
-- jmp.chat has paid
-- schedules direct came in at silver and has been bill
-  - sponsor since year 1, thanks!
-- got give-aways from eff
-- norm accepting deliveries through monday before con
-- salt and kim worked on final call-for-sponsors email
 
 #### IDEA / Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- no updates
 
 #### Promotion & Outreach
-- missed friday meeting
-- script to generate social posts pushed
-  - https://github.com/SeaGL/seagl-sns-generator/
-- matt generated images for talks
-- scheduling 3 posts/day from now until seagl
 
 #### Volunteers
-- New person interested in joining org team, Andrew
 
 
 ### New Items
@@ -123,43 +101,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### Next Year's Date (Salt)
-- November 6/7?
-- conflicts?
-  - ato: 10/18-20
-  - kubecon: 10/26-29
-  - olf: (12/6, 2025)
-  - pybay: (10/18, 2025)
-- holidays?
-  - daylight savings: 11/1
-  - diwali: 11/6
-  - national poppy day: 11/6 (friday before veterans' day)
-  - veterans' day: 11/11
-
-#### Speaker promo images
-- thank you matt for getting a start on adapting the old script and generating
-- https://cloud.seagl.org/index.php/apps/files/files/54100?dir=/SeaGL/Promotion%20%26%20Outreach/social-media-posts/2025/intro_slides
-- can we update the logo?
-  - https://seagl.org/press#branding
-- is the font set to one of ours?
-  - https://seagl.org/style_guide#FontStyles
-- should we do an edit pass on talks?
-  - probably not a decision to make a month out
-  - suggest tabling until next year
-  - some issues for door signs
-    - short title
-  - good place to record things like this, seagl.org/feedback (Angel submitted)
-  - from salt: if it is printed, we are allowed to change text around to fit uses
-- can we use these images in social previews when sharing?
-
 
 ### Open discussion (~5 minute, if time)
-- staff should also use https://seagl.org/feedback
+
 
 ## Wrap-up
 
-### 10/13 - New TODOs
-- [ ] reserve uw for seagl 14 (salt)
+### 10/20 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -172,7 +120,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, October 20 @ 5pm Pacific Time (2025-10-21 00:00 UTC)
+- Monday, October 27 @ 5pm Pacific Time (2025-10-28 00:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: Every other Thursday, 2pm Pacific Time (Thursday 21:00 UTC), off week from cross-comm
@@ -190,13 +138,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- matt: its cold, gloves indoor season, hold off on social post images
-- sen: tired but productive
-- norm: looking forward to the conference, people seem more calm this year less than a month away
-- alfredo: happy to be here, will work on improving social post hashtags, nice to have time to think about feedback for next
-- angel: there are not enough hours in the day, seagl stuff has fallen down the priority list more than it should have, so tired
-- aj: have already added feedback form to bookmarks toolbar on streaming laptops, also very tired
-- salt: not tired today, feels good to not be so underwater one month out
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
