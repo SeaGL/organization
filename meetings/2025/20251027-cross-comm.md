@@ -2,8 +2,8 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, October 20, 2025. 5pm Pacific Time (2025-10-21 00:00 UTC)
-- Week -2
+- Monday, October 27, 2025. 5pm Pacific Time (2025-10-28 00:00 UTC)
+- Week -1
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -20,9 +20,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Angel, Andrew T, Dina, AJ
-- Apologies: Norm, Sen, Matt
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -46,12 +46,8 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 
 #### 08/18
 - [/] Annual conference streaming updates and prep (AV/DevOps)
-- [x] Distribute Ad fliers (everyone)
-  - tracking spreadsheet: https://cloud.seagl.org/index.php/f/36943
-  - Ad flyer/handbill links: https://seagl.org/fliers/2025/
 
 #### 09/15
-- [x] send at-con volunteer tasks to Angel (Everyone)
 - [/] ask UW professors about extra credit/assignment alternative for volunteering with SeaGL (Salt)
 
 #### 09/22
@@ -62,6 +58,17 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 
 #### 10/13
 - [ ] reserve uw for seagl 14 (salt)
+
+#### 10/20
+- [ ] pickup costco pizzas for friday social (??)
+- [ ] reseach OBS web UIs (Andrew T)
+- [ ] write a list of OBS web UI requirements (AJ)
+- [ ] verify virtual presenter platform status (AJ, Sen)
+- [ ] write speaker details email (Dina)
+- [ ] review speaker details email (AJ, Salt)
+- [ ] ask Bri to run social event Saturday post-presentations and pre-Big Time (Dina)
+- [ ] mention SeaGL on various Discord servers (everyone)
+- [ ] write email to seagl announcements list (Salt)
 
 
 ### Committee Updates
@@ -82,69 +89,18 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- Small purchasing
-- Full venue payment due this week
-- Finalized more details around Friday social
-  - Jazz/fundraiser at Ada's
-  - Music at 7:30
-  - Pizza at 8:00
-    - Need driver w/Costco card
-    - [ ] pickup costco pizzas for friday social (??)
-- Signage is underway
-  - Probs to printer tomorrow
 
 #### A/V & DevOps
-- gimme 5 seconds [for me to finish posting a meme] Seriously?! lol
-- Got room control UI working
-  - Code refactored too
-  - Some integration to do still
-  - One button for room monitors
-- Virtual conference experience needs work
-  - Our changes to Element Web don't integrate into the new Element Web properly after updates to Element Web over the year
-  - Room control stuff basically MVP, then virtual conference is priority [AJ]
-    - [ ] Need someone to reseach OBS web UIs [Andrew T]
-    - AJ to write a list of requirements for AndrewT
-    - Maybe for next year?
-  - [ ] Virtual Presenter? Sync with Sen [AJ/Sen]
-    - Might be almost done
-- Docker container stuff worked out
 
 #### Finance & Partnerships
-- Did first pass assigning exhibitor booths
-- Sent final emails asking for money
 
 #### IDEA / Policy & Protocol
-- No updates
 
 #### Programming & Flow
-- Dina created and will post a general speaker email
-  - [ ] Review [AJ/Salt]
-- [ ] Email Bri to run social event Saturday post-presentations and pre-Big Time [Dina]
 
 #### Promotion & Outreach
-- Socials script is working
-- On lots of event calendars
-- Upcoming Blog posts to write
-  - Social events
-  - Cost breakdowns asking for money
-  - Post for day 1
-  - Post for day 2
-- [ ] mention SeaGL on various Discord servers (everyone)
-- [ ] Write email to email list [Salt]
-  - Schedule is live
-  - Link to blog post
-  - You can register if you like, it will help us
-  - TeaGL swap
-  - Volunteers please
-  - Room monitors
-  - Registration
-
 
 #### Volunteers
-- New org team volunteer
-  - Will be verbally onboarded with Salt and Angel post-conference
-  - Some documentation exists
-  - Please provide feedback and/or corrections
 
 
 ### New Items
@@ -158,16 +114,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 10/20 - New TODOs
-- [ ] pickup costco pizzas for friday social (??)
-- [ ] reseach OBS web UIs (Andrew T)
-- [ ] write a list of OBS web UI requirements (AJ)
-- [ ] verify virtual presenter platform status (AJ, Sen)
-- [ ] write speaker details email (Dina)
-- [ ] review speaker details email (AJ, Salt)
-- [ ] ask Bri to run social event Saturday post-presentations and pre-Big Time (Dina)
-- [ ] mention SeaGL on various Discord servers (everyone)
-- [ ] write email to seagl announcements list (Salt)
+### 10/27 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -182,29 +129,24 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, October 27 @ 5pm Pacific Time (2025-10-28 00:00 UTC)
+- IN-PERSON!!! Monday, November 3 @ 5pm Pacific Time (2025-11-04 01:00 UTC)
 
 ### Committee Meetings
-- Attendee Experience: Every other Thursday, 2pm Pacific Time (Thursday 21:00 UTC), off week from cross-comm
-- A/V & DevOps: Every Tuesday, 5pm Pacific Time (Wednesday 00:00 UTC)
-- Finance: Every other Monday, 9:30am Pacific Time (Monday 16:30 UTC), same week as cross-comm
+- Attendee Experience: 
+- A/V & DevOps: 
+- Finance: 
 - IDEA: 
-- Partnerships: Every Wednesday, 5:30pm Pacific Time (Thursday 00:30 UTC)
-- Policy & Protocol: w/ IDEA
-- Programming & Flow: Async, message Dina for meeting request
-- Promotion & Outreach: Every Friday, 4pm Pacific Time (Friday 23:00 UTC)
-- Volunteers: Every Thursday, 3pm Pacific Time (Thursday 22:00 UTC)
+- Partnerships: 
+- Policy & Protocol: 
+- Programming & Flow: 
+- Promotion & Outreach: 
+- Volunteers: 
 
 ### Sign-off round (what's next, appreciations, suggestions)
 <!--
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Angel: still attempting to figure out if making in-person, really want to, still working on program
-- Andrew T: should be there in person, meeting went great, learning about how things work (lots of giggles), can't suggest improvements yet
-- Dina: excited to be here
-- AJ: still tired, found meeting energizing, very excited to show off button, excited to have new volunteer, fixed welcome widget on nextcloud
-- Salt: Can't do this without you. Thank you all for doing so much. We're almost there!
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
