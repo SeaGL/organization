@@ -2,8 +2,8 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, October 27, 2025. 5pm Pacific Time (2025-10-28 00:00 UTC)
-- Week -1
+- Monday, November 3, 2025. 5pm Pacific Time (2025-11-04 01:00 UTC)
+- SeaGL Week!!!
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -20,9 +20,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: sen, matt, angel, aj, dina, alfredo
+- Attendees: 
 - Apologies: 
-- Facilitator: Salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -62,13 +62,18 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 #### 10/20
 - [ ] pickup costco pizzas for friday social (??)
 - [ ] reseach OBS web UIs (Andrew T)
-- [x] write a list of OBS web UI requirements (AJ)
-- [x] verify virtual presenter platform status (AJ, Sen)
-- [x] write speaker details email (Dina)
-- [/] review speaker details email (AJ, Salt)
+- [ ] review speaker details email (AJ, Salt)
 - [ ] ask Bri to run social event Saturday post-presentations and pre-Big Time (Dina)
 - [ ] mention SeaGL on various Discord servers (everyone)
 - [ ] write email to seagl announcements list (Salt)
+
+#### 10/27
+- [ ] create form to capture who is coming for load-in (sen)
+- [ ] ask osi about how to do benevity company matching (salt)
+- [ ] add something speaker mask required rooms (salt)
+- [ ] create speaker name/room number check-in sheet (dina)
+- [ ] create simple day-of volunteering form for announcement email (angel)
+- [ ] launch matrix space (aj)
 
 
 ### Committee Updates
@@ -89,82 +94,24 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- things progressing
-- need to find someone to meeting people at ada's @ 6:30p on friday
-- need to find someone to bring pizza from costco -> adas @ ~7:30p on friday
-- finalizing speaker email blast
-- still looking for help with load-in @ 6:30a, especially friday
-  - donuts and coffee provided
-  - 7a on saturday
-- [ ] create form to capture who is coming for load-in (sen)
 
 #### A/V & DevOps
-- work continuing
-- remote speaker ui is completely done!!!
-- still working on integrating everything
-- attend portal still untouched
 
 #### Finance & Partnerships
-- met with osi this morning
-- 1/2 sponsors payment submitted
-- venue paid for!
-- added thanks for coffee to website
-- [ ] ask osi about how to do benevity company matching (salt)
 
 #### IDEA / Policy & Protocol
-- [ ] add something speaker mask required rooms (salt)
 
 #### Programming & Flow
-- [ ] create speaker name/room number check-in sheet (dina)
-- please review speaker week-before email
 
 #### Promotion & Outreach
-- please review blog post draft about social activities
-  - https://github.com/SeaGL/seagl.github.io/pull/476
-  - looking to publish today or tomorrow
-- still need to send email to announcements mailinglist
-- small schedule changes since automated-posts
-  - will change upcoming ones, reply to ones that have been posted
 
 #### Volunteers
-- another person interested in org-level
-  - replied a bit full/close for this year, but excited for next
-  - need room monitors
-- [ ] create simple day-of volunteering form for announcement email (angel)
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### can we ship the draft Matrix space (AJ)
-- draft space been up for a while
-- time for more review
-- will update config based on schedule changes
-- [ ] launch matrix space (aj)
-
-#### tech testing scheduling (AJ)
-- prev allocated time for speakers to goto room and test
-- do we want to do this this year?
-- last year was during inter-session break
-- last year having tech in room meant cutting lunch short
-- morning session friday and possibly saturday, if missed, use break between talks
-
-#### All Things Open promo opportunity (AJ)
-- they are willing to promote on blog
-- need someone to write ??, "if you came from pnw to ato, maybe want to attend this other event"
-- punt till next year, unlikely to make large difference this year
-
-#### Potential Event Space Opportunity (Matt)
-- though az difficult to get $ sponsor, open to sharing event space
-- difficult logisticly, might require pre-registration (which is a no-go)
-- ...
-
-#### Volunteer instructions (dina)
-- if I wanted to be a room monitor how would I know what to do?
-- have job descriptions
-- technical task is push button on laptop
-- can choose which talks
 
 
 ### Open discussion (~5 minute, if time)
@@ -172,13 +119,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 10/27 - New TODOs
-- [ ] create form to capture who is coming for load-in (sen)
-- [ ] ask osi about how to do benevity company matching (salt)
-- [ ] add something speaker mask required rooms (salt)
-- [ ] create speaker name/room number check-in sheet (dina)
-- [ ] create simple day-of volunteering form for announcement email (angel)
-- [ ] launch matrix space (aj)
+### 11/03 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -193,7 +134,7 @@ Important updates and things to share staff-wide
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- IN-PERSON!!! Monday, November 3 @ 5pm Pacific Time (2025-11-04 01:00 UTC)
+- 
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -211,13 +152,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Dina: very excited. I will make sure I get that email out. Thank you al
-- sen: not over yet
-- matt: excited as well, sad to hear about potential discontinuation and funding issues
-- angel: excited, nervous
-- aj: also excited and nervous, looking forward to seeing you all in-person, looking forward to quick wins
-- alfredo: also excited that it is coming so soon, also tired
-- salt: Excited. I feel like we actually, things are getting done on time. Not up against deadlines and that feels really good this year. I'm very hopeful to get ahead of things for next year. A growth point again.Thank you all.
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
