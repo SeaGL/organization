@@ -1,0 +1,88 @@
+#!/usr/bin/env bash
+set -eEuo pipefail
+
+# Parameters
+audio_music_path='assets/CC0 1.0 · Zane Little · All That.mp3'
+audio_beach_path='assets/CC BY 4.0 · Tim Kahn · waves on a sandy beach.flac'
+audio_music_fade_start_seconds='204'
+audio_beach_start_seconds='204'
+audio_loudness_lufs='-30'
+slide_min_seconds='10'
+slide_transition_min_seconds='0.5'
+slides_path='slides.svg'
+slides_skip='3'
+video_fps='30'
+video_min_minutes='15'
+video_height_px='1080'
+video_path="SeaGL 2025 interstitial.${video_height_px}p.mp4"
+
+# Metadata
+source_dir="$(dirname "${BASH_SOURCE[0]}")/.."
+source_dir_relative="$(realpath --relative-to "$(git rev-parse --show-toplevel)" "$source_dir")"
+source_commit="$(git rev-list --max-count='1' 'HEAD' "$source_dir")"
+source_url="https://github.com/SeaGL/organization/tree/${source_commit}/${source_dir_relative}"
+source_date="$(git show --date='format:%F' --format='%ad' --no-patch "$source_commit")"
+title="SeaGL 2025 interstitial"
+comment="Source: $source_url"
+
+# Calculate video duration
+audio_beach_start_milliseconds="$(printf '%0.0f' "$(<<<"$audio_beach_start_seconds * 1000" bc)")"
+audio_beach_seconds="$(ffprobe -v 'error' -show_entries 'stream=duration' -of 'default=noprint_wrappers=1:nokey=1' "$audio_beach_path")"
+audio_music_seconds="$(ffprobe -v 'error' -show_entries 'stream=duration' -of 'default=noprint_wrappers=1:nokey=1' "$audio_music_path")"
+audio_music_fade_duration_seconds="$(<<<"$audio_music_seconds - $audio_music_fade_start_seconds" bc --mathlib)"
+audio_seconds="$(<<<"$audio_beach_start_seconds + $audio_beach_seconds" bc --mathlib)"
+slides_count="$(( $(grep --count '<inkscape:page' "$slides_path") - slides_skip ))"
+video_min_seconds="$(( video_min_minutes * 60 ))"
+audio_loops="$(<<<"($video_min_seconds + $audio_seconds - 1) / $audio_seconds" bc)"
+video_seconds="$(<<<"$audio_seconds * $audio_loops" bc --mathlib)"
+echo "Video duration adjusted from ${video_min_seconds}s to ${video_seconds}s" >&2
+
+# Calculate slide and transition duration (see https://www.astro-electronic.de/FFmpeg_Book.pdf §2.4)
+slides_loop_count="$(<<<"$video_seconds / ($slides_count * ($slide_min_seconds + $slide_transition_min_seconds))" bc)"
+chunks_per_slide="$(<<<"($slide_min_seconds + $slide_transition_min_seconds) / $slide_transition_min_seconds" bc)"
+chunk_seconds="$(<<<"$video_seconds / ($slides_loop_count * $slides_count * $chunks_per_slide)" bc --mathlib)"
+chunk_hz="$(<<<"1 / $chunk_seconds" bc --mathlib)"
+slide_seconds="$(<<<"$chunk_seconds * ($chunks_per_slide - 1)" bc --mathlib)"
+echo "Slide duration adjusted from ${slide_min_seconds}s to ${slide_seconds}s" >&2
+echo "Transition duration adjusted from ${slide_transition_min_seconds}s to ${chunk_seconds}s" >&2
+
+# Render slides
+png_dir="$(mktemp --directory --tmpdir="${TMPDIR:-/dev/shm}" 'seagl-XXXXXXXX')"; trap 'rm --force --recursive --verbose "$png_dir"' EXIT
+for ((slide_number=1; slide_number <= slides_count; slide_number++)); do
+  png_path="$(printf '%s/slide-%02d.png' "$png_dir" "$slide_number")"
+
+  echo "Render $png_path" >&2
+  inkscape  \
+    --export-area-page \
+    --export-filename "$png_path" \
+    --export-height "$video_height_px" \
+    --export-page "$((slides_skip + slide_number))" \
+    --export-type 'png' \
+    "$slides_path"
+  [[ -f "$png_path" ]] # Can’t trust Inkscape
+done
+
+# Render video
+video_width_px="$(ffprobe -v 'error' -show_entries 'stream=width' -of 'default=noprint_wrappers=1:nokey=1' "$png_dir/slide-01.png")"
+echo "Render $video_path" >&2
+ffmpeg \
+  -hide_banner \
+  -loop '1' -pattern_type 'glob' -i "$png_dir/*.png" \
+  -i "$audio_music_path" \
+  -i "$audio_beach_path" \
+  -filter_complex "
+    [0:v] zoompan=d=$chunks_per_slide:fps=$chunk_hz:s=${video_width_px}x$video_height_px, framerate=fps=$video_fps:interp_start=0:interp_end=255:scene=100, format=yuv420p;
+  " \
+  -filter_complex "
+    [1:a] afade=type=out:curve=losi:start_time=$audio_music_fade_start_seconds:duration=$audio_music_fade_duration_seconds [music];
+    [2:a] adelay=all=1:delays=${audio_beach_start_milliseconds} [beach];
+    [music] [beach] amix, loudnorm=I=$audio_loudness_lufs, aresample=48000;
+  " \
+  -shortest \
+  -codec:v 'libx264' -preset 'veryslow' -tune 'stillimage' \
+  -codec:a 'aac' -b:a '128k' \
+  -metadata "title=$title" \
+  -metadata "date=$source_date" \
+  -metadata "comment=$comment" \
+  -y \
+  "$video_path"
