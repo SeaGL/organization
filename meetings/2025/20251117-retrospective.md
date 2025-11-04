@@ -2,8 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2025 Organizing Cross-Committee
-- Monday, November 3, 2025. 5pm Pacific Time (2025-11-04 01:00 UTC)
-- SeaGL Week!!!
+- Monday, November 17, 2025. 5pm Pacific Time (2025-11-18 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2025_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2025_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2025)
@@ -20,11 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: sen, norm, AJ, dina, salt, linnea, alfredo, matt, angel
+- Attendees: 
 - Apologies: 
-- Facilitator: salt
+- Facilitator: 
 - Note Taker(s): 
-- Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
 - Review agenda
@@ -36,16 +34,82 @@
 
 ## Agenda
 <!--
-Add new things to discuss after `### New Items` below
+Reminder: focus is on the 2025 event, not 2026
 -->
 
-### Previous TODOs
+### Metrics
+- Staff:
+  - Chairs: 
+    - All-staff Attendees: 
+    - At-event Volunteers: 
+- Attendees:
+  - Total number of "attendees" (onsite, off, etc.): 
+  - Number of in-person attendees: 
+    - "Registered":
+    - Remaining badges: 
+    - Sessions: 
+      |           | R1 | R2 | R3 | R4 |
+      | --------- | -- | -- | -- | -- |
+      | Fri 09:10 |    |    |    |    |
+      | Fri 09:40 |    |    |    |    |
+      | Fri 10:30 |    |    |    |    |
+      | Fri 11:30 |    |    |    |    |
+      | Fri 14:00 |    |    |    |    |
+      | Fri 14:30 |    |    |    |    |
+      | Fri 16:30 |    |    |    |    |
+      | Fri 17:00 |    |    |    |    |
+      | Sat 09:00 |    |    |    |    |
+      | Sat 10:00 |    |    |    |    |
+      | Sat 10:30 |    |    |    |    |
+      | Sat 11:00 |    |    |    |    |
+      | Sat 13:30 |    |    |    |    |
+      | Sat 14:00 |    |    |    |    |
+      | Sat 16:10 |    |    |    |    |
+      | Sat 16:40 |    |    |    |    |
+      | Sat 17:30 |    |    |    |    |
+    - After conference social: 
+  - Number of virtual attendees: 
+  - Accounts in Matrix space: 
+  - Accounts in “Welcome” room: 
+  - Accounts in “Social” room: 
+  - Accounts in sessions rooms:
+    | Room                                          | Attendees |
+    | --------------------------------------------- | --------- |
+  - Viewers of live streams: 
+  - number of folks using ephemeral server: 
+  - number only attending keynotes: 
+- Presenters:
+  - Confirmed Talks: 
+  - Confirmed Speakers: 
+  - Accepted Talks: 
+  - CFP Submissions: 
+  - Speakers Submitted: 
+  - Office Hours attended: 
+  - Confirmed Keynotes: 4
+  - Keynote Nominations: 
+- Outreach:
+  - Social Shares: 
+    - Mastodon Total posts: 
+    - Mastodon total followers: 
+      - Mentions all 2025: 
+    - Twitter total followers: 
+      - Mentions all 2025: 
+    - Facebook followers: 
+    - LinkedIn: 
+  - Blog Posts: 
+- Partnerships:
+  - Ambassadors: 
+    - not yet started
+  - Sponsors:
+    - Paying: 
+    - Media: 
+    - Community: 
+- Anything else?
+
+### 2025 tasks yet-to-be-closed
 <!--
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
-
-#### 08/18
-- [x] Annual conference streaming updates and prep (AV/DevOps)
 
 #### 09/15
 - [/] ask UW professors about extra credit/assignment alternative for volunteering with SeaGL (Salt)
@@ -53,34 +117,102 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 #### 09/22
 - [ ] respond to lpi ted (Salt)
 
-#### 10/06
-- [-] write blurb to teachers recruiting volunteers (Angel/Salt)
-
-#### 10/13
-- [x] reserve uw for seagl 14 (salt)
-  - 11/6 - 11/7, 2026
-
 #### 10/20
-- [x] pickup costco pizzas for friday social (norm, ??)
-  - ~10 pizzas
 - [ ] reseach OBS web UIs (Andrew T)
-- [x] review speaker details email (AJ, Salt)
-- [x] ask Bri to run social event Saturday post-presentations and pre-Big Time (Dina)
-- [x] mention SeaGL on various Discord servers (everyone)
-- [x] write email to seagl announcements list (Salt)
 
-#### 10/27
-- [x] create form to capture who is coming for load-in (sen)
+#### 11/03
+- [ ] fill out load-in form if available fri/sat morning (everyone)
   - https://cloud.seagl.org/index.php/apps/forms/s/SCbBkykoPXmYG26s59i9KjFM
-- [x] ask osi about how to do benevity company matching (salt)
-- [x] add something speaker mask required rooms (salt)
-  - hahaha, it was already there!
-- [x] create speaker name/room number check-in sheet (dina)
-- [-] create simple day-of volunteering form for announcement email (angel)
-- [x] launch matrix space (aj)
+- [ ] add masked required room volunteer role (Angel)
+  - job: swap sign, distribute (or at least put box of available masks by door) at beginning of talks
+- [ ] social posts for forms: registration, feedback, volunteer, schedule (alfredo)
+- [ ] talk to Adam about making it the key signing party (salt)
 
+---
 
-### Committee Updates
+### New Items for discussion at Retrospective
+<!--
+#### Item Subject (item facilitator)
+-->
+
+#### Thank Yous
+- We have a bunch of thank-yous to send. Salt needs help
+- speakers
+  - need preferences for receiving speaker gifts
+    - [ ] create list of speaker who didn't receive gifts (??)
+  - [ ] draft speaker thank-you email (??)
+- sponsors
+  - [ ] create list of sponsors to thank (??)
+  - [ ] draft sponsor thank-you email (??)
+- fiscal sponsor
+  - thanks to OSI for helping with sponsorships, contracts, etc.
+  - [ ] draft OSI thank-you email (??)
+- volunteers
+  - gifts aspect also
+  - include everyone
+  - ask if they want to get more involved
+  - room monitor -> dim sum -> staff pipeline
+  - [ ] draft volunteer thank-you email (??)
+    - probably similar to speaker one
+- attendees
+  - seagl-announce with dates and what we plan for next year
+  - include volunteer pipeline
+  - [ ] draft attendee thank-you email (??)
+  - [ ] draft thank-you blog post (??)
+    - include save-the-date
+    - include year-round keynote form
+    - include call for volunteers and general timeline
+    - specific call for committee coordinators
+- venue
+  - Thank the venue and say whether or not we want to work with them again
+  - confirmation of receipt of payment, make sure that there are no nickles and dimes
+  - [ ] draft venue thank-you email (??)
+- keynotes
+  - specialized email for each keynoter
+  - information about reimbursements
+  - [ ] draft keynote thank-you email (??)
+- [ ] send thank-you emails (Salt)
+- one or two people working on drafts that can be edited?
+  - salt can edit, but first drafts are hard
+
+#### Swag Shipping
+- should goto speakers, volunteers, and paid sponsors
+- how is shipping actually going to happen?
+  - Salt has proven to not be good at this...
+- significant discount if we ship most at one time?
+  - question: what does this entail?
+- refer back to "Thank Yous" speaker section
+
+#### Reimbursements
+- get yours in!
+  - open an issue with the reimbursement template on GitHub
+- December 15th hard deadline
+  - otherwise... thank you for your donation.
+
+#### Next Year Kick-off Date Selection
+- probably January or February
+- no seagl expectations for second half of december and first half of january
+- expect scheduling poll for kick-off around January 15th
+
+---
+
+### Feedback Form Review
+- https://seagl.org/feedback
+- https://cloud.seagl.org/index.php/apps/forms/8F22zMx2J6Z7yE8L/results
+
+#### Process
+- Salt will screenshare and go through the responses
+- Each response will be discussed
+- Relevant feedback will be captured below in appropriate committee
+
+---
+
+### Committee Additions
+#### Process
+- Each committee should go through how they felt things went and add any specific suggestions of things to consider from their committee's context
+- The group will decide what is toDONE, bikeshed'ed, or what we tWONTdo
+- new TODOs are added to the relevant committee
+
 <!--
 Important updates and things to share staff-wide
 
@@ -97,99 +229,162 @@ Important updates and things to share staff-wide
 - Impresario: Salt
 -->
 
+---
+
 #### Attendee Experience (AX)
-- booklet sample has been produced
-- lanyards
-  - we ran iut last year, have more this year
-  - we discussed, but did not do, color-coded lanyards, for things such as a photo policy
-  - future years: consider a SeaGL-branded lanyard
-- load in form:
-  - please let us know if you can make it friday and/or saturday morning
-  - https://cloud.seagl.org/index.php/apps/forms/s/SCbBkykoPXmYG26s59i9KjFM
-  - [ ] fill out load-in form if available fri/sat morning (everyone)
+
+##### Signage
+
+##### Badges
+
+##### TeaGL
+
+##### Venue
+
+##### Ada's Social
+
+##### Saturday Socials
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
 
 #### A/V & DevOps
-- lots of virtual conference updates
-- stress but should be good for time to ship
-- 2/3 remote speakers have connected and tested
 
-#### Finance & Partnerships
-- added last minute sponsors to website
+##### Outstanding 2025 TODOs
 
-#### IDEA / Policy & Protocol
+##### TODOs for 2026
+
+##### Important Links
+
+---
+
+#### Finance
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
+
+#### IDEA
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
+
+#### Partnerships
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
+
+#### Policy & Protocol
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
 
 #### Programming & Flow
-- general email sent out with speaker info
-- mask required talks
-  - all talks are in a row on one day
-  - room signage needs to be swapped to 'required' instead of 'suggested'
-  - volunteer needed to distribute masks
-  - [ ] add masked required room volunteer role (Angel)
-    - job: swap sign, distribute (or at least put box of available masks by door) at beginning of talks
-- speakers who don't want to be recorded
-  - need to sync between room monitor and recording booth
-  - as of now, no speakers have requested this
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
 
 #### Promotion & Outreach
-- social posts for all talks are done
-- need to post about schedule updates
-- email to announce list went out
-- blog post pending for this week (tentative)
-- posts for forms: registration, feedback, volunteer, schedule (alfredo)
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
 
 #### Volunteers
-- half of room monitors have signed up
-- need volunteer for snacks/hot water
 
+##### Outstanding 2025 TODOs
 
-### New Items
-<!--
-#### Item Subject (item facilitator)
--->
-#### Keysigning Party
-- https://github.com/SeaGL/2025-keysigning
-- Do we feel comfortable with this being in the SeaGL repo?
-  - no complaints
-- maybe add it to schedule
-  - might be part of the social hour
-- tell people if they organize something we could put it on the schedule
+##### TODOs for 2026
 
-#### Retrospective Meeting
-- Dates?
-  - 11/17 @ 5pm
-  - 90min
+##### Important Links
 
-#### Saturday social hour
-- [ ] talk to Adam about making it the key signing party (salt)
+---
 
+#### Impresario
+
+##### Outstanding 2025 TODOs
+
+##### TODOs for 2026
+
+##### Important Links
+
+---
 
 ### Open discussion (~5 minute, if time)
 
+---
 
 ## Wrap-up
 
-### 11/03 - New TODOs
-- [ ] fill out load-in form if available fri/sat morning (everyone)
-  - https://cloud.seagl.org/index.php/apps/forms/s/SCbBkykoPXmYG26s59i9KjFM
-- [ ] add masked required room volunteer role (Angel)
-  - job: swap sign, distribute (or at least put box of available masks by door) at beginning of talks
-- [ ] social posts for forms: registration, feedback, volunteer, schedule (alfredo)
-- [ ] talk to Adam about making it the key signing party (salt)
+### 11/17 - New TODOs
+#### General
+
+#### Attendee Experience (AX)
+
+#### A/V & DevOps
+
+#### Finance
+
+#### IDEA
+
+#### Partnerships
+
+#### Policy & Protocol
+
+#### Programming & Flow
+
+#### Promotion & Outreach
+
+#### Volunteers
+
+#### Impresario
+
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
-- [ ] social events: teagl, disco tech, ada's, big time
 - [ ] seagl cost breakdown, request for donations
-- [ ] Post for day 1
-- [ ] Post for day 2
+- [ ] ??: thank you for attending / save the date (??)
 
 ### Timeline
 - November 7-8 (Friday/Saturday): SeaGL 2025
 
 ### Next Cross-Committee Meeting
-- Monday, November 17 @ 5pm Pacific Time (2025-11-18 01:00 UTC)
+- 
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -207,15 +402,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- dina: happy to be here, happy to get going on seagl, excited
-- sen: headed north, lookin gforward to being in WA soon
-- norm: can't wait for the conference, missed last year, hopefully not this
-- AJ: I'm underground, excited and stressed for the conference, see you all soon, very tired
-- linnea: as the kids say, I'm locked in, letting time flow past, hope everything gets done that needs to get done
-- alfredo: already feel better after this meeting, hopefully stays whole week
-- angel: very excited, slightly stressed about travel
-- matt: deeply curious what "bread for screaming at" is about
-- salt: thanks y'all <3
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
