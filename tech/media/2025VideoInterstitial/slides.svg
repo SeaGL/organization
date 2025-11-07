@@ -134,9 +134,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.8700728"
-     inkscape:cx="8369.9893"
+     inkscape:cx="8595.8324"
      inkscape:cy="332.73078"
-     inkscape:window-width="2168"
+     inkscape:window-width="1404"
      inkscape:window-height="1277"
      inkscape:window-x="26"
      inkscape:window-y="23"
@@ -2736,7 +2736,7 @@
                x="670.02417"
                y="475.25"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;text-anchor:end;fill:#565656;fill-opacity:1"
-               id="tspan44-4">Fri 13:15</tspan><tspan
+               id="tspan44-4">Fri 13:30</tspan><tspan
                sodipodi:role="line"
                x="670.02417"
                y="511.5015"
@@ -2751,7 +2751,7 @@
                x="670.02417"
                y="584.00452"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;text-anchor:end;fill:#565656;fill-opacity:1"
-               id="tspan50">Fri 20:00</tspan><tspan
+               id="tspan50">Fri 18:30</tspan><tspan
                sodipodi:role="line"
                x="670.02417"
                y="620.25604"
@@ -2760,6 +2760,11 @@
                sodipodi:role="line"
                x="670.02417"
                y="656.50751"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;text-anchor:end;fill:#565656;fill-opacity:1"
+               id="tspan31">Sat 18:00</tspan><tspan
+               sodipodi:role="line"
+               x="670.02417"
+               y="692.75903"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;text-anchor:end;fill:#565656;fill-opacity:1"
                id="tspan105">Sat 19:00</tspan></text><text
              xml:space="preserve"
@@ -2798,7 +2803,12 @@
                x="682.91339"
                y="656.50751"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-               id="tspan104">Post-conference Social @ Big Time Brewery</tspan></text></g></g></g></g><g
+               id="tspan104">Security mixer and keysigning party</tspan><tspan
+               sodipodi:role="line"
+               x="682.91339"
+               y="692.75903"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+               id="tspan32">Post-conference Social @ Big Time Brewery</tspan></text></g></g></g></g><g
      inkscape:groupmode="layer"
      id="g11"
      inkscape:label="We’ll be back soon!"
