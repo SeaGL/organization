@@ -26,7 +26,7 @@
 - Note Taker(s): 
 
 ### Check-in round (2025-11-24)
-- Attendees: 
+- Attendees: Alfredo, sen, Matt, Angel, Norm, AJ, Kim, Juan
 - Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
@@ -46,43 +46,43 @@ Reminder: focus is on the 2025 event, not 2026
 
 ### Metrics
 - Staff:
-  - Chairs: 
-    - All-staff Attendees: 
+  - Chairs: 8
+    - All-staff Attendees: 16
     - At-event Volunteers: 
 - Attendees:
   - Total number of "attendees" (onsite, off, etc.): 
   - Number of in-person attendees: 
-    - "Registered":
-    - Remaining badges: (AJ took 12 badges back to work, so add 12 to this count)
+    - "Registered": 116
+    - Remaining badges: less than 50? (AJ took 12 badges back to work, so add 12 to this count)
     - Sessions: 
       |           | R1 | R2 | R3 | R4 |
       | --------- | -- | -- | -- | -- |
-      | Fri 09:10 |    |    |    |    |
-      | Fri 09:40 |    |    |    |    |
+      | Fri 09:10 | 60 |    |    |    |
+      | Fri 09:40 | 75 |    |    |    |
       | Fri 10:30 |    |    |    |    |
-      | Fri 11:00 |    |    |    |    |
-      | Fri 11:30 |    |    |    |    |
-      | Fri 12:00 |    |    |    |    |
-      | Fri 14:00 |    |    |    |    |
+      | Fri 11:00 | 34 | 14 |  5 | 20 |
+      | Fri 11:30 |  9 | 21 | 28 | 12 |
+      | Fri 12:00 |    |    | 21 | 20 |
+      | Fri 14:00 | 14 | 36 | 19 |  1 |
       | Fri 15:00 |    |    |    |    |
       | Fri 16:00 |    |    |    |    |
       | Fri 16:30 |    |    |    |    |
       | Fri 17:00 |    |    |    |    |
-      | Fri 17:30 |    |    |    |    |
-      | Sat 09:10 |    |    |    |    |
-      | Sat 09:40 |    |    |    |    |
-      | Sat 10:30 |    |    |    |    |
-      | Sat 11:30 |    |    |    |    |
-      | Sat 14:00 |    |    |    |    |
+      | Fri 17:30 | 27 |  8 | 19 | 12 |
+      | Sat 09:10 | 54 |    |    |    |
+      | Sat 09:40 | 50 |    |    |    |
+      | Sat 10:30 | 31 | 21 | 15 |    |
+      | Sat 11:30 | 18 | 20 | 28 |    |
+      | Sat 14:00 | 19 | 12 | 34 |    |
       | Sat 15:00 |    |    |    |    |
       | Sat 16:30 |    |    |    |    |
       | Sat 17:00 |    |    |    |    |
     - Friday social: 
     - Saturday social: 
+    - TeaGL swap: 15
   - Number of virtual attendees: 
-  - Accounts in Matrix space: 
-  - Accounts in “Welcome” room: 
-  - Accounts in “Social” room: 
+  - Accounts in Matrix space: 135
+  - Accounts in “Hallway” room: 109
   - Accounts in sessions rooms:
     | Room                                          | Attendees |
     | --------------------------------------------- | --------- |
@@ -116,31 +116,36 @@ Reminder: focus is on the 2025 event, not 2026
       Note that "Mobile Chrome:macOS" is Chrome for iOS with "Request desktop site" enabled.
   - number only attending keynotes: 
 - Presenters:
-  - Confirmed Talks: 
-  - Confirmed Speakers: 
-  - Accepted Talks: 
-  - CFP Submissions: 
-  - Speakers Submitted: 
-  - Office Hours attended: 
+  - CFP Submissions: 98
+  - Submitted Speakers: 61
+  - Accepted Speakers: 41
+  - Rejected Speakers: 20
+  - Accepted Talks: 52
+  - Rejected Talks: 42
+  - Withdrawn Talks: 8
+  - Canceled Talks: 4
+  - Keynote Nominations: 35
   - Confirmed Keynotes: 4
-  - Keynote Nominations: 
+  - Office Hours attended: 
 - Outreach:
   - Social Shares: 
     - Mastodon Total posts: 
     - Mastodon total followers: 
       - Mentions all 2025: 
-    - Twitter total followers: 
+    - Bluesky total followers: 
+      - Mentions all 2025: 
+    - X/Twitter total followers: 
       - Mentions all 2025: 
     - Facebook followers: 
     - LinkedIn: 
-  - Blog Posts: 
+  - Blog Posts: 8 (9 if we get thanks out before end-of-year)
 - Partnerships:
   - Ambassadors: 
     - not yet started
   - Sponsors:
-    - Paying: 
-    - Media: 
-    - Community: 
+    - Paying: 4
+    - Media: 5
+    - Community: 17
 - Anything else?
 
 ### 2025 tasks yet-to-be-closed
@@ -190,7 +195,7 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
   - include everyone
   - ask if they want to get more involved
   - room monitor -> dim sum -> staff pipeline
-  - [ ] draft volunteer thank-you email (??)
+  - [ ] draft volunteer thank-you email (Angel)
     - probably similar to speaker one
 - attendees
   - seagl-announce with dates and what we plan for next year
@@ -273,21 +278,24 @@ Important updates and things to share staff-wide
 
 #### Attendee Experience (AX)
 ##### Feedback
-- print a new large way finding sign that has a higher resolution
-  - but we should do it in October so that it isn't a last minute crunchtime thing
-- talk information pages should indicate whether speakers require masks
-- better inform attendees of when there will be food provided and what dietary restrictions are being accounted for
-- coffee (and other add-ons) should have a nice sign thanking the sponsor
-- talks that are not being recorded should be marked with the no camera symbol on the printed badge, door sign, etc.
-- purchase towels for drying stuff in the kitchen
-- tape Sponsor info card to their table (e.g., sponsor name, when they should make sure to pick up belongings from locked room, etc.)
-- buy measurement cup for coffee percolator
-- buy coffee percolator cleaning tool
+- For 2026: we should print a new large way finding sign that has a higher resolution, but we should do it in October so that it isn't a last minute crunchtime thing.
+- Talk information pages should indicate whether speakers require masks
+- I didn't know there would be pizza at the Day 1 social in Ada's, so I ordered dinner myself before pizza arrived. But, there were no vegan pizza options anyway, so I luckily didn't miss out on too much. Still, it would nice to know both pieces info ahead of time.
+- Coffee should have a nice sign thanking the sponsor.
+- Talks that are not being recorded should be marked with the no camera symbol on the printed badge
+- Towels for drying stuff in the kitchen
+- AJ should be less conspicuous when not bleeding.
+- AJ looked really fucking weird walking across the room during the talk.
+- Sponsor list info taped to the tables. e.g. sponsor name, when they should make sure to pick up belongings from locked room etc.
+- Measurement cup for coffee
 - ALL QR CODES SHOULD HAVE URLS UNDER THEM (my bad...)
 - Aside from SeaGL Support, would it make sense to have a room that all speakers/tables are asked to join? Might take some pressure off your staff when checking in with speakers/tables
   - we already have these in Matrix
   - unsure if we can support more check-in tables
   - consider more explicit "tracks" at check-in table
+- Signage was great inside and out: Made navigating the venue quick and easy.
+- Hallway was great.
+- I scheduled my stay in Seattle so that I would check out of my hotel on Saturday (Day 2), thinking I would be able to take the last Amtrak train of the day back home, meaning I would have to leave the conference around 6:30pm that day. When I booked my travel at the time, I thought it was OK since there were no more conference events after that, so I wouldn't miss anything. But sometime during the conference, the Saturday social at Big Time Brewery was announced, so I felt bummed out at first for not being able to attend. In hindsight, I'm not sure if I'd be able to go anyway as it would've cost me another hotel night which I'm not sure I'd be able to pay. I think one social event on Day 1 was enough for a 2-day conference anyway, but if you're gonna hold a 2nd one, I'd rather it be on Day 0 instead of on Day 2.
 
 ##### Discussion
 - [ ] create a Job hiring/seeking board
@@ -396,6 +404,7 @@ Important updates and things to share staff-wide
 - [ ] add note about day rate vs hourly parking on campus
 - [ ] add additional directions if there are off-site social event venues
 - [ ] consider less conversation-dependent activities at social events
+- [ ] consider social event on Day 0 instead of Day 2
 
 ##### Important Links
 
@@ -403,11 +412,10 @@ Important updates and things to share staff-wide
 
 #### A/V & DevOps
 ##### Feedback
-- fix all of our opengraph social link previews, prioritize pretalx and website
+- It'd be nice if, when platforms fetch a link preview, that Pretalx would return the social-media-talk-preview-sharable image we generate. (seasocgraph repo)
 - Stream Sprout does not support RTMPS
-- have room counts go somewhere not in onsite orchestration
-- install HDMI strippers by default in all rooms
-- if you are signed in as a Pretalx admin, the Speakers page 404s
+- it's annoying to have room counts go into onsite orchestration, because room counts aren't actionable nor are they fires
+- If you are signed in as a Pretalx admin, the Speakers page 404s.
   - this is because you didn't have high enough permissions
 - I want to be alerted if YouTube Studio shows "Poor" connection quality
 - Ansible (?) script to create YouTube streams with the same settings automatically.
@@ -415,13 +423,26 @@ Important updates and things to share staff-wide
 - "Stop doing the thing about room 12. Don’t need to pick emojis if you don’t do the thing you don’t need any more."
   - this is about the horrible room v12 hack that I put in Patch right before the conference, that spams :see_no_evil: emojis in the logs
 - Required training for AV OPs: https://www.wikihow.com/Be-Stealthy
+- A/V worked without a hitch, I just plugged in and the display and mic worked great.
+- Audio in the livestream/recording seemed to have some issues (podium and room mics fighting, didn't know the mic was hot before & after talk), but I didn't have to worry about any of that as I was giving my talk, so I was stoked.
+
+##### Discussion
+- install HDMI strippers by default in all rooms
 - Include registration QR on ad roll in rooms
 - Get Patch to manage the YouTube stream title
 - Make sure there's an tech person per room for when talks are done for the day to get tech out of the rooms ASAP
-
-##### Discussion
+- things seemed less on-fire than last two years
+- a/v & devops a bit of a blackbox to folks not in the committee
+  - how the magic happens
+  - hard to know when crunchtime is coming up
+- still need editors for videos
+- there were people excited about possibility of streaming on peertube
+- how do we communicate the timeline for video archive uploads?
+- documentation for video editing is out of date with new pipeline
+  - hopefully we have enough redundant a/v streams to get two big files, sync based on common audio track, then do cuts
 
 ##### Outstanding 2025 TODOs
+- [ ] edit and release videos
 
 ##### TODOs for 2026
 - [ ] fix all of our opengraph social link previews, prioritize pretalx and website
@@ -432,8 +453,7 @@ Important updates and things to share staff-wide
 - [ ] get alerts if YouTube Studio shows "Poor" connection quality
 - [ ] create script to create YouTube streams with the same settings automatically
 - [ ] write complete documentation on the tech ops to a) transition the conference to the next day and b) shut down the conference on day 2
-- [ ] "Stop doing the thing about room 12. Don’t need to pick emojis if you don’t do the thing you don’t need any more."
-  - this is about the horrible room v12 hack that I put in Patch right before the conference, that spams :see_no_evil: emojis in the logs
+- [ ] address matrix room v12 hack
 - [ ] required training for AV OPs: https://www.wikihow.com/Be-Stealthy
 - [ ] include registration QR on ad roll in rooms
 - [ ] have Patch to manage the YouTube stream title
@@ -446,11 +466,14 @@ Important updates and things to share staff-wide
 ##### Feedback
 
 ##### Discussion
+- pex worked well, aj still needs a cc
 
 ##### Outstanding 2025 TODOs
 - [ ] Sync books and budget. Expected vs real numbers
+- [ ] make sure aj gets a credit card
 
 ##### TODOs for 2026
+- [ ] update individual donation receipt email text (esp. change social media links)
 
 ##### Important Links
 
@@ -484,14 +507,17 @@ Important updates and things to share staff-wide
 #### Partnerships
 ##### Feedback
 - we should partner with All Things Open much earlier next year for promotion
-- maybe an option for Non-exhibitors sponsor table to have stickers, QR codes, and/or presentation board
+- Maybe an option for Non-exhibitors sponsor table to have stickers, QR codes, and/or presentation board.  Probably too much work or defeats the purpose of non-exhibiting.
 - Why are the limited-availability sponsorship opportunities strictly add-ons to existing sponsorship levels? If a potential sponsor felt strongly about providing childcare (semi-arbitrary example), but their budget could not support Bronze + childcare (as it is a fairly expensive add-on), would we want to decline their sponsorship or guide them to an option that doesn't align as strongly with their intended goals? That feels odd.
 - When accepting packages for sponsors/partners, ask what should be done (if anything) with leftover items.
+- Sponsors... I'm worried about that. Sounds like there were some major funding dropouts this year? I'm happy to help more with sponsorship reach-outs in the future. I don't have direct contact with potential sponsors, but I do have secondary connections and I'm happy to followup with any warm leads.
 
 ##### Discussion
+- need to be ready with prospectus by february latest
 
 ##### Outstanding 2025 TODOs
 - [ ] send partner thank yous
+- [ ] "please shut up and take my money" - AJ with $dayjob hat on
 
 ##### TODOs for 2026
 - [ ] partner with All Things Open much earlier next year for cross-promotion
@@ -505,10 +531,25 @@ Important updates and things to share staff-wide
 
 #### Policy & Protocol
 
+##### Feedback
+
+##### Discussion
+- some feedback about masks: there should be big instruction sheet/diagram about putting on mask
+- during cfp or before (8/5), someone was comparing mask policies with northbay python, was positive about having actually stated policy
+  - on 8/6 someone (different person) mentioned that seagl had weakened mask policy to point of uselessness
+  - this feedback was expected
+  - we don't mention anywhere airfilters in each room
+    - but can we since they are university provided?
+- this year worked better, having masks at the door was helpful
+- we didn't do a good job of tracking aqi numbers per talk, per room
+
 ##### Outstanding 2025 TODOs
 
 ##### TODOs for 2026
 - [ ] make it explicit if speaker requested no recording, attendees are expected not to record either
+- [ ] track aqi numbers per talk, per room
+- [ ] consider adding photography policy, especially if we create a volunteer role for this
+  - need an indicator of not wanting to be in photos
 
 ##### Important Links
 
@@ -516,13 +557,13 @@ Important updates and things to share staff-wide
 
 #### Programming & Flow
 ##### Feedback
-- make sure cfp text fields have appropriate max number of characters; consider program, door schedules, social media posts, etc.
-- add specific speaker questions for the top-N major social media platform handles
-- add remote talk question on the talk submission form instead of it being on the speaker info form
+- Discuss shortening titles as a mandatory thing for speakers. This will help with the program, door schedules, socials posts, etc...
+- When we're accepting papers we should have explicitly modeled fields for social media handles. Specifically, it'd be helpful if each of the top-N major ones had a field for the speaker's bare handle, and then for any platforms not listed a separate field for full URLs.
+- spoke with dina about this already, but add the remote talk question on the talk submission form instead of it being on the speaker info form
   - alternatively, ask upstream to add flag to talk api for any talk with a speaker who has selected remote
-- add note during CFP process, that we reserve the right to make light editorial edits
-- all speakers who require masks should be in one room for ease of setup
-- consider returning to Opening Keynotes on Friday, Closing keynotes on Saturday.
+- we should maybe just have a note in Pretalx next year saying we reserve the right to make light editorial edits to talk descriptions. it's silly that we had to email speakers this year about grammar, etc., and it comes up in other places too. I'm thinking about https://github.com/SeaGL/seasocgraph/blob/3c63272a879e7cd5943208060c4a1f00b94f936c/README.md?plain=1#L9. there's also Matrix space room IDs (I don't think anyone's going to really notice these or think it's unreasonable, tbh, but I feel kind of weird compressing speakers' talk titles without talking to them *anyway*) and maybe other places too, who knows
+- All speakers who require masks should be in one room for ease of setup
+- Opening Keynotes on Friday, Closing keynotes on Saturday.
 - Add two questions to pretalx for CFP, one asking if recording of talk can be released on archive under appropriate license and the other about if it is okay to stream the talk.  Within the stream question make sure it is clear that we cannot guarantee that other people watching the stream won't make and distribute their own recordings.
 - Include question about underrepresented groups in pretalx speaker fields.
 - Add streaming yes/no acknowledgement field to CfP
@@ -591,11 +632,38 @@ Important updates and things to share staff-wide
 - I recommend announcing the conference earlier, so it can be included in as many places as possible.  Since you have the dates, perhaps announcements could be made much earlier.  Something like announcing when you'll begin accepting talks for next year, even though it is way out.  I noticed LFNW is currently requesting submission despite the conference being 5 - 6 months away.  Giving any extra time would be helpful; the conference itself is super fun and I think there is a lot of room for growth by spreading the word!  Thanks for the fun event!
 
 ##### Discussion
+- socials seemed more active this year
+  - last year was 50/50 mastodon/twitter
+  - this year overwhelmingly mastodon
+  - x/twitter seems mostly quiet now
+  - got suggestion about having tiktok, instagram and youtube/peertube
+    - maybe use footage of talks for video promos
+    - need to consider what audience we are trying to reach
+  - if we goto instagram, we should have pixelfed be primary and insta secondary
+- we didn't really have a photographer wandering taking candid shots
+  - alfredo did take and post some pictures on socials, mostly of sponsors
+  - asked consent of folks in them
+  - do we have a way for people to share photos with us?
+  - can we create a volunteer position for photography?
+    - need to consider policies and such around attendees, indicator of not wanting to be in photos
+    - speakers have already consented
+- REALLY NEED a designer volunteer
+  - how do we recruit individual volunteer roles
+  - beginning of year need theme and branding strategy
+  - things need to be printed by linuxfest
+- automation for posts was working this year
+  - would be nice to have way to automatically post when talk details change (time, cancellation, etc.)
+  - post ~5 minutes before every talk happens
 
 ##### Outstanding 2025 TODOs
+- [ ] write thank you blog post, include some metrics, expected volunteer regathering, money woes
 
 ##### TODOs for 2026
 - [ ] update style guide (e.g., microphone vs non-microphone Patch)
+- [ ] consider creating other social accounts (e.g., instagram, tiktok)
+- [ ] create theme and branding strategy ASAP, things need to be printed by LFNW
+- [ ] consider automating posts when Pretalx status changes
+- [ ] consider automating posts ~5 minutes before each talk
 
 ##### Important Links
 
@@ -604,8 +672,10 @@ Important updates and things to share staff-wide
 #### Volunteers
 ##### Feedback
 - Have a more explicit plan for training room monitors, and have that plan include temporarily re-purposing a presentation laptop for streaming, and using it for demos
-- have some way to coordinate who is monitoring which live stream
-- better visual identification of organizers, especially a/v tech
+- Some way to coordinate who is monitoring which live stream
+- we should maybe proactively point out who I (AJ) am so that people aren't surprised when I sneak into rooms to fix streaming laptops
+
+##### Discussion
 - Create a room monitor handout
   - List of speakers and talk names
   - Record CO2 number at talk start
@@ -613,8 +683,15 @@ Important updates and things to share staff-wide
   - Introduce speaker
   - Screen shot of what stream start/stop looks like
 - create snack table monitor handout
-
-##### Discussion
+- had more people ahead of time this year
+  - some wanted to be organizer-level
+- room monitors for some of the rooms, some of the time, still need more people
+  - more coverage first day
+- still unclear on how the onboarding pipeline works between interest and doing stuff
+  - gap between first interest form and getting onboarded with explicit committee/role
+  - this is the "people" bit
+  - maybe fully onboard people to our systems, but add them to committees in a later stage? this would interact nicely with the better onboarding experience that AJ has planned, where you get a list of tasks on Vikunja
+- slow onboarding works for some, but most probably want to "strike while iron is hot"
 
 ##### Outstanding 2025 TODOs
 
@@ -631,6 +708,10 @@ Important updates and things to share staff-wide
   - Introduce speaker
   - Screen shot of what stream start/stop looks like
 - [ ] create snack table monitor handout
+- [ ] consider creating a volunteer position for photography
+- [ ] recruit a designer volunteer
+- [ ] create language to request day-of student volunteers
+- [ ] smooth out onboarding pipeline, especially step between interest form and getting added to services
 
 ##### Important Links
 
@@ -638,12 +719,14 @@ Important updates and things to share staff-wide
 
 #### Impresario
 ##### Feedback
-- AJ should be less conspicuous when not bleeding.
-  - AJ looked really fucking weird walking across the room during the talk.
 - Adding a year round Forum for SeaGL.  My basic thoughts: My .02 is SeaGL would greatly benefit from a forum. [Discourse](https://meta.discourse.org/) is absolutely excellent + it integrates nicely with any number of [Matrix chat rooms](https://www.discourse.org/plugins/chat-integration). Can also auto [x-post to Fediverse](https://github.com/discourse/discourse-activity-pub) and offers [multiple calendar and event](https://www.discourse.org/plugins/calendar) options.  Another excellent option is [Gancio](https://gancio.org/) as a federated event planning calendar with full guest / anonymous support. I noticed Jupiter Broadcasting used it to successfully organize simultaneous watch parties for a livestream across the US/World.  If you have a machine to install it on, I'm happy to help you set it up (which I have done previously for help.nextcloud.com)
   - perhaps we can do a better job promoting the year-round Matrix space?
+    - needs v12 upgrade as pre-req to advertise
+- Y'all rock. More than I could have imagined. My only complaint is I couldn't do everything and I love having this lucky, wonderful problem. You're doing it all and doing it well.
 
 ##### Discussion
+- never transitioned to vikunja
+  - plans on implementing 2026 gantt chart during downseason
 
 ##### Outstanding 2025 TODOs
 - [ ] confirm final venue invoice
@@ -653,6 +736,7 @@ Important updates and things to share staff-wide
 - [ ] consider what a year-round seagl community space looks like
   - matrix vs forum vs ??
 - [ ] consider splitting up committees based on chronology of work
+- [ ] go all-in on vikunja, including gantt chart functionality
 
 ##### Important Links
 
@@ -668,24 +752,35 @@ Important updates and things to share staff-wide
 #### General
 
 #### Attendee Experience (AX)
+- [ ] check-in with Dawn about what laminated signs didn't work for floor
+- [ ] ask venue why doors weren't opened on-time Saturday (salt)
 
 #### A/V & DevOps
+- [ ] edit and release videos
 
 #### Finance
+- [ ] Sync books and budget. Expected vs real numbers
+- [ ] make sure aj gets a credit card
 
 #### IDEA
 
 #### Partnerships
+- [ ] send partner thank yous
+- [ ] "please shut up and take my money" - AJ with $dayjob hat on
 
 #### Policy & Protocol
 
 #### Programming & Flow
+- [ ] send speaker thank yous
 
 #### Promotion & Outreach
+- [ ] write thank you blog post, include some metrics, expected volunteer regathering, money woes
 
 #### Volunteers
 
 #### Impresario
+- [ ] confirm final venue invoice
+- [ ] send venue thank you
 
 
 ### Upcoming blog/social posts
@@ -717,6 +812,15 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
+- Alfredo: glad that it's over, but also very happy about how it turned out, best one post-pandemic, even compared with 2019 everyone felt happy at this one, received many thanks both from new and returning attendees. Thanks for everyone being here, everyone here was important for it to happen.
+- sen: oh boy, was my second SeaGL, first as organizer, didn't know what I was getting into, volunteered for AX and really didn't know what I was getting into, but nobody died and my help was appreciated. Seemed like all attendees had a really great time. Looking forward to next year.
+- Matt: didn't join committees this year, but understand structure more now. TeaGL was big differentiator for us, good call.
+- Angel: this one felt so much better than last year, only two to compare, but felt smoother, felt good, busy, happy, bustling.
+- Norm: reiterate, this year was a lot more energy and excitement, not just from attendees but also everyone who volunteered.
+- AJ: would like a bot that forwards thanks from social media to staff room. everyone's saying things I agree with. In many ways this year was better than past. This was my 10th SeaGL and it is a really special event, glad to be able to put it on with you all. Feel good about next year.
+- Kim: had conflict for general meeting, haven't been able to attend. seemed to have less work to do, which was a good thing. thanks to everyone who did lots of work.
+- Juan: first meeting, excited to participate, needed approval for volunteer form.
+- Salt: thanks y'all <3 nice to be ending the season with positive outlook
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
