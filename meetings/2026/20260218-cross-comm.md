@@ -1,8 +1,8 @@
 <!-- See end of pad for meeting best-practices and discussion mechanisms -->
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
-# SeaGL 2026 Organizing Kick-Off
-- Wednesday, February 11, 2026. 6pm Pacific Time (2026-02-12 02:00 UTC)
+# SeaGL 2026 Organizing Cross-Committee
+- Wednesday, February 18, 2026. 6pm Pacific Time (2026-02-19 02:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: sen, sergio, aj, alfredo, dina
-- Apologies: angel
+- Attendees: 
+- Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -38,59 +38,59 @@
 Add new things to discuss after `### New Items` below
 -->
 
+### Previous TODOs
+<!--
+Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
+-->
+
+#### 02/11
+- [ ] generate save-the-date handbill by 3/5 (??)
+- [ ] generate save-the-date cfp handbill by 5/25 (??)
+- [ ] reach out to folks who said they'd like to volunteer during the 2025 "registration" (??)
+- [ ] create previous speakers mailing list (??)
+- [ ] schedule sub-committee kick-off meetings (??)
+- [ ] transfer gantt chart into vikunja and update for 2026 (salt)
+- [ ] decide on year 14 theme (everyone)
+- [ ] meet to figure out next steps for 2025 videos (sen, salt, aj, ??)
+
+
 ### Committee Updates
 <!--
 Important updates and things to share staff-wide
+
+#### Committee Coordinators
+- Attendee Experience (AX): 
+- A/V: sen-h
+- DevOps: AJ
+- Finance: 
+- IDEA: 
+- Partnerships: 
+- Policy & Protocol: 
+- Programming & Flow: Dina
+- Promotion & Outreach: Alfredo
+- Volunteers: 
+- Impresario: Salt
 -->
-(most have been dormant)
 
 #### Attendee Experience (AX)
-- coffee equipment was cleaned
-- needs to be returned to storage unit
 
-#### A/V & DevOps
-- done some app upgrades
-- vikunja broken, working on it
-  - seems to be an upstream OSUOSL issue so unfortunately not really sure when it's going to be resolved/what's going on
-- progress on migrating off google, but no major steps yet
-- generated EDLs for video uploads
-- went through the various streams and merged to best quality
-- ~10 videos have issues that may not be addressable, but rest is in good shape
-- videos could be uploaded to nextcloud or peertube for review before IA upload
+#### A/V
+
+#### DevOps
 
 #### Finance
-- books are more or less closed
-- one keynote reimbursement having trouble
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- new version of prospectus uploaded to website
-- one partner said they had funds, then didn't due to layoffs
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- submitted another keynote suggestion
-- speaker needs response about visa application
 
 #### Promotion & Outreach
-- some social posts about organizing efforts starting
-- headers updated with new dates
-- may have lead on graphic designer
-- goal of having save-the-date by SCaLE (3 weeks away)
-- goal of having cfp information by LFNW
-- [ ] generate save-the-date handbill by 3/5 (??)
-- [ ] generate save-the-date cfp handbill by 5/25 (??)
 
 #### Volunteers
-- no updates
-- need to process all of the "registrations" from 2025
-  - two paths, at-event volunteer list or volunteer form
-  - be more specific about things to volunteer for
-- [ ] reach out to folks who said they'd like to volunteer during the 2025 "registration" (??)
 
 
 ### New Items
@@ -98,78 +98,16 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### Meeting Regularity
-- would like to start with weekly meetings through February and then re-asses
-
-#### Communication Channels
-- want to make sure everyone is on Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja?
-- does anyone who wants an @seagl.org email not have one?
-- suggestions for improving communication this year?
-  - get mailinglists off of google
-  - should be using speakers and previous volunteers list
-- [ ] create previous speakers mailing list (??)
-
-#### Committees
-- do these committees still feel right?
-  - would like to split av and devops
-- which committees should meet together to start?
-  - av and devops probably
-  - policy and idea
-  - maybe finance and partnerships
-- [ ] schedule sub-committee kick-off meetings (??)
-
 #### Committee Coordinators
 - Attendee Experience (AX): 
-- A/V: sen-h
-- DevOps: AJ
 - Finance: 
 - IDEA (Inclusion, Diversity, Equity, Access): 
 - Partnerships: 
 - Policy & Protocol: 
-- Programming & Flow: Dina
-- Promotion & Outreach: Alfredo
 - Volunteers: 
-- Impresario: Salt
-  - At some point maybe there will be opportunity to pass along
-
-#### Budgets and Timelines
-- this year we are very tight on money, need sponsorships to survive
-- how much "spending money" should be allocated to each committee?
-- would someone take on extending/verifying the gantt chart?
-  - Salt plans to do this via Vikunja once it is back up
-- [ ] transfer gantt chart into vikunja and update for 2026 (salt)
 
 #### Year 14 Theme
-- suggestions?
-  - a road less traveled
-  - fortnight
-  - atomic number of silicon
-  - ask community via socials?
-- having a theme helps promotion/outreach a lot
-- [ ] decide on year 14 theme (everyone)
-
-#### 2026 Venue
-- uw hub again
-- less/more rooms?
-  - more rooms = more presenters, but also more cost
-  - cloak room?
-- lyceum or not?
-- room hours?
-- need to think about sponsors gear if expo is closed overnight
-  - an extra hour in the morning might help a bit
-
-#### 2025 Videos
-- status?
-- should we email speakers with garbled audio?
-  - yes, but probably just before we release
-  - no, the question is whether we give speakers the opportunity to record over
-  - logistical reasons for and against this, consensus is that we need to meet about it separately
-  - batting average of about 70%
-    - [ ] meet to figure out next steps for 2025 videos (sen, salt, aj, ??)
-- thanks to Sen for the effort
-
-#### Graphic Design
-- sergio has some examples
+- Salt is leaning towards something related to atomic number of silicon
 
 #### Go through open tasks from last year
 - https://github.com/SeaGL/organization/blob/main/meetings/2025/20251117and24-retrospective.md#outstanding-2025-todos-10
@@ -179,15 +117,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 02/11 - New TODOs
-- [ ] generate save-the-date handbill by 3/5 (??)
-- [ ] generate save-the-date cfp handbill by 5/25 (??)
-- [ ] reach out to folks who said they'd like to volunteer during the 2025 "registration" (??)
-- [ ] create previous speakers mailing list (??)
-- [ ] schedule sub-committee kick-off meetings (??)
-- [ ] transfer gantt chart into vikunja and update for 2026 (salt)
-- [ ] decide on year 14 theme (everyone)
-- [ ] meet to figure out next steps for 2025 videos (sen, salt, aj, ??)
+### 02/18 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -199,8 +129,8 @@ Important updates and things to share staff-wide
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, February 18 @ 6pm Pacific Time (2025-02-19 02:00 UTC)
-  - Dina can't make next two
+- Wednesday, February 25 @ 6pm Pacific Time (2025-02-26 02:00 UTC)
+  - Dina can't make next one
   - AJ may not be able to either
 
 ### Committee Meetings
@@ -220,12 +150,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- sen: happy to be here, happy to have stuff to focus on
-- sergio: create document with questions for designing the theme
-- aj: feel back at seagl, number of tabs doubled, feel good
-- alfredo: (had to leave early)
-- dina: appreciate organization and openness for feedback, glad to be meeting more regularly
-- salt: <3 good to see new person on day one of the season
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
