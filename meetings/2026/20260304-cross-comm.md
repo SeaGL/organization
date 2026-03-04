@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, February 25, 2026. 6pm Pacific Time (2026-02-26 02:00 UTC)
+- Wednesday, March 4, 2026. 6pm Pacific Time (2026-03-05 02:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Matt, Sergio, sen, Alfredo
-- Apologies: Dina, AJ
+- Attendees: 
+- Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -42,24 +42,7 @@ Add new things to discuss after `### New Items` below
 <!--
 Status updates only. Indicate items for further discussion with `[>]` and copy after `### New Items` below.
 -->
-
-#### 02/11
-- [ ] generate save-the-date handbill by 3/5 (??)
-- [ ] generate save-the-date cfp handbill by 4/24 (??)
-- [ ] reach out to folks who said they'd like to volunteer during the 2025 "registration" (??)
-- [ ] create previous speakers mailing list (??)
-- [ ] schedule sub-committee kick-off meetings (coordinators)
-- [ ] transfer gantt chart into vikunja and update for 2026 (salt)
-- [x] decide on year 14 theme (everyone)
-- [ ] meet to figure out next steps for 2025 videos (sen, salt, aj, ??)
-
-#### 02/18
-- [x] move TODOs into Vikunja (Salt)
-  - https://vikunja.seagl.org/projects/31/142
-- [x] brainstorm taglines related to atomic number of silicon theme, bring next week (everyone)
-- [ ] go through open tasks from last year (everyone)
-- [ ] posts advertising open coordinators positions (promo & outreach)
-
+- [2026 Vikunja Project](https://vikunja.seagl.org/projects/31/142)
 
 ### Committee Updates
 <!--
@@ -80,36 +63,24 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- no updates
 
 #### AV
-- have smaller video versions (~3gb) ready to review
-  - includes some notes
-- progress on updated livestreaming setup
 
 #### DevOps
-- vikunja updated!
 
 #### Finance
-- no updates
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- no updates
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- no updates
 
 #### Promotion & Outreach
-- no updates
 
 #### Volunteers
-- to schedule meeting
 
 
 ### New Items
@@ -123,33 +94,12 @@ Important updates and things to share staff-wide
 - IDEA (Inclusion, Diversity, Equity, Access): 
 - Policy & Protocol: 
 
-#### Year 14 Theme
-- Salt liked these ones from last week's brainstorming:
-  - Open at the Atomic Level
-  - Freedom Is Elemental
-
-#### Meeting regularity
-- positive sentiment about weekly but shorter format
-
-#### SCaLE
-- next week
-- alfredo will be there, anyone else?
-  - maybe sen but unknown
-  - maybe hans, maybe robin
-- if we have handbill, can do some distribution
-  - past examples: https://seagl.org/fliers/
-  - qr should probably go to: https://seagl.org/links
-
-#### keynotes
-- reminder to suggest/nominate so we have a bigger pool to vote on
-- https://seagl.org/keynote-suggestions
-
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 02/25 - New TODOs
+### 03/04 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -161,7 +111,7 @@ Important updates and things to share staff-wide
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, March 4 @ 6pm Pacific Time (2025-03-05 02:00 UTC)
+- Wednesday, March 11 @ 6pm Pacific Time (2025-03-12 02:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
