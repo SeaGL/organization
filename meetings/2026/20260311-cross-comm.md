@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, March 4, 2026. 6pm Pacific Time (2026-03-05 02:00 UTC)
+- Wednesday, March 11, 2026. 6pm Pacific Time (2026-03-12 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: mattb, dina, sergio, alfredo
-- Apologies: sen, AJ
+- Attendees: AJ, Ilse, Alfredo, Sergio, Sen, MattB
+- Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -66,16 +66,20 @@ Important updates and things to share staff-wide
 - no updates
 
 #### AV
-- 2025 talks are ready for review
+- sen continues to embed linux in things
+- talks are up for review on nextcloud
   - https://cloud.seagl.org/index.php/apps/files/files/102436?dir=/finished_talks
-- there is a file with notes about the damaged talks
-- [ ] spot review videos so we can publish them (everyone)
+- starbestfit to schedule av kickoff meeting
+  - https://starbestfit.com/seagl-av-426967
+  - tuesday is blackout day, aka not an option
 
 #### DevOps
-- priority of setting time for meetings, followed by migrating off of Google
+- starbestfit to schedule devops kickoff meeting
+  - https://starbestfit.com/seagl-devops-meeting-time-611863
 
 #### Finance
 - no updates
+- fyi we are meeting with osi once a month and as needed
 
 #### IDEA
 - no updates
@@ -84,6 +88,8 @@ Important updates and things to share staff-wide
 - no updates
 - but we really need get going on this ASAP
 - scheduling poll: https://timeful.app/e/AFBd9
+- From Alfredo's SCALE trip report, reminded us of grants as a source of funding.
+  - Created task to review some grant opportunities: https://vikunja.seagl.org/tasks/203
 
 #### Policy & Protocol
 - no updates
@@ -92,16 +98,16 @@ Important updates and things to share staff-wide
 - no updates
 
 #### Promotion & Outreach
-- draft of flier ready for review
-- may have another designer who can help
-- plans to freshen up overall designs and such
+- starbestfit to schedule promo & outreach kickoff meeting
+  - https://starbestfit.com/seagl2026-promo-outreach-meeting-796296
+- printed and distributed flyers at SCaLE
+- a new design volunteer has arrived
 
 #### Volunteers
 - poll to figure out best time for monthly meetup
   - https://starbestfit.com/seagl-2026-volunteer-committee-monthly-586153
   - time-of-week fit, then we'll do day-of-month
-- need access to 2025 attendance form results
-  - https://cloud.seagl.org/index.php/apps/forms/BCBE6qByCxmoo2Ew
+- messaged people who said they were interested in volunteering in 2025
 
 
 ### New Items
@@ -117,27 +123,72 @@ Important updates and things to share staff-wide
   - Policy & Protocol: 
 - related: https://vikunja.seagl.org/tasks/200
 
-#### save-the-date flier
-- still work in progress
-- where will patch sit?
-  - maybe on-top of cpu
-- will likely have to do print pickup at scale
+#### SCaLE reportback
+- was very fun
+- met robin and chance
+- many people asked about mousey and salt
+- printed ~120 fliers, distributed most
+  - got help from robin (unofficial check-in/help-desk sponsor)
+  - lpi, postgresql, sfc, other past seagl folks
+- bunch of exhibitors, some would be nice to have, both as sponsors or community
+  - thunderbird? monica is now working there
+  - companies maybe had budget again this year
+  - ted suggested asking rockylinux, will pass contact through dina
+- ted and maddog had good things to say about attending seagl
+- attendee in wheelchair was complaining about certain access things that seagl has
+- lightning talks, appereo marketing guy drew metaphor about perception of free software
+- talked to lots of people about going to seagl, some went, but others had opinions
+  - some people thought was too small for traveling, or even for exhibitors to consider
+  - others thought it was too local, just a seattle linux user group
+  - others thought it was organized by students, maybe lower quality
+  - someone went and thought it was just a hallway with no talks
+  - general perspective is seattle tech culture is dry and souless, don't expect seagl to be outside of that
+  - SCaLE has lots of sponsors and expects similar of seagl
+  - lots of people asked if we had met resist tech monopolies people
+    - RTM was there with a BoF and talk
+- met person who does cybersecurity, said scale got big because conference of conferences
+  - lots of smaller communities coming together
+
+#### what should link to dates on /links ?
+- https://seagl.org/links
+- should write then link to blog post with theme and info, button text could have seagl dates
+- generally should spend some time cleaning up /links page
+  - rank in order of importance and what people should look for
+  - top should be date/info
+  - feedback can drop to bottom
+  - sponsor should maybe be second, followed by volunteer
+  - more discussion offline in matrix
+  - folks can make changes, with or without review
+  - maybe organize in sections
+    - could jump to section for particular usecase
+    - make sure is still mobile friendly
+    - don't want to overwhelm, fewer important options is probably better
+
+#### questions from designer
+- goal is to help solidify ?? 
+- alfredo showed previous years stuff
+  - explained core message around "freedom is elemental"
+  - showed official branding stuff
+- what path should first designs take?
+  - from flyer design, very location based, showing things seattle has to offer
+  - from scale comments, want something that reflects seattle
+  - want to focus on how exciting it is to be here, to be at seagl, worldclass tech hub
+- what about merging idea of computer circuit with natural location aspects of seattle?
+  - make silicone/14th element integrate with broader message of excitement and lots to offer
+  - computer chip, but also being playful with flyer elements
+
+#### onboarding volunteers
+- sergio and ilse?
+- https://cloud.seagl.org/index.php/apps/forms/s/PE76H74M2nJHAYAc6afRr7Qq
 
 
 ### Open discussion (~5 minute, if time)
 
-#### bsides reportback
-- lfnw had a table
-- event was fun
-- connected with blr
-
 
 ## Wrap-up
 
-### 03/04 - New TODOs
-- [ ] spot review videos so we can publish them (everyone)
-- [ ] make sure mattb can access 2025 attendance form results (salt)
-- [ ] make sure sergio's on-boarding gets processed (salt)
+### 03/11 - New TODOs
+- [ ] respond to committee scheduling polls (everyone)
 
 ### Upcoming blog/social posts
 <!--
@@ -149,7 +200,7 @@ Important updates and things to share staff-wide
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, March 11 @ 6pm Pacific Time (2025-03-12 01:00 UTC)
+- Wednesday, March 18 @ 6pm Pacific Time (2025-03-19 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -168,11 +219,13 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- mattb: will get out before lights turn off...again
-- dina: confirmed on weekly meetings
-- sergio: next step to figure out color and chip design
-- alfredo: glad to make it, glad to see you all, glad the meeting is short
-- salt: thanks all
+- AJ: good to see you all, excited about graphics work, two people this year, will on-board people before bed
+- Ilse: 
+- Alfredo: happy to be here, good meeting and still under an hour, looking forward to continuing to organize conference.
+- Sergio: mostly focusing on class project
+- Sen: looking forward to next week, things are starting to clear up, new thing to focus ire on
+- MattB: going to go check timezone database for anonymous hatemail from static ip address, excited to see new faces, created qdb on seagl nextcloud, forms
+- Salt: 
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)

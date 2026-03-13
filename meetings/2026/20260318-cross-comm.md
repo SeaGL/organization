@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, March 4, 2026. 6pm Pacific Time (2026-03-05 02:00 UTC)
+- Wednesday, March 18, 2026. 6pm Pacific Time (2026-03-19 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: mattb, dina, sergio, alfredo
-- Apologies: sen, AJ
+- Attendees: 
+- Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -63,45 +63,24 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- no updates
 
 #### AV
-- 2025 talks are ready for review
-  - https://cloud.seagl.org/index.php/apps/files/files/102436?dir=/finished_talks
-- there is a file with notes about the damaged talks
-- [ ] spot review videos so we can publish them (everyone)
 
 #### DevOps
-- priority of setting time for meetings, followed by migrating off of Google
 
 #### Finance
-- no updates
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- no updates
-- but we really need get going on this ASAP
-- scheduling poll: https://timeful.app/e/AFBd9
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- no updates
 
 #### Promotion & Outreach
-- draft of flier ready for review
-- may have another designer who can help
-- plans to freshen up overall designs and such
 
 #### Volunteers
-- poll to figure out best time for monthly meetup
-  - https://starbestfit.com/seagl-2026-volunteer-committee-monthly-586153
-  - time-of-week fit, then we'll do day-of-month
-- need access to 2025 attendance form results
-  - https://cloud.seagl.org/index.php/apps/forms/BCBE6qByCxmoo2Ew
 
 
 ### New Items
@@ -109,35 +88,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### Committee Coordinators
-- still have needs
-  - Attendee Experience (AX): 
-  - Finance: 
-  - *IDEA (Inclusion, Diversity, Equity, Access): 
-  - Policy & Protocol: 
-- related: https://vikunja.seagl.org/tasks/200
-
-#### save-the-date flier
-- still work in progress
-- where will patch sit?
-  - maybe on-top of cpu
-- will likely have to do print pickup at scale
-
 
 ### Open discussion (~5 minute, if time)
-
-#### bsides reportback
-- lfnw had a table
-- event was fun
-- connected with blr
 
 
 ## Wrap-up
 
-### 03/04 - New TODOs
-- [ ] spot review videos so we can publish them (everyone)
-- [ ] make sure mattb can access 2025 attendance form results (salt)
-- [ ] make sure sergio's on-boarding gets processed (salt)
+### 03/18 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -149,7 +106,7 @@ Important updates and things to share staff-wide
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, March 11 @ 6pm Pacific Time (2025-03-12 01:00 UTC)
+- Wednesday, March 25 @ 6pm Pacific Time (2025-03-26 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -168,11 +125,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- mattb: will get out before lights turn off...again
-- dina: confirmed on weekly meetings
-- sergio: next step to figure out color and chip design
-- alfredo: glad to make it, glad to see you all, glad the meeting is short
-- salt: thanks all
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
