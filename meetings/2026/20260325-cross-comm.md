@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, March 18, 2026. 6pm Pacific Time (2026-03-19 01:00 UTC)
+- Wednesday, March 25, 2026. 6pm Pacific Time (2026-03-26 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,7 +19,7 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Kim, Sergio, MattB, Sen, Alfredo
+- Attendees: 
 - Apologies: AJ
 - Facilitator: Salt
 - Note Taker(s): 
@@ -63,87 +63,38 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- no updates
 
 #### AV
-- no updates
-- please continue helping with 2025 video review
-- scheduling poll to close tonight, please vote
 
 #### DevOps
-- Pretalx upgrade is on AJ's radar!
-- aiming to follow up with folks for DevOps meeting scheduling in the next couple days, and hopefully get something on the books.
 
 #### Finance
-- no updates
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- starting to update sheets and templates for 2026
-- will be sending emails asap
-- [ ] create new templates for pre-cfp sponsor asks
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- targetting first meeting on april 8th, cfp launch on april 24th
 
 #### Promotion & Outreach
-- regular meetings on mondays at 6pm
-- ilse sent some proposals for header designs
 
 #### Volunteers
-- Ask Salt(?) for access to volunteering@seagl.org email
-  - [ ] add adding coordinator as mailinglist moderator to onboarding steps
-- two response in last week, 50% interested in helping out further
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### blockers to publishing 2025 videos
-- need to finish reviewing
-- once done, andrew generated IA identifiers
-  - moving forward would be nice to automate this
 
-#### new header designs
-- generally positive comments
-- version with diagonal line was more appealing
-- would like to see a bit more tie to seattle
-- more seattle elements:
-  - rain
-  - ferries
-  - orcas
-  - gasworks parks
-  - fremont troll
-  - exact mt. rainier
-  - bicycles
-  - emerald city
-  - Dick's (the burger place)
-  - monorail
-  - sailboats
-  - construction/shipping cranes
-  - thrown salmon
-  - coffee
-  - beer
-
-#### new outdoor signs
-- will be added with gantt chart so that this is remembered with plenty of production time
-- potentially use coraplast
-  - some concern about thickness
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 03/18 - New TODOs
-- [ ] create new email templates for pre-cfp sponsor asks (partnerships)
-- [ ] add adding coordinator as mailinglist moderator to onboarding steps (AJ?)
+### 03/25 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -155,7 +106,7 @@ Important updates and things to share staff-wide
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, March 25 @ 6pm Pacific Time (2026-03-26 01:00 UTC)
+- Wednesday, April 1 @ 6pm Pacific Time (2025-04-02 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -165,8 +116,8 @@ Important updates and things to share staff-wide
 - IDEA: 
 - Partnerships: 
 - Policy & Protocol: 
-- Programming & Flow: April 8th (2026-04-09 UTC)
-- Promotion & Outreach: Mondays @ 6pm Pacific Time (Thursdays @ 01:00 UTC)
+- Programming & Flow: 
+- Promotion & Outreach: 
 - Volunteers: 
 
 ### Sign-off round (what's next, appreciations, suggestions)
@@ -174,12 +125,7 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Salt: thanks all, next major task pushes are sponsor outreach and gantt chart in vikunja
-- Kim: excited to have time to start working on seagl
-- Sergio: working on text for cfp design
-- MattB: more video review and grooming volunteer role guidelines
-- Sen: consolidate video review notes into vikunja task
-- Alfredo: (had to leave early)
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
 
