@@ -114,7 +114,7 @@ Important updates and things to share staff-wide
 - DevOps: 
 - Finance: 
 - IDEA: 
-- Partnerships: Tuesdays @ 7pm Pacific Time (Wednesdays @ 02:00 UTC)
+- Partnerships: Tuesdays @ 6pm Pacific Time (Wednesdays @ 01:00 UTC)
 - Policy & Protocol: 
 - Programming & Flow: April 8th (2026-04-09 UTC)
 - Promotion & Outreach: Mondays @ 6pm Pacific Time (Thursdays @ 01:00 UTC)
