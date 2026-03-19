@@ -204,7 +204,7 @@ Important updates and things to share staff-wide
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, February 25 @ 6pm Pacific Time (2025-02-26 02:00 UTC)
+- Wednesday, February 25 @ 6pm Pacific Time (2026-02-26 02:00 UTC)
   - Dina can't make next one
   - AJ may not be able to either
 
