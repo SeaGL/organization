@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, March 25, 2026. 6pm Pacific Time (2026-03-26 01:00 UTC)
+- Wednesday, April 8, 2026. 6pm Pacific Time (2026-04-09 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Salt, Sergio, Alfredo
-- Apologies: AJ, matt
+- Attendees: 
+- Apologies: Matt
 - Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -65,31 +65,30 @@ Important updates and things to share staff-wide
 #### Attendee Experience (AX)
 
 #### AV
-- matt: All videos save for 2 rooms x 1 day are reviewed in Vikunja
 
 #### DevOps
-- pretalx updated
-- nextcloud update in the pipeline
 
 #### Finance
 
 #### IDEA
 
 #### Partnerships
-- no news from outside orgs.
-- Kim working on new page for sponsors.
 
 #### Policy & Protocol
 
 #### Programming & Flow
-- Salt mentioned Dawn will be working on setting up the pretalx
 
 #### Promotion & Outreach
-- Call for coordinators blog post: https://github.com/SeaGL/seagl.github.io/pull/489
-- Working on updating /links (pr soon)
-- we had first meeting on Monday.
 
 #### Volunteers
+- async updates from matt:
+  - A volunteering committee meeting is scheduled for the 3rd Tuesday of each month
+    - (to become more frequent as we get closer to the conference) at 5:15pm PDT.
+    - It's on the cloud calendar.
+  - No new ongoing / during-conference volunteers since last meeting.
+  - Potential new pre-conference volunteer for Magic 8 ball shaking
+  - I'll be attending as many of the other committee meetings to observe and understand needs for volunteers
+  - For Salt - I sent you an email re: google groups. Try again please.
 
 
 ### New Items
@@ -103,7 +102,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 03/25 - New TODOs
+### 04/08 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
@@ -115,7 +114,7 @@ Important updates and things to share staff-wide
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, April 1 @ 6pm Pacific Time (2026-04-02 01:00 UTC)
+- Wednesday, April 15 @ 6pm Pacific Time (2026-04-16 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -125,9 +124,9 @@ Important updates and things to share staff-wide
 - IDEA: 
 - Partnerships: Tuesdays @ 6pm Pacific Time (Wednesdays @ 01:00 UTC)
 - Policy & Protocol: 
-- Programming & Flow: April 8th (2026-04-09 UTC)
+- Programming & Flow: 
 - Promotion & Outreach: Mondays @ 6pm Pacific Time (Thursdays @ 01:00 UTC)
-- Volunteers: 
+- Volunteers: 3rd Tuesdays @ 5:15pm Pacific Time (3rd Tuesdays @ 00:15 UTC)
 
 ### Sign-off round (what's next, appreciations, suggestions)
 <!--
