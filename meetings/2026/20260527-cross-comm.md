@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, April 8, 2026. 6pm Pacific Time (2026-04-09 01:00 UTC)
+- Wednesday, May 27, 2026. 6pm Pacific Time (2026-05-28 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,7 +19,7 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Matt, AJ, Sergio, Sen, Alfredo
+- Attendees: sen, alfredo, salt, sergio, aj, dina
 - Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
@@ -63,33 +63,14 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- no updates
+- University asked us if we want to change dates because student/parent weekend.
+  - There can be logistical (parking, bathroom, hotel) headache because the university might help other events during the day.
 
 #### AV
-- sen and matt went through list of talks
-- salt reviewed and flagged which were ready
-  - compiled feasible fixes
-- sen is hunting down the missing ones
-- should we wait until they are all ready or release in batches?
-  - dunno what would look better
-  - salt wants to release with a blog post
-  - alfredo thinks publishing in bulk would be better
-  - having small batch that we might be able to find/fix would be okay
-- 20 postable (~50% of recorded)
-- 9 definitely fixable (~25% of recorded)
-- 8 possibly fixable (~25% of recorded)
-- 4 missing
-- 5 opted out
-- ~75% ready or know path towards fixing
-  - sounds like a good number for launch
-- are the possibly fixable ones okay even if not fixed?
-  - probably not, maybe some of them
+- Testing new camera (privacy)
 
 #### DevOps
-- no major updates
-- have some requests in queue
-- devops meetings on mondays at 5 PT
-- [ ] ping osuosl about mailman3 status
+- no updates
 
 #### Finance
 - no updates
@@ -98,107 +79,47 @@ Important updates and things to share staff-wide
 - no updates
 
 #### Partnerships
-- first email requests went out
-- more being held until we have settled on a cfp date
-- [ ] message ted about rockylinux as sponsor
+- no updates
 
 #### Policy & Protocol
 - no updates
 
 #### Programming & Flow
-- configured pretalx 2026 event
-  - included new fields that were discussed in retrospective
-  - some fields now apply per submission rather than per speaker
-  - salt figured out how to use built-in "should this talk be recorded"
-- waiting on some artwork for banners and such
-- decided on cfp dates!
-  - opening april 24 for LFNW, closing may 31
-  - expected extension through june 15
-  - waiting for fossy would be too late, august
-- [ ] prepare blog post with cfp launch details
-- [ ] prepare blog post about us being at lfnw, cfp launch date, keynote nomination (alfredo)
-- [ ] decide on keynote voting period
-  - probably one week window
-  - maybe one more week for nominations, target april 15 voting
-- did any of the cfp topics change?
-  - not since last year
+- Planning to write the draft keynote invitation
 
 #### Promotion & Outreach
-- had meeting on monday
-- updated some of the links in the matrix room
-- discussed some design stuff, color pallets and designs
-  - leaning towards pcb circuits
-  - draft next monday, final draft on the 20th, ready for printing on the 22nd
-- talked about cfp announcements, where to post it
-  - podcasts
-  - linux magazines
-  - trying to collect personal irc/discord/etc channels
-    - would ask that people post to them rather than joining and spamming
-  - do we have previous speaker list?
-    - can scrape from pretalx
-      - would we want all speakers who were accepted or all period?
-      - probably all
-    - could send via pretalx
-      - might mean double sends, weird from address, etc
-    - should we ask them wehther they want to be part of this list for announcing cfp?
-      - they've already submitted once
-      - speakers would probably appreciate this
-      - should definitely have unsubscribe link at bottom
-    - what to use for outbound email?
-      - could use aws ses
-      - [ ] check into mailman3 status, maybe consider mailman2 for one list (AJ)
-- upcoming blog posts
-  - we will be at lfnw, cfp launch date
-  - cfp launches
-  - 2025 videos uploaded
+- We have all the assets on github
 
 #### Volunteers
-- A volunteering committee meeting is scheduled for the 3rd Tuesday of each month at 5:15pm PDT
-  - to become more frequent as we get closer to the conference
-  - It's on the cloud calendar.
-- No new ongoing / during-conference volunteers since last meeting.
-- 2x new pre-conference volunteers for Magic 8 ball shaking
-- Matt will be attending as many of the other committee meetings to observe and understand needs for volunteers
-- For Salt - I sent you an email re: google groups. Try again please.
-  - done
-    - worked
+- no updates
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### Gantt Chart
-- salt has more too add
-- created as separate project
-- probably won't be checking items off since this is just a guideline
-- many items still need start times
-- will ask for reviews and additions soon
+
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 04/08 - New TODOs
-- [ ] ping osuosl about mailman3 status (aj)
-- [ ] message ted about rockylinux as sponsor (salt)
-- [ ] prepare blog post about us being at lfnw, cfp launch date, keynote nomination (alfredo)
-- [ ] prepare blog post with cfp launch details (dina, dawn)
-- [ ] decide on keynote voting period (dina, dawn)
+### 05/27 - New TODOs
 
 ### Upcoming blog/social posts
 <!--
 - [ ] DRAFT/POST DATE: TITLE/PURPOSE (AUTHOR) [REQUESTED REVIEWERS]
 -->
-- [ ] before 4/20: prepare blog post about us being at lfnw, cfp launch date, keynote nomination (alfredo)
-- [ ] by 4/24: prepare blog post with cfp launch details (dina, dawn)
+- [ ] before 4/20: prepare blog post with cfp launch details (dina, dawn)
+- [ ] by 4/24: prepare blog post about us being at lfnw, cfp launch date, keynote nomination (alfredo)
+- [ ] highlight FLOSS tools we use in our tech stack
 
 ### Timeline
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, April 15 @ 6pm Pacific Time (2026-04-16 01:00 UTC)
+- Wednesday, June 3 @ 6pm Pacific Time (2026-06-04 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -217,14 +138,7 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Matt: ready to relax
-- AJ: excited to goto sleep
-- Sergio: glad it is sunny today
-- Sen: I have to take my computer apart...
-  - it is very easy to take things apart
-  - especially if gravity is on your side
-- Alfredo: this meeting was the good part of my afternoon
-- Salt: have seagl spark, in part due to all of you being here
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
 
@@ -300,4 +214,3 @@ Copy attendees list from above and format as:
 - [>] refocused
 
 -->
-

@@ -19,7 +19,7 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: 
+- Attendees: Alfredo, sen, AJ, Matt, Sergio, dina
 - Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
@@ -62,31 +62,103 @@ Important updates and things to share staff-wide
 - Impresario: Salt
 -->
 
-#### Attendee Experience (AX)
-
-#### AV
-
-#### DevOps
-
-#### Finance
-
-#### IDEA
-
-#### Partnerships
-
-#### Policy & Protocol
+#### Promotion & Outreach
+- worked on ideas of what images will look like at monday meeting
+  - leaning towards circuit boards
+- sen made some images using actual board creation software
+- sergio working on handbill cfp
+- we have the chance to appear in 5 issues of linuxmagazine, june - oct
+  - discussed pushing for cfp ad
+  - decided not to weight remote speakers more heavily
+  - specificly not wanting to include cfp in magazine due to time pressure and print window
+  - how about a flyer that is mostly about seagl, with just a small bit for cfp
+    - tilting towards remote speakers may not be a problem, can reject
+- all promo tasks have been added to vikunja
+- [ ] add print magazine dates to gantt chart (salt)
+- would be cool to have blog post that highlights FLOSS tools we use in our tech stack
+- we are tabling at lfnw in two weeks
+  - salt and andrew aren't arriving until saturday morning
+  - tree will be taking up the tabling bag
+- Would be good to post about keynote nominations ever month
+  - some months more actively than others but make it year round effort
 
 #### Programming & Flow
+- dawn setup pretalx, launch date of april 24
+- dina drafted blog post to announce cfp and increase keynote nominations
+  - push social media about keynote nominations
+    - maybe promote nomations "for a specific year"
+    - how do I find out if someone is speaking?
+      - join the mailing list
+  - after april 26, compile suggestions, release voting on april 27, aim to have votes in by that wednesday meeting
+  - print qr code to keynote nomination (salt)
+- dawn drafting blog post for cfp launch
+- contacted angel about title length stuff
+  - haven't heard back
+  - dina will go through previous year and take an average to find max length
 
-#### Promotion & Outreach
+#### DevOps
+- few updates, had to cancel monday's meeting
+- will definitely be meeting next monday at 8
+- fixed github permissions
+  - had a bunch of outdated teams that weren't maintained or being used
+  - had a bunch of people on staff team but haven't been active in a long time
+  - deleted all teams except for staff, pulled inactive members out
+  - helps to lock down github permissions, for instance pushing directly to repositories
+  - did give active staff some additional powers (e.g., adding tags)
+- testing 2026 cfp email address
+
+#### Partnerships
+- we can haz one paid sponsor!
+- kim debugged the email script
+- salt went through the spreadsheet of contacts and selected first picks
+- emails went out to both new and returning sponsors
+  - included when cfp will launch
+- lfnw speaker may have contact for elastic sponsorship
+- do we have canary emails on distrobution lists?
+  - would be nice to know if emails are going into spam filters
+  - would be nice to test our emails at the beginning of the season
+
+#### AV
+- no updates
+- got tasks more defined in vikunja
+- matt working on IA identifiers
+- sen to review possibly fixable talks
 
 #### Volunteers
+- no major updates
+- upcoming monthly meeting, next tuesday 4/21 @ 5:15
+
+#### Attendee Experience (AX)
+- no updates
+
+#### Finance
+- no updates
+
+#### IDEA
+- no updates
+
+#### Policy & Protocol
+- no updates
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
+
+#### short IDs for talks (AJ)
+- need short identifiers for talks, go into matrix rooms, inernet archive identifiers
+- last year felt uncomfortable editorializing talk titles
+- importance for max length: badge, title slides, social media images, then IA identifier
+- for technical identifier, can populate field in pretalx and ask if they want it changed
+  - less than 80 characters would be good for IA identifiers
+  - having a field that is viewable but not editable may not be supported by pretalx yet
+- aj would like to make it more clear regarding some of the changes we might make
+  - e.g., shorten talk titles, convert to identifiers, etc.
+
+#### All Things Open podcast (AJ)
+
+#### rando PitchBook email
 
 
 ### Open discussion (~5 minute, if time)
@@ -95,6 +167,13 @@ Important updates and things to share staff-wide
 ## Wrap-up
 
 ### 04/15 - New TODOs
+- [ ] add print magazine dates to gantt chart (salt)
+- [ ] push social media about keynote nominations
+- [ ] compile keynote suggestions after april 26
+- [ ] release keynote voting to staff on april 27
+- [ ] print qr code to keynote nomination (salt)
+- [ ] go through previous year and take an average to find max length for cfp text fields (dina)
+- [ ] setup email canary on distrobution lists to use at beginning of season
 
 ### Upcoming blog/social posts
 <!--
@@ -102,12 +181,14 @@ Important updates and things to share staff-wide
 -->
 - [ ] before 4/20: prepare blog post with cfp launch details (dina, dawn)
 - [ ] by 4/24: prepare blog post about us being at lfnw, cfp launch date, keynote nomination (alfredo)
+- [ ] highlight FLOSS tools we use in our tech stack
 
 ### Timeline
 - November 6-7 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, April 15 @ 6pm Pacific Time (2026-04-16 01:00 UTC)
+- Wednesday, April 22 @ 6pm Pacific Time (2026-04-23 01:00 UTC)
+  - salt will almost definitely not be available
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -126,6 +207,13 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
+- AJ: (ran out of power) its nice to see you all
+- dina: looking at character lengths, see you at lfnw
+- sen: always more to do, surprisingly on top of things, av meeting tomorrow at 5pm
+- matt: ragging on matrix
+- alfredo: (had to leave early)
+- sergio: (had to leave early)
+- salt: things actually feel like they are coming together
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
@@ -202,4 +290,3 @@ Copy attendees list from above and format as:
 - [>] refocused
 
 -->
-
