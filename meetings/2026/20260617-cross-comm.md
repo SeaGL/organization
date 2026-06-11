@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, June 10, 2026. 6pm Pacific Time (2026-06-11 01:00 UTC)
+- Wednesday, June 17, 2026. 6pm Pacific Time (2026-06-18 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: alfredo, ryan, sen, matt
-- Apologies: AJ
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -63,67 +63,30 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- no updates
 
 #### AV
-- some progress on 2025 recordings
-- submitted request for recording equiptment
-  - salt sent this off
-- looking for speaker slide upload folder
-  - if we can get these, may be able to reconstitute talks
 
 #### DevOps
-- didn't meet this week
-- sen has been talking to scheduling app developer
-- matt submitted patch for ipv6
-  - waiting on review
 
 #### Finance
-- osi finance committee has been notified about date change
-- osi gave advice on how to approach sponsor about date change
-- salt reached out to fiscal sponsor about date change
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- no updates
-- need to send out date change/cfp notifications
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- working on keynote invitations
 
 #### Promotion & Outreach
-- updated date on https://github.com/EverythingOpenSource/open-source-events
-- submitted to https://dev.events/NA/US
-  - we were added
-- osi updated their events listing with our date
-- sen is working on update of magazine ads
-- got shout out on mastodon about our ad
-- need to send ad with new date
-- updated profile pictures with new pride Patch
-- need to make linkedin event
-- need to send podcasts new dates (sen)
-- respond to algoarena email (salt)
 
 #### Volunteers
-- sent good luck message to huskyfoss
-- printed fliers and handed to huskyfoss member
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### scheduling app (sen)
-- dev was asking final track names and colors
-  - in pretalx
-  - do we expect to change over next months?
-  - 12 tracks including keynote
-  - freeze to get info to developer is 1 month before event
 
 
 ### Open discussion (~5 minute, if time)
@@ -131,7 +94,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 06/10 - New TODOs
+### 06/17 - New TODOs
 
 
 ### Upcoming blog/social posts
@@ -144,7 +107,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, June 17 @ 6pm Pacific Time (2026-06-18 01:00 UTC)
+- Wednesday, June 24 @ 6pm Pacific Time (2026-06-25 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -157,18 +120,13 @@ Important updates and things to share staff-wide
 - Programming & Flow: 
 - Promotion & Outreach: Mondays @ 6pm Pacific Time (Tuesdays @ 01:00 UTC)
 - Volunteers: 3rd Tuesdays @ 5:15pm Pacific Time (3rd Wednesdays @ 00:15 UTC)
-  - salt can't make next week
 
 ### Sign-off round (what's next, appreciations, suggestions)
 <!--
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- alfredo: good to have a quick meeting, will make sure linux magazine gets updated information, but sen is doing all of the work, good to see everyone
-- matt: next up is postering this weekend, appreciate help with things
-- ryan: appreciate being welcomed to seeing how seagl comes together, will attend and help if have bandwidth
-- sen: have five ?? sitting on desk, about to fight with audacity
-- salt: appreciate short meeting, appreciate y'all
+
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
 
