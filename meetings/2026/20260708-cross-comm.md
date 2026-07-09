@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, June 17, 2026. 6pm Pacific Time (2026-06-18 01:00 UTC)
+- Wednesday, July 8, 2026. 6pm Pacific Time (2026-07-09 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: salt, matt
-- Apologies: aj, alfredo
+- Attendees: 
+- Apologies: 
 - Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -79,7 +79,6 @@ Important updates and things to share staff-wide
 #### Programming & Flow
 
 #### Promotion & Outreach
-- need new poster design for post-cfp
 
 #### Volunteers
 
@@ -95,7 +94,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 06/17 - New TODOs
+### 07/08 - New TODOs
 
 
 ### Upcoming blog/social posts
@@ -108,7 +107,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, June 24 @ 6pm Pacific Time (2026-06-25 01:00 UTC)
+- Wednesday, July 15 @ 6pm Pacific Time (2026-07-16 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 

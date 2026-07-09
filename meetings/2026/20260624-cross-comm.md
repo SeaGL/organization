@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, June 17, 2026. 6pm Pacific Time (2026-06-18 01:00 UTC)
+- Wednesday, June 24, 2026. 6pm Pacific Time (2026-06-25 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,10 +19,10 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: salt, matt
-- Apologies: aj, alfredo
-- Facilitator: 
-- Note Taker(s): 
+- Attendees: alfredo, kim, aj, sen
+- Apologies: salt
+- Facilitator: sen
+- Note Taker(s): various
 - Note Taker(s) for next time: 
 
 ## Breath of silence (get into the SeaGL headspace)
@@ -65,8 +65,15 @@ Important updates and things to share staff-wide
 #### Attendee Experience (AX)
 
 #### AV
+- sen is going to start talk uploads on thusday
+- also figured out how to disable HDCP enforcement on our HDMI capture cards
+  - no more HDMI strippers!
 
 #### DevOps
+- we have lost uploaded slides from Nextcloud.
+  - AJ to check if they're still on disk on the conference laptop he has.
+- so proposal for confereance app is paid, approx 900 euro
+  - general consensus is that we do not have the budget for this
 
 #### Finance
 
@@ -80,6 +87,8 @@ Important updates and things to share staff-wide
 
 #### Promotion & Outreach
 - need new poster design for post-cfp
+- linux mag has recieved our updated Ad
+  - has also updated their event table accordingly
 
 #### Volunteers
 
@@ -89,13 +98,35 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
+#### donate button
+- [long discussion]
+- our donate button is not nearly visible enough on seagl.org. lots of stuff we can do here immediately
+  - replace CfP in the header bar with donate maybe
+    - (normally it's Volunteers)?
+    - but then it kinda blends into the header bar
+      - we want it to stand out more, like a banner button maybe.
+  - we could replace "Get Involved" in the top of page banner maybe?
+- general consensus is to make these changes now, and around conference time, do an actual drive with a goal to hit, and display progress towards that goal on the website.
+  - lots of German confs do this, seemingly successfully.
+  - this makes our problems concrete to people instead of abstract and gives Salt ammunition when he tells people at conf closing that we need financial help.
+  - we THINK maybe don't do this *now*, even though that seems like a decent option, because it feels a little weird to be fundraising now for "next cycle".
+- we think Salt will have lots of opinions on all this stuff, especially the immediate website changes.
+
+#### our venue signing email is overdue
+- they are threatening to cancel, seemingly?
+  - according to Husky FOSS?
+- can someone get in touch with Salt?
+  - AJ is messaging Salt Everywhere(tm)
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 06/17 - New TODOs
+### 06/24 - New TODOs
+- [ ] check if conference laptop has presentation slides (AJ)
+- [ ] figure out how to emphasize donation need on website
+- [ ] get ahold of salt for overdue uw contract (AJ)
 
 
 ### Upcoming blog/social posts
@@ -108,7 +139,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, June 24 @ 6pm Pacific Time (2026-06-25 01:00 UTC)
+- Wednesday, July 1 @ 6pm Pacific Time (2026-07-02 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 

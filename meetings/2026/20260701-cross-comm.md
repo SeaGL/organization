@@ -19,8 +19,8 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: salt, matt
-- Apologies: aj, alfredo
+- Attendees: (async over matrix) sen, Salt, AJ, Dawn, mattb
+- Apologies: 
 - Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
@@ -63,23 +63,39 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
+- Working on HUB contract.
 
 #### AV
+- busy uploading talks.
+  - I'm hoping to get day one of room 145 up on PT tonight
 
 #### DevOps
+- just about ready to transfer folks' Google Takeout archives to nextcloud to review before we delete Google Accounts.
+  - getting feedback on the process from Andrew
+  - if anyone else wants to guinea pig let me know
+- done a bunch of work on the volunteer onboarding process
+  - and probably am going to roll out single sign on to all our stuff soon!
+- fyi Pretalx experienced an unexpected outage this morning, at 3:09 AM PT.
+  - that didn't overlap with the CfP closing hopefully...?
 
 #### Finance
 
 #### IDEA
 
 #### Partnerships
+- Any updates?
 
 #### Policy & Protocol
 
 #### Programming & Flow
+- CFP is closed and numbers can be pulled.
+- Need to get together review process and timeline.
+- Nomad volunteered to review, and has been added to the Pretalx group.
+- Does anyone else on staff want to review for us, before we open it up further?
+  - mattb and Salt volunteer as tribute
 
 #### Promotion & Outreach
-- need new poster design for post-cfp
+- Updates on post-CFP ad and poster?
 
 #### Volunteers
 
@@ -95,8 +111,11 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 06/17 - New TODOs
-
+### 07/01 - New TODOs
+- [ ] continue testing GDrive to Nextcloud file transfer (AJ)
+- [ ] pull CFP numbers
+- [ ] decide on CFP review process and timeline.
+- [ ] add CFP volunteers to Pretalx
 
 ### Upcoming blog/social posts
 <!--
@@ -108,7 +127,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, June 24 @ 6pm Pacific Time (2026-06-25 01:00 UTC)
+- Wednesday, July 8 @ 6pm Pacific Time (2026-07-09 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
