@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, July 8, 2026. 6pm Pacific Time (2026-07-09 01:00 UTC)
+- Wednesday, July 15, 2026. 6pm Pacific Time (2026-07-16 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: alfredo, aj, sen, matt
+- Attendees: 
 - Apologies: 
-- Facilitator: salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -63,61 +63,24 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- UW contract signed
-  - changes need to be made by 9/11
 
 #### AV
-- pushing things to peertube
-  - more forgiving than IA
-  - gave salt and alfredo access for q/a
-- embedding info in videos
-  - let's avoid speaker name
 
 #### DevOps
-- as of today, doing pretalx maintenance
-  - was waiting for cfp to be closed
-- started transfering google drive archives to people
-  - biggest blocker for de-googling
-- lots of work on SSO (authentik)
-  - probably ready to onboard people
-  - will make things more seamless between services
-  - will be ready soon^tm
 
 #### Finance
-- we got money from a sponsor
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- met async
-  - kim working on uw contacts
-  - salt following up with anticipated sponsors
-- waiting on keynote names before next big push
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- working on getting out email to cfp reviewers
-- 2? keynotes confirmed
-  - moving down list soon
-- cfp stats
-  - 52 presenters, 70 proposals
-  - 6 presenters for live-remote
 
 #### Promotion & Outreach
-- cfp closed, tasks in vikunja
-- next poster usually contains keynote speakers
-  - sergio wants to get version ready with space once we have names
-- alfredo traveling next week through last week of august
-  - reachable through matrix, but in different timezone
 
 #### Volunteers
-- toorcamp took longer than expected
-  - but now back at it
-- looking forward to finding other student groups and interest groups
-  - places to advertise to and ask for at-conference volunteers
 
 
 ### New Items
@@ -125,38 +88,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### pretalx/vikunja upgrades (aj)
-- both require maintenance
-- pretalx was supposed to be updated pre-cfp
-  - had to backport security fix
-  - there are now more security fixes
-  - really need to just upgrade
-- when should we upgrade pretalx?
-  - would be nice before cfp review is started
-    - currently only dawn and salt have accepted invites
-    - dawn is sending out email with reviewer instructions soon
-      - [ ] give dawn blurb about what to expect for upgrade downtime to add to email (aj)
-    - aj does not know when they'll be able to get to this upgrade
-      - some parts of this can be parallelized
-        - [x] write-up general outline of steps needed (aj)
-        - [x] ask devops team for volunteer (ask andrew directly?) to begin upgrade
-- sen mentioned that we should bump file size upload limit to encourage speaker to use function
-  - https://github.com/pretalx/pretalx/blob/main/doc/administrator/configure.rst#the-files-section
-  - filed https://vikunja.seagl.org/tasks/426
-- when folks are onboarded to authentik will want to integrate vikunja
-  - part of onboarding process/flow
-  - click on vikunja in onboarding view
-- at some point may need to monkey with vikunja to get authentik integration working
-  - is there a least disruptive way to do this?
-    - try to post in staff rooms with ~30 minutes notice before doing
-
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 07/08 - New TODOs
+### 07/15 - New TODOs
 
 
 ### Upcoming blog/social posts
@@ -169,7 +107,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, July 15 @ 6pm Pacific Time (2026-07-16 01:00 UTC)
+- Wednesday, July 22 @ 6pm Pacific Time (2026-07-23 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
