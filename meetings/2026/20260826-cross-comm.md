@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, August 12, 2026. 6pm Pacific Time (2026-08-13 01:00 UTC)
+- Wednesday, August 26, 2026. 6pm Pacific Time (2026-08-27 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: sen, AJ, Salt
-- Apologies: matt
-- Facilitator: salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -65,11 +65,8 @@ Important updates and things to share staff-wide
 #### Attendee Experience (AX)
 
 #### AV
-- none since putting some unlisted talks on PT approximately 2 weeks ago, as I have been slammed with FOSSY prep
 
 #### DevOps
-- no huge updates, have been improving workflows (esp for all-hands)
-- working on archiving old conference spaces
 
 #### Finance
 
@@ -80,14 +77,10 @@ Important updates and things to share staff-wide
 #### Policy & Protocol
 
 #### Programming & Flow
-- Will be meeting on August 24th to decide on cfp acceptances
-- Two more keynotes appear to have accepted!
 
 #### Promotion & Outreach
-- Reconnaissance Unit updates: Attended FOSSY, will deliver report during today's meeting.
 
 #### Volunteers
-- the committee is in Iceland, so no business has been conducted. No blockers, no decisions. Upcoming work includes promo outreach for day-of volunteers and defining their roles. (I will not be attending this week)
 
 
 ### New Items
@@ -95,32 +88,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### FOSSY reportback (sen)
-- sen volunteered to grab lfnw table stuff
-- lfnw was next to vanlug (lovely people)
-- romeo delivered seagl fliers to corner table
-  - combined them onto the lfnw table
-- boothed first couple of days
-  - lfnw people also told people about seagl
-  - date change was made explicitly
-- almalinux showed up and took our unused table
-  - mentioned date change
-  - still may not be able to table
-- got to speak with karen about move to BC
-  - people came from UK
-  - when fossy was in US, seems part of the same US circuit, maybe separate market now
-- romeo gave a good talk
-- fossy didn't have a CfP question about whether the talk had previously been presented
-- most seagl fliers taken
-- 200-400 people
-
 
 ### Open discussion (~5 minute, if time)
 
 
 ## Wrap-up
 
-### 08/12 - New TODOs
+### 08/26 - New TODOs
 
 
 ### Upcoming blog/social posts
@@ -133,7 +107,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, August 19 @ 6pm Pacific Time (2026-08-20 01:00 UTC)
+- Wednesday, September 2 @ 6pm Pacific Time (2026-09-03 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
