@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, August 26, 2026. 6pm Pacific Time (2026-08-27 01:00 UTC)
+- Wednesday, September 16, 2026. 6pm Pacific Time (2026-09-17 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: matt, aj, alfredo
+- Attendees: 
 - Apologies: 
-- Facilitator: Salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -65,10 +65,8 @@ Important updates and things to share staff-wide
 #### Attendee Experience (AX)
 
 #### AV
-- got the first talk up on IA a few days ago, should have more up on Thursday.
 
 #### DevOps
-- no updates from DevOps, since we did not meet this past Monday
 
 #### Finance
 
@@ -79,24 +77,10 @@ Important updates and things to share staff-wide
 #### Policy & Protocol
 
 #### Programming & Flow
-- met on monday to decide approvals/rejections
-  - looks like we will likely have 3 rooms for each day
-- have all four keynotes confirmed!
-  - Bradley Kuhn
-  - Luis Felipe Rosado Murillo
-  - Mariatta Wijaya
-  - Toby Betts
 
 #### Promotion & Outreach
-- reverted back our social avatar to this year theme one.
-- haven't looked at vikunja yet but perhaps today we can create new items
 
 #### Volunteers
-- collected some info on a volunteer role from Sen w/r/t snack/beverage service.
-- One response from prior volunteer form submissions.
-- may send a reminder email today that weekly cross comms is happening.
-- No blockers.
-- Still looking for assistance from Promo & Outreach re: social media posts soliciting volunteers
 
 
 ### New Items
@@ -104,35 +88,8 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### volunteer social outreach
-- do we have a list of particular requests?
-- matt putting together a list of specifics
-  - will become pre-scripted handouts for day-of volunteering
-- right now looking for social media post for before/at to direct them to all-hands meeting
-  - would be nice if people showed up beforehand to meetings
-  - can't rely on day-of for pre-conference load-in
-- how many staff do we plan on having at conference?
-  - how many do we need for setup?
-  - AJ can only make friday
-
-#### program release
-- usually october 1 but since conference is earlier, by ??
-- usually month before so that social posts can go out
-- we need venue capacity by 9/11, but social would like schedule by 9/15 or 9/22 latest
-- what is the plan for speakers not committing before 9/11?
-  - should probably air on the side of cutting rooms due to budget constraints
-  - dropping below three rooms may mean not enough space for attendees
-  - potentially lyceum and one other room?
-  - not available this year
-  - would cut stairs if we had first floor and lyceum
-
-#### start thinking of year 15 themes
-- would be nice to announce at seagl
-
 
 ### Open discussion (~5 minute, if time)
-- [the gang spends 5 minutes finding out that Jitsi does bonkers gif reactions now]
-- [additional assorted memery]
 
 
 ## Wrap-up
@@ -150,8 +107,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, September 2 @ 6pm Pacific Time (2026-09-03 01:00 UTC)
-  - salt probably won't be available
+- Wednesday, September 23 @ 6pm Pacific Time (2026-09-24 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 

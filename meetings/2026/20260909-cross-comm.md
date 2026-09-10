@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, August 26, 2026. 6pm Pacific Time (2026-08-27 01:00 UTC)
+- Wednesday, September 9, 2026. 6pm Pacific Time (2026-09-10 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,7 +19,7 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: matt, aj, alfredo
+- Attendees: Sen, Matt, AJ, Alfredo
 - Apologies: 
 - Facilitator: Salt
 - Note Taker(s): 
@@ -63,40 +63,55 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
+- Bunn OHW has been tested and works!
+  - With the addition of a Bain marie cover and metal tea pot one can create a rather brutalist Samovar type situation, which could be a fun thing for TeaGL.
+  - Ideally the Bunn OHW can live on the snack table table, but if there isn't enough power, it can live in the prep kitchen and be used to fill airpots with hot water.
+- Chance has agreed to help with TeaGL/snack table. no other updates.
+- Do we want to use same three rooms for each day or swap one for the first floor on saturday?
+  - sounds like same three is preferable
+- is there a keynote specific room?
+  - sort of, but not as clearly defined as previous years
 
 #### AV
-- got the first talk up on IA a few days ago, should have more up on Thursday.
+- More talks are being uploaded, no other updates.
 
 #### DevOps
-- no updates from DevOps, since we did not meet this past Monday
+- shipped some fixes for some lingering mail-related issues caused by our Google migration.
+  - a few people lost a few emails, but no one lost mail that didn't also go to a group and get archived.
+  - Salt is the only one left not on Mailu...
+- the 3 week clock continues! 🤑
+- AJ also started looking at some ship-for-conference stuff last night (getting his local environment up-to-date, etc.) but have no real progress to report.
+- AJ doesn't know of any other progress on DevOps stuff.
 
 #### Finance
+- no one other than Salt atm.
+  - sorry about that.
+- if someone else would like to sit on Finance... you're welcome to.
+- just to be a check if Finance stuff comes in
+- we meet with OSI once every other week, give or take
 
 #### IDEA
+- no updates. don't have the bandwidth... hate that.
 
 #### Partnerships
+- [discussion of coordinating with a sponsor]
+- [discussion of another round of sponsorship requests]
 
 #### Policy & Protocol
 
 #### Programming & Flow
-- met on monday to decide approvals/rejections
-  - looks like we will likely have 3 rooms for each day
-- have all four keynotes confirmed!
-  - Bradley Kuhn
-  - Luis Felipe Rosado Murillo
-  - Mariatta Wijaya
-  - Toby Betts
+- More than half of our speakers have confirmed, which means that we have enough information to finalise rooms by tomorrow's deadline.
+- Dawn going to send out reminders later this week, and start working on the schedule this weekend.
 
 #### Promotion & Outreach
-- reverted back our social avatar to this year theme one.
-- haven't looked at vikunja yet but perhaps today we can create new items
+- Volunteer poster was uploaded to matrix chat, should get pushed up to GH at some point. no other updates.
+- social media post about acceptances went out
+- still need to figure out volunteer social posts
 
 #### Volunteers
-- collected some info on a volunteer role from Sen w/r/t snack/beverage service.
-- One response from prior volunteer form submissions.
-- may send a reminder email today that weekly cross comms is happening.
-- No blockers.
-- Still looking for assistance from Promo & Outreach re: social media posts soliciting volunteers
+- Matt received detailed instructions for coffee service equipment handling procedures and will be incorporating that into the volunteer handbook.
+- No Blockers.
+- Ask to Promo & Outreach for social media posts soliciting volunteers to join Wednesday cross-comms, or email him if they don't want to join jitsi.
 
 
 ### New Items
@@ -104,40 +119,13 @@ Important updates and things to share staff-wide
 #### Item Subject (item facilitator)
 -->
 
-#### volunteer social outreach
-- do we have a list of particular requests?
-- matt putting together a list of specifics
-  - will become pre-scripted handouts for day-of volunteering
-- right now looking for social media post for before/at to direct them to all-hands meeting
-  - would be nice if people showed up beforehand to meetings
-  - can't rely on day-of for pre-conference load-in
-- how many staff do we plan on having at conference?
-  - how many do we need for setup?
-  - AJ can only make friday
-
-#### program release
-- usually october 1 but since conference is earlier, by ??
-- usually month before so that social posts can go out
-- we need venue capacity by 9/11, but social would like schedule by 9/15 or 9/22 latest
-- what is the plan for speakers not committing before 9/11?
-  - should probably air on the side of cutting rooms due to budget constraints
-  - dropping below three rooms may mean not enough space for attendees
-  - potentially lyceum and one other room?
-  - not available this year
-  - would cut stairs if we had first floor and lyceum
-
-#### start thinking of year 15 themes
-- would be nice to announce at seagl
-
 
 ### Open discussion (~5 minute, if time)
-- [the gang spends 5 minutes finding out that Jitsi does bonkers gif reactions now]
-- [additional assorted memery]
 
 
 ## Wrap-up
 
-### 08/26 - New TODOs
+### 09/09 - New TODOs
 
 
 ### Upcoming blog/social posts
@@ -150,8 +138,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, September 2 @ 6pm Pacific Time (2026-09-03 01:00 UTC)
-  - salt probably won't be available
+- Wednesday, September 16 @ 6pm Pacific Time (2026-09-17 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
