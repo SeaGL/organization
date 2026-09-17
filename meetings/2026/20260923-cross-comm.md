@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, September 16, 2026. 6pm Pacific Time (2026-09-17 01:00 UTC)
+- Wednesday, September 23, 2026. 6pm Pacific Time (2026-09-24 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Alfredo, sen, matt, AJ
+- Attendees: 
 - Apologies: 
-- Facilitator: Salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -63,59 +63,30 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- bad news, after reviewing WA state law and UW rules, it really looks like we cannot practically offer bulk dispensed liquid creamers at SeaGL. Powdered creamers and individual shelf stable liquid creamers are ok tho.
-- venue deposit made, room access times submitted
-  - three rooms, 15 minute window after talks finish to strip down
-  - we will need to stack/unstack chairs
-- reserved big time for saturday night
 
 #### AV
-- I continue to upload talks, also I moved some things around and am now able to capture the streaming laptop webcams 1440p instead of 1080p so that's nice. updated to a new version of mediamtx which supports stream forwarding (i.e. direct broadcast to a rtmp url). this works extremely well and reduces some overhead, hooray!🎉
 
 #### DevOps
-- not a ton of progress but have been coordinating with Sen about AV stuff, things we need from UW, etc.
-- also some minor updates to services we host.
 
 #### Finance
-- some small updates to donations page, more coming
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- one more paying sponsor confirmed
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- we have an initial schedule ready for review but not yet release
-- waiting for 7 speakers to confirm
-- blog post about speaker acceptances and keynote selection needs to get reviewed/merged
-- promo & outreach would like eta for schedule
 
 #### Promotion & Outreach
-- no updates
-- will review keynote blog post
-  - target release on friday
 
 #### Volunteers
-- We should be having a new volunteer joining us tonight. That's essentially the update. We'll onboard them and report back next week for any issues
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### What does the HUB need
-- discussion of list we gave last year
-
-#### OSI endowment?
-- could we have a separate fund opened, put some percentage towards this year, some towards future year
-
-#### discussion about hub food prep rules
-- https://www.ehs.washington.edu/workplace/food-safety/food-permits-events
-- https://www.ehs.washington.edu/system/files/resources/food-safety-exempt.pdf
 
 
 ### Open discussion (~5 minute, if time)
@@ -123,7 +94,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 09/16 - New TODOs
+### 09/23 - New TODOs
 
 
 ### Upcoming blog/social posts
@@ -136,7 +107,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, September 23 @ 6pm Pacific Time (2026-09-24 01:00 UTC)
+- Wednesday, September 30 @ 6pm Pacific Time (2026-10-01 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
