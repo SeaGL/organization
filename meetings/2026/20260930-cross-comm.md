@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, September 23, 2026. 6pm Pacific Time (2026-09-24 01:00 UTC)
+- Wednesday, September 30, 2026. 6pm Pacific Time (2026-10-01 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: sen, alfredo, matt, aj
+- Attendees: 
 - Apologies: 
-- Facilitator: salt
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -63,84 +63,24 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- ordered a Service Ideas Roto-Rack® Airpot Rack
-  - serves as a lazy susan airpot rack AND coffee condiment holder
-- UW inventory list has been updated
-- bunch of stuff due to UW today
-- big time has been reserved for saturday
-- officially not supporting organized friday social
-- doing coffee in-house
-- sandwich board signs need to be printed
-- speaker gifts are hopefully going to arrive in time
-  - if they can't, ???
-  - would have to ship to speakers who traveled
-  - may have insider discount for shipping
-- salt will design the badge-booklet unless someone really wants to
-  - needs all print design assets by 10/12
-- salt would like a job seeking/hiring board
 
 #### AV
-- 2025 talk uploads continue, almost done with the r2s (ready to ship) talks from day 1
-- DipperOS (laptop OS): moving to jack audio subsystem
-  - should fix audio drift/improve latency/add easy failover functionality
-- we will be testing at the HUB on Tuesday 10/20 and Thursday 10/22, 1-3pm
 
 #### DevOps
-- draft matrix space is available
-  - still need schedule for full testing
-  - plan on launching monday the week-of or one week before
-  - this should enable some social media pushing
-- cut $500/yr by deleting google accounts
 
 #### Finance
-- no updates
-- see whether we can use a square reader
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- got money from new non-exhibiting sponsor
-- have interest from a new bronze sponsor
-- reminded returning silver sponsor that we're still waiting
-- updated cold-call email template for released keynotes w/o schedule
-  - https://github.com/SeaGL/templated_emails/blob/main/email_templates/after_cfp/month_before_reminder_template.html
-- kim is sending emails out
-- anyone who has better contacts is encouraged to reach out
-- need to draft attending-sponsor email with details
 
 #### Policy & Protocol
-- coc email has been moved to mailu
-- how are we on masks? some rooms will have required windows
-  - need to check inventory and probably purchase
 
 #### Programming & Flow
-- almost all speakers have confirmed
-  - why don't we ask speakers for their Matrix?
-- we need all of the keynote abstracts ASAP
-  - they display as featured in pretalx until the program goes live
-- we need to decide on what sort of post-closing keynote social programming we'll have in 250
 
 #### Promotion & Outreach
-- published keynote speaker post
-- also sent email to announce list
-- waiting on schedule to queue up social posts
-- need updated poster with keynotes
-  - sergio is looking into this
-  - latest ETA by next wednesday for distribution
-- website fliers page has been updated with most-current posters
-  - https://seagl.org/fliers/2026/
-  - would be nice to have preview image on this page
 
 #### Volunteers
-- Nico has joined us as a new volunteer and their onboarding is now in progress.
-  - may not be able to make wednesday meetings
-- Since last week we got two volunteer form submissions.
-  - Replies are out to both individuals and I'm watching for any responses.
-- Salt sent list of emails from people who registered previously and wanted to volunteer
-- We seem to be short on total number, the push continues
-- linnea giving soft no about running teagl, needs a new volunteer
-- chance is open to helping with general craft services/OCS, snack+drink area
 
 
 ### New Items
@@ -154,22 +94,7 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 09/23 - New TODOs
-- [ ] send a bunch of stuff to UW (salt)
-- [ ] print new sandwhich board signs (sen)
-- [ ] remind everyone that print assets need to be submitted by 10/12 (salt)
-- [ ] create a job seeking/hiring board (??)
-- [ ] ask osi about hooking up a square reader (salt)
-- [ ] contact potential sponsors with month-of details (everyone)
-  - https://github.com/SeaGL/templated_emails/blob/main/email_templates/after_cfp/month_before_reminder_template.html
-- [ ] draft attending sponsors details email (partnerships)
-- [ ] inventory masks (matt)
-- [ ] figure out how many rooms/hours we have that are "mask required" (programming)
-- [ ] get keynote abstracts updated/generated ASAP (programming)
-- [ ] decide on post-closing keynote, pre-big time social activity (programming)
-- [ ] update poster with keynote speakers (sergio)
-- [ ] add preview images to fliers page (??)
-- [ ] finish onboarding Nico (matt, aj)
+### 09/30 - New TODOs
 
 
 ### Upcoming blog/social posts
@@ -182,7 +107,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, September 30 @ 6pm Pacific Time (2026-10-01 01:00 UTC)
+- Wednesday, October 7 @ 6pm Pacific Time (2026-10-08 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -202,11 +127,6 @@ Copy attendees list from above and format as:
 - NAME: sign-off
 -->
 
-- sen: shockingly, feeling pretty good about trajectory, hopefully confidence not misplaced
-- alfredo: bit nervious at a month out, starting to cut things close, hopefully not major derailments
-- matt: remember this time last year, things that we didn't leave too late, we now know about, but maybe there are new/exciting failure modes
-- aj: feel mix of we're doing fine, very tired look forward to bed, was up late last night testing coc email
-- salt: 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
 
