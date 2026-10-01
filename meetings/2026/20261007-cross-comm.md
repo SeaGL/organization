@@ -2,7 +2,7 @@
 <!-- REMINDER: Meeting notes are public _by default_. Please err on the side of not including personal info or sensitive topics, including any mention of health or childcare issues, job searches that are underway, contacts for fundraising, etc. -->
 
 # SeaGL 2026 Organizing Cross-Committee
-- Wednesday, September 30, 2026. 6pm Pacific Time (2026-10-01 01:00 UTC)
+- Wednesday, October 7, 2026. 6pm Pacific Time (2026-10-08 01:00 UTC)
 - [Shared Pad](https://pad.riseup.net/p/SeaGL_2026_organizing)
 - [Jitsi URL](https://meet.jit.si/SeaGL_2026_organizing)
 - [Previous meeting minutes](https://github.com/SeaGL/organization/tree/main/meetings/2026)
@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: Matt, Sergio, Nico, Alfredo
-- Apologies: AJ, sen
-- Facilitator: Salt
+- Attendees: 
+- Apologies: 
+- Facilitator: 
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -63,99 +63,30 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
-- Airpot organizer/lazy Susan arrived.
-  - It's a big boi, (approx 2ft in diameter) but it also holds all the coffee condiments.
-  - Shared picture in Matrix with some example airports as well at the cambro cold crock full of creamers
-    - (should keep the creamers cold for several hours, not that this is necessary, but it is nice)
-  - Also in the background is the powered oat creamer. I tried it, its p nice in coffee.
-- Additionally the new outdoor signs arrived.
-  - I have not opened the box yet but will inspect them later tonight
 
 #### AV
-- demoed DipperOS on call earlier this week.
-- No AV desync issues now that we are running jack,
-  - however I noticed some occasional audio glitches
-  - (nothing world ending, but certainly annoying).
-- going to move to a full RT kernel which should fix things
-  - (I thought I was already running one, but apparently not)
 
 #### DevOps
-- ephemeral homeserver stuff is progressing.
-- lots of version bumps/updates/etc. for misc. stuff we need.
-- coordinating with Sen to get streaming things set up.
-- Salt is working with OSI to get a realtime donation widget to put on the website.
-- generally, things are on track.
-- waiting on the schedule to be finalized and then we can put a draft Matrix space up.
 
 #### Finance
-- osi confirmed we can use the donation widget, just need to get them some info
-- one sponsor payment came through
-- probably can't do an at-event card reader this year
-  - osi has concerns related to it not gathering enough info for a thank you receipt
-  - we are pushing back, asking for an anonymous method of donations
-- discussed endowment stuff, they suggest against
-  - would lock up potentially needed funds
-  - would need sizable amount before being useful
-- discussed investment stuff
-  - currently not earning interest
-  - osi can setup special investment account
-  - currently don't have way for people to donate stock as an investment vehicle, but could
-- will discuss amount to target for funding widget below
 
 #### IDEA
-- no updates
 
 #### Partnerships
-- Schedules Direct is coming back as a silver sponsor!
-- next round of emails requesting sponsorship is going out soon
 
 #### Policy & Protocol
-- no updates
 
 #### Programming & Flow
-- Schedule is out as of today
-  - https://seagl.org/schedule
-- Emails to keynotes will go out today
 
 #### Promotion & Outreach
-- Sergio did initial concept of keynote poster
-  - needs photos of keynote speakers
-- relatively easy to cut over from one poster to next
-  - can change if new poster becomes available
-- now that schedule is out, will generate social posts promoting talks
 
 #### Volunteers
-- retrieved emails from people who previously said interest
-  - merging, minus people who have already volunteered
-- will be sending list of volunteer opportunities
-- will add canary addresses to make sure our mails are being received
-- welcome nico
-  - need to finish onboarding so you have access to stuff
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### Funding Widget (Salt)
-- https://beta.docs.civicrm.org/user/contributions/widgets
-- what do we want in the description text?
-  - "Help keep SeaGL soaring for this year and the next."
-  - should we explicitly say that this number includes sponsors?
-- what goal do we want to set?
-  - seagl needs ~35k per year, 42k is a fun number
-  - are these too high and will maybe scare people off?
-  - can we have fiscal sponsor donations add to the total
-- rough math says we have ~20k right now
-  - if we set it at 35k, that's ~57%
-  - if 25k, ~80%
-  - if 30k, ~2/3
-  - most of the way there will help people feel like the can close the gap
-- how late can we make the goal decision?
-  - can we update it once set?
-- could have room proctors say, "in the last hour, we've had XX donated"
-- probably aim for 30k goal this year
-
 #### SeaGL 2027 dates?
 - potential october dates: 8-9, 15-16, 22-23, 29-30
 - potential november dates: 5-6, 12-13, 19-20
@@ -176,8 +107,7 @@ Important updates and things to share staff-wide
   - national poppy day: 11/5 (friday before veterans' day)
   - veterans' day: 11/11
   - thanksgiving: 11/25
-- more thought/discussion for next week
-  - also what theme for year 15?
+- also what theme for year 15?
 
 
 ### Open discussion (~5 minute, if time)
@@ -185,10 +115,8 @@ Important updates and things to share staff-wide
 
 ## Wrap-up
 
-### 09/30 - New TODOs
-- [ ] update osi on widget requests (Salt)
-- [ ] add seagl stuff to calendar
-  - eg tech testing times
+### 10/07 - New TODOs
+
 
 ### Upcoming blog/social posts
 <!--
@@ -200,7 +128,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, October 7 @ 6pm Pacific Time (2026-10-08 01:00 UTC)
+- Wednesday, October 14 @ 6pm Pacific Time (2026-10-15 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
@@ -219,11 +147,6 @@ Important updates and things to share staff-wide
 Copy attendees list from above and format as:
 - NAME: sign-off
 -->
-- Matt: postering the city this weekend, spec looking at ballard, cap hill, uw, s lk union. poster longevity decreased, going to target coffee shops, libraries
-- Sergio: (passed)
-- Nico: happy to help you all, albeit late in the game. will get mic settings working next week
-- Alfredo: can't believe we're 3 weeks out, final push to get things over the line, good to see new volunteers and old ones returning
-- Salt: 
 
 
 ### Check that everyone is connected to everything (Calendar, Mailinglist, Matrix, Nextcloud, GitHub, Vikunja)
