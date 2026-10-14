@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: 
-- Apologies: 
-- Facilitator: 
+- Attendees: matt, sen, alfredo, sergio
+- Apologies: AJ
+- Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -63,24 +63,49 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
+- vinyl labels added to airpots (and other things) with modified cricut expression
+  - the results look great!
+- new signs came in and they look fantastic
 
 #### AV
+- Dipper has a clock (presenter facing) now
+- talk uploads continue.
 
 #### DevOps
+- progress is being made
 
 #### Finance
+- no updates
+- waiting on campaign script
 
 #### IDEA
+- no updates
 
 #### Partnerships
+- we got a new silver and bronze sponsor!
+- non-profits are trickling in
 
 #### Policy & Protocol
+- no updates
 
 #### Programming & Flow
+- no updates
+- need things locked down by 10/12
 
 #### Promotion & Outreach
+- scheduled talk posts are trickling out
+- getting good visibility
+- mastodon is surpassing X followers
+  - X interactions are all bots
+- always open to having more volunteers posting
 
 #### Volunteers
+- lots of activity since last week
+- did a bunch of postering in ballard and s lk union and interbay makerspace
+- out of time flyering, so if anyone wants to take more on, please do
+- may get some next week
+- nico finished onboarding form, expressed interest in graphic design
+  - maybe starting on next year's theme
 
 
 ### New Items
@@ -95,6 +120,7 @@ Important updates and things to share staff-wide
   - kubecon: 11/8-11
   - olf: (11/20-21, 2026)
   - pybay: (10/3, 2026)
+  - linux plumbers: (10/5-7, 2026)
   - bsides pdx: (10/23-24, 2026)
   - texas linux fest: (11/6-7, 2026)
 - holiday conflicts?
@@ -107,7 +133,43 @@ Important updates and things to share staff-wide
   - national poppy day: 11/5 (friday before veterans' day)
   - veterans' day: 11/11
   - thanksgiving: 11/25
+- tradition timeframe 1st/2nd week of november is maybe best
+- will poll people in email
 - also what theme for year 15?
+  - F! SeaGL
+  - 0xF = 15
+  - all bits are set
+  - 1111 a 4-bit nibble
+    - 1000 +    // Free
+    - 0100 +    // Libre
+    - 0010 +    // Open
+    - 0001       // Grassroots?
+    - ------- 1111    // SeaGL 15th
+
+#### badge design
+- <https://github.com/SeaGL/outreach/blob/main/design/program/2025/SeaGL%202025%20Program-Badge%20Booklet.pdf>
+- <https://github.com/SeaGL/outreach/blob/main/design/program/2024/SeaGL%202024%20Program-Badge%20Booklet.pdf>
+- <https://github.com/SeaGL/outreach/blob/main/design/program/2019/SeaGL 2019 program · Print.pdf>
+- grey and white grid with non-regular sized blocks can look a bit busy
+- salt will meet with sergio (and maybe nico) to get this started
+- how many to print?
+  - previously 400
+
+#### blurb for devitjobs
+- 200 character is for the calendar description,
+- 400-600 character is for their social media stuff
+- matt to do this on plane tomorrow
+
+#### lfnw org meeting
+- lfnw is going to be using matrix after trying various discord clones
+  - interested in learning about our ephemeral server/client
+- going to send contingent of people to seagl, looking for volunteer opportunities
+  - matt needs available times
+- do they want a table?
+  - yes
+
+#### nextcloud permissions
+- need to make sure things that day-of volunteers need are publicly viewable
 
 
 ### Open discussion (~5 minute, if time)
@@ -116,7 +178,9 @@ Important updates and things to share staff-wide
 ## Wrap-up
 
 ### 10/07 - New TODOs
-
+- [ ] send out seagl 15 scheduling poll (salt)
+- [ ] write devitjobs blurb (matt)
+- [ ] make sure there a public nextcloud folder for day-of volunteers
 
 ### Upcoming blog/social posts
 <!--
