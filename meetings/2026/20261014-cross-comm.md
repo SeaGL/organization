@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: 
+- Attendees: Matt, Raymond, Sergio, Alfredo, Nico, AJ
 - Apologies: 
-- Facilitator: 
+- Facilitator: Salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -45,9 +45,9 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [2026 Vikunja Project](https://vikunja.seagl.org/projects/31)
 
 #### last meeting's TODOs
-- [ ] send out seagl 15 scheduling poll (salt)
-- [ ] write devitjobs blurb (matt)
-- [ ] make sure there a public nextcloud folder for day-of volunteers
+- [x] send out seagl 15 scheduling poll (salt)
+- [x] write devitjobs blurb (matt)
+- [x] make sure there a public nextcloud folder for day-of volunteers (matt)
 
 
 ### Committee Updates
@@ -69,24 +69,51 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
+- no updates
 
 #### AV
+- three fully-built kits
+- need to send out remote speaker email
+  - https://vikunja.seagl.org/tasks/482
 
 #### DevOps
+- still on track to launch virtual conference space friday
+  - can do social media blast
+- there was a disruption in outbound email from mailu
+  - resolved and should not happen again
+  - emails delayed monday and tuesday, but don't need to re-send
+  - potentially some inbound email delays, unsure
 
 #### Finance
+- generated osi campaign widget
+- paid final venue bill
 
 #### IDEA
+- no updates
 
 #### Partnerships
+- email about tabling details?
+- need to order new tablecloths for consistent expo hall feel
 
 #### Policy & Protocol
+- no updates
 
 #### Programming & Flow
+- emails with last-minute details for speakers?
 
 #### Promotion & Outreach
+- scheduled social posts still going out
+- program-badge drafted
 
 #### Volunteers
+- We have seen an uptick in volunteer interest form submissions, several referencing posters in SLU and Ballard.
+- Open conversation has been established with two new volunteers.
+- Nico's onboarding is progressing
+  - her accounts are all created.
+- Reached out via SeaGL Matrix, LFNW Discord, and an email blast.
+  - Confirmed email blast was received by gmail users.
+- LFNW is sending 4 volunteers.
+- Sen created an RSVP form for load-in.
 
 
 ### New Items
@@ -95,13 +122,47 @@ Important updates and things to share staff-wide
 -->
 #### Compiling things to print
 - program-badge status?
+- schedule signs
+  - here are last year's, do we want to change anything?
+  - https://github.com/SeaGL/outreach/tree/main/design/posters/Schedule%20Signs/2025
+- looking at TODOs, we want to add room number more prominently, inside/outside door, and near podium/tech setup, also at elevators?
+  - https://cloud.seagl.org/apps/collectives/SeaGL-wiki-1/Signage-44660
+- map?
+  - nice to have laminated version at info desk
+- registration instruction sign
+  - grab badge, decorate, some examples about how to use as self-expression tool
+  - QR code to optional registration
+    - seagl.org/registration
+- social activities signage?
+  - table tents?
+- more arrows
+- Speaker Check-in Checklist
+- Exhibitor Check-in Checklist
+- Volunteer Sign-up
+  - collect name, email, times volunteering, role volunteering
+- Lost and Found list
+  - item description, person submitting, place found, datetime
+- Staff WiFi instructions template
 
 #### In-person cross-comm meeting?
 - next week folks will be in town for SeaGL
+  - reserve devhack space (salt)
+  - https://vikunja.seagl.org/tasks/481
+- there will be tech testing Tuesday and Thursday, 1-3pm on campus
+
+#### Inventory/ordering - https://vikunja.seagl.org/tasks/483
+- what do we have and what do we need?
+- masks? lanyards?
+- when are we moving things to campus?
+  - tuesday or thursday
+  - thursday is kinder to the space we're occupying
+  - move half one day, half other, tech stuff tuesday
+  - (impetus is that we couldn't QUITE fit everything in one car last year)
 
 #### SeaGL 2027 dates?
-- potential october dates: 8-9, 15-16, 22-23, 29-30
-- potential november dates: 5-6, 12-13, 19-20
+- poll: https://bettervoting.com/dcyh3m/
+  - potential october dates: 8-9, 15-16, 22-23, 29-30
+  - potential november dates: 5-6, 12-13, 19-20
 - other event conflicts?
   - ato: 10/17-19
   - kubecon: 11/8-11
@@ -133,6 +194,25 @@ Important updates and things to share staff-wide
     - 0001       // Grassroots?
     - ------- 1111    // SeaGL 15th
 
+#### speaker A/V testing
+- plan is to have a complete room setup at the front desk and speakers can test their display out there.
+- Sen has a mini monitor that can be used.
+- this works ok because the streaming laptop is plugged into the projector, we don't use passthrough
+
+#### speaker info email needs to go out
+- include at least "you will test your laptop display out at the front desk"
+- filed https://vikunja.seagl.org/tasks/482
+
+#### WiFi
+- have sign with wifi that is laminated so we can fill in un/pw
+- have instructions at bottom about how to give out, something like:
+- Don't give this out to regular attendees because we have to follow UW's policies. Only give this network out to:
+  [ ] speakers [x] SeaGL staff [ ] expo hall exhibitors
+- [ ] make ^^^ this instruction sheet
+  - https://vikunja.seagl.org/tasks/479
+- [ ] contact UW to issue a network login for us (Salt)
+  - https://vikunja.seagl.org/tasks/480
+
 
 ### Open discussion (~5 minute, if time)
 
@@ -140,7 +220,25 @@ Important updates and things to share staff-wide
 ## Wrap-up
 
 ### 10/14 - New TODOs
-
+- [ ] send out speaker email
+  - include extra info for remote speakers
+- [ ] send out sponsor email
+- [ ] order new tablecloths (Salt)
+- [ ] update schedule signs
+- [ ] create intro sign, explains badge decorations and registration
+- [ ] create social activities signs?
+- [ ] create reusable wifi sign
+- [ ] create speaker check-in list
+- [ ] create exhibitor check-in list
+- [ ] create volunteer sign-up (matt)
+- [ ] create lost and found list
+- [ ] get things to printer (Salt)
+  - more room schules
+  - more arrows
+- [ ] reserve devhack space (Salt)
+- [ ] figure out what inventory we need to restock
+- [ ] select seagl 2027 dates
+- [ ] select seagl 2027 theme
 
 ### Upcoming blog/social posts
 <!--
@@ -153,7 +251,7 @@ Important updates and things to share staff-wide
 
 ### Next Cross-Committee Meeting
 - Wednesday, October 21 @ 6pm Pacific Time (2026-10-22 01:00 UTC)
-  - in person!?
+  - in person, at /dev/hack
 
 ### Committee Meetings
 - Attendee Experience: 
