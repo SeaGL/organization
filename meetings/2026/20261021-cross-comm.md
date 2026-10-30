@@ -19,9 +19,9 @@
 
 ## Procedural
 ### Check-in round
-- Attendees: 
+- Attendees: alfredo, sen, matt, sergio, nico, aj
 - Apologies: 
-- Facilitator: 
+- Facilitator: salt
 - Note Taker(s): 
 - Note Taker(s) for next time: 
 
@@ -45,23 +45,24 @@ Status updates only. Indicate items for further discussion with `[>]` and copy a
 - [2026 Vikunja Project](https://vikunja.seagl.org/projects/31)
 
 #### last meeting's TODOs
-- [ ] send out speaker email
+- [x] send out speaker email
   - include extra info for remote speakers
-- [ ] send out sponsor email
-- [ ] order new tablecloths (Salt)
-- [ ] update schedule signs
+- [x] send out sponsor email
+- [x] order new tablecloths (Salt)
+- [x] update schedule signs
 - [ ] create intro sign, explains badge decorations and registration
 - [ ] create social activities signs?
 - [ ] create reusable wifi sign
-- [ ] create speaker check-in list
+- [ ] create speaker check-in list (Dina)
 - [ ] create exhibitor check-in list
-- [ ] create volunteer sign-up (matt)
+- [x] create volunteer sign-up (matt)
 - [ ] create lost and found list
-- [ ] get things to printer (Salt)
-  - more room schules
+- [/] get things to printer (Salt)
+  - more room schedules
   - more arrows
-- [ ] reserve devhack space (Salt)
-- [ ] figure out what inventory we need to restock
+- [x] reserve devhack space (Salt)
+- [x] figure out what inventory we need to restock
+  - especially lanyards and masks
 - [ ] select seagl 2027 dates
 - [ ] select seagl 2027 theme
 
@@ -85,39 +86,116 @@ Important updates and things to share staff-wide
 -->
 
 #### Attendee Experience (AX)
+- sen and salt have done a bunch of snack shopping
+- bunch of new air pots (4x 1 gallon pots as well as ?? 3 gallon ones)
+- TeaGL:
+  - just do big batches of oolong one day and then a Russian caravan (smokey thing)
+  - plan to have earl grey in the morning
+  - also have boxed tea and Matt will bring some from his collection
+- we have SO many cups. like 400 cups
+- picking up ground coffee from River Trail roasters
+  - apparently Allegro doesn't do bulk ground coffee
+- [ ] give everyone permissions for the RSVP form for load-in (sen)
+- Big Time is confirmed, told them 70-90 people
+  - this is in the blog post
+- don't have a plan between the keynote but before Big Time
+  - we have the room for an hour
+  - cult.repo does tech documentaries
+    - a Python documentary with Mariatta in it, could be nice to screen (have a link with no ads)
+      - it is 90 minutes. can do this if we don't have a second keynote
+    - also other documentaries on that we could ask for
+      - dunno if we can get them in a few days
+      - KDE documentary came out this week and is an hour
+    - wouldn't be a social energizing thing, would be a movie
+  - could do PGP keysigning again
+    - PGP sucks kinda hard tho, and could be organized more
+- [ ] ask Big Time if it'll be a problem if we move up by an hour (Salt)
+- policy on perv glasses?
+  - staff will monitor with the app
+  - will have a link to the canonical app at the front desk
+    - not proactively offer it up to people really
+    - we don't want to seem like we're having attendees police each other
 
 #### AV
+- hilarity with Ethernet cables...
+  - either zero Ethernet will show up tomorrow, or a dozen
+- had weirdness with capture cards
+  - it's resolved itself mysteriously.
+- Sen panic bought other cheap capture cards
+  - arriving tomorrow
+  - they are returnable
+- gonna try and test everything simultaneously
+- A/V testing tomorrow
+  - no specific plans
+  - just trying to do dual stream to YT/PT
+  - would be good to bring all the setups and cycle through them on the same projector
+- also need to get the rest of load-in done tomorrow
+  - all the food is in the lab already
+  - meet at stroage at 11:00 tomorrow
+    - Nico can provide car
+  - Sen bringing all the A/V stuff and beverage service stuff
+    - Nico will help Sen
+    - Matt will provide car for Public Storage
+- need to do adroll tonight
+  - dump stuff in A/V room
+  - will be a combo of whatever's in there and what's on our website
+- have checked in with all but one remote presenter
+- there's gonna be table space to set up a mock room setup
 
 #### DevOps
+- have been dealing with security stuff
+- last thing to do before conference is jitsi
+- there is a big jumbotron on site saying space is open
+  - bit misaligned on mobile, known issue
+  - feedback/patches welcome
 
 #### Finance
+- no updates
 
 #### IDEA
+- no updates
 
 #### Partnerships
+- did a last minute call to nonprofits and communities
+- have a couple tables still, but filled most
+- if someone knows anyone who's looking, we do have some space
 
 #### Policy & Protocol
+- no updates
 
 #### Programming & Flow
+- we will not have our final keynoter, cancelled
+  - may have alternate speaker
+  - could offer a keynote option but not broadcast
+- will get check-in sheet printed
+- speaker gifts won't arrive
+  - need to collect way they would like to receive it
+  - ask if they'd like it to be a surprise
 
 #### Promotion & Outreach
+- keynoter social posts need to be updated
+  - info was grabbed before it had been fleshed out in pretalx
+- will keep posting about matrix space being open
+- everything else will be live updated
+  - if there are any announcements needed, tag alfredo on matrix
+- salt will push draft version of day-of blog post for review
 
 #### Volunteers
+- Sen's gonna get access to the RSVP form for load-in
+- Salt has an updated blurb for the blog, in the volunteers room
+- one new potential DevOps volunteer for year-round
+- two confirmed in-person volunteers so far
+- volunteer sign-up sheet at the info desk
 
 
 ### New Items
 <!--
 #### Item Subject (item facilitator)
 -->
-#### Compiling things to print
-- program-badge status?
-
-#### In-person cross-comm meeting?
-- next week folks will be in town for SeaGL
-
 #### SeaGL 2027 dates?
-- potential october dates: 8-9, 15-16, 22-23, 29-30
-- potential november dates: 5-6, 12-13, 19-20
+- poll: https://bettervoting.com/dcyh3m/
+  - potential october dates: 8-9, 15-16, 22-23, 29-30
+  - potential november dates: 5-6, 12-13, 19-20
 - other event conflicts?
   - ato: 10/17-19
   - kubecon: 11/8-11
@@ -148,6 +226,12 @@ Important updates and things to share staff-wide
     - 0010 +    // Open
     - 0001       // Grassroots?
     - ------- 1111    // SeaGL 15th
+  - a nibble of free software
+  - OxF for Freedom
+    - hex F for Freedom
+
+#### load-in response form
+- please let us know if you are coming
 
 
 ### Open discussion (~5 minute, if time)
@@ -156,6 +240,12 @@ Important updates and things to share staff-wide
 ## Wrap-up
 
 ### 10/21 - New TODOs
+- [ ] give everyone permissions for the RSVP form for load-in (sen)
+- [ ] ask Big Time if it'll be a problem if we move up by an hour (Salt)
+- [ ] get jitsi up (aj)
+- [ ] print speaker check-in sheet (Dina)
+- [ ] update keynote social posts (Alfredo)
+- [ ] create volunteer sign-up sheet at the info desk (Matt)
 
 
 ### Upcoming blog/social posts
@@ -168,7 +258,7 @@ Important updates and things to share staff-wide
 - October 23-24 (Friday/Saturday): SeaGL 2026
 
 ### Next Cross-Committee Meeting
-- Wednesday, ?? @ 6pm Pacific Time (2026-10-22 01:00 UTC)
+- Wednesday, ?? @ 6pm Pacific Time (2026-11-?? 01:00 UTC)
 
 ### Committee Meetings
 - Attendee Experience: 
